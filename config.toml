@@ -12,8 +12,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Art into Science"
+    subtitle = "Art into Science - A Conference on Defense"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
