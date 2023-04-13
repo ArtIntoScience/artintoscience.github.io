@@ -96,4 +96,5 @@ A total of 0 mentions of the term “cyber” counted in this page above this li
 
 ## Submit CFP
 
-Link for CFP TBD.
+CFP will open July 1, 2023 and close August 18, 2023.
+Link for CFP (future)
