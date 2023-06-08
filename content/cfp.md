@@ -4,7 +4,7 @@ title: "Call for speakers"
 
 
 ## Example Topics of Interest for Submission
-We invite you to participate in Art into Science and submit a talk to one of the two conference tracks.
+We invite you to participate in Art Into Science and submit a talk to one of the two conference tracks.
 
 ### Operations Track:
 
@@ -27,7 +27,7 @@ Topics of interest include:
 
 **Audience**: Please think of the audience as your peers, experts in their field, who have been punching miscreants and building defense systems for at least 15 years. We are looking to see what you do, how you do it, and how others can replicate or further advance your efforts. While new material is preferred, we are very happy to see your implementation, research, investigations, and use cases, even if others have done it before, just please do not give an introductory talk.
 
-### Philosophical/Art into Science Track:
+### Philosophical/Art Into Science Track:
 
 The Philosophy Track for Art Into Science is unlike most other conferences in that there is a high degree of interaction expected among speakers and attendees. In fact, one of the expected outputs are documents with authorship credit that include attendees that contributed during the conference.
 
@@ -84,7 +84,7 @@ Here are some of the convention logistics for giving a talk:
 
 ## Classic Talks 
 
-ACoD will invite select speakers who, in our opinion, gave talks or wrote papers that defined our field, so that we can learn from their experience, as well as record them for posterity. Please submit ideas for who to invite, with contact details, if you have them, to: contact@artintoscience.com.
+ACoD will invite select speakers who, in our opinion, gave talks or wrote papers that defined our field, so that we can learn from their experience, as well as record them for posterity. Please submit ideas for who to invite, with contact details, if you have them, to: [contact@artintoscience.com](mailto:contact@artintoscience.com).
 
 ## Diversity
 
