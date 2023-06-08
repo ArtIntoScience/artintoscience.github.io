@@ -10,6 +10,13 @@ paginate = 5
   fullWidthTheme = false
   centerTheme = false
 
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "ArtIntoScience"
+  site = "ArtIntoScience"
+
 [languages]
   [languages.en]
     title = "Art into Science"

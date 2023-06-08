@@ -3,6 +3,7 @@ title = "ACoD is back!"
 date = "2023-06-08"
 author = "Art Into Science (ACoD)"
 description = "ACoD is back this year - in DC this time!"
+showFullContent = true
 +++
 
 We are thrilled to announce the return of the Art into Science conference (ACoD)! After an impactful previous season, we are back to continue our mission of pushing the art of security into a recognized professional discipline. The conference will be held in Washington D.C. from October 25 to 27, 2023.
@@ -21,7 +22,7 @@ The Call for Papers (CFP) opens on July 1 and closes on August 18, 2023. We stro
 
 Information about ticketing will be available soon.
 
-Not sure if Art into Science is for you? Take a peek at our [Youtube channel](https://www.youtube.com/channel/UCBZP-ZKcqgN4xjj6MfIgbVA) to view presentations from our previous conference or follow us on Twitter to stay updated with the latest news from ACoD.
+Not sure if Art into Science is for you? Take a peek at our [Youtube channel](https://www.youtube.com/channel/UCBZP-ZKcqgN4xjj6MfIgbVA) to view presentations from our previous conference or follow us on [Twitter](https://twitter.com/artintoscience) to stay updated with the latest news from ACoD.
 
 Mark your calendars and get ready to push the boundaries of security science. We can't wait to see you at the Art into Science conference!
 
