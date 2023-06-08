@@ -1,4 +1,4 @@
-baseurl = "https://artintoscience.github.io/"
+baseurl = "https://artintoscience.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
