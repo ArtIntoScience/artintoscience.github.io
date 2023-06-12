@@ -22,7 +22,7 @@ Garage parking available on-site at $10/day.\
 The Philosophy Track will be in the Conference Center on the Lobby floor.\
 The Operations Track will be in the Main Auditorium on the Lobby floor.
 
-[![auditorium](http://www.valopark.net/wp-content/uploads/2017/04/3-Auditorium.jpg)
+![auditorium](http://www.valopark.net/wp-content/uploads/2017/04/3-Auditorium.jpg)
 
 There is plenty of space and seating between these rooms, including a Cafe & Bar, for the traditional ACoD side discussions.
 
