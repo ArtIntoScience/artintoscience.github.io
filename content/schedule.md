@@ -15,7 +15,7 @@ Talk schedule and Happy Hour TBA.
 
 Appian HQ
 
-![Valo](http://www.valopark.net/wp-content/uploads/2017/04/0039.jpg)
+![Valo](https://careers.appian.com/media/2d2dz3sp/apn20010.jpg?width=1600&height=900&mode=crop)
 
 [7950 Jones Branch Dr, McLean, VA 22102](https://goo.gl/maps/RthWv3UEvdH5Gwx9A)\
 Garage parking available on-site at $10/day.\
