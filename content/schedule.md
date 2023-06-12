@@ -15,18 +15,18 @@ Talk schedule and Happy Hour TBA.
 
 Appian HQ
 
-![Valo](0039.jpg)
+![Valo](https://github.com/john-althouse/artintoscience.github.io/blob/main/content/0039.jpg)
 
 [7950 Jones Branch Dr, McLean, VA 22102](https://goo.gl/maps/RthWv3UEvdH5Gwx9A)\
 Garage parking available on-site at $10/day.\
 The Philosophy Track will be in the Conference Center on the Lobby floor.\
 The Operations Track will be in the Main Auditorium on the Lobby floor.
 
-![auditorium](3-Auditorium.jpg)
+![auditorium](https://github.com/john-althouse/artintoscience.github.io/blob/main/content/3-Auditorium.jpg)
 
 There is plenty of space and seating between these rooms, including a Cafe & Bar, for the traditional ACoD side discussions.
 
-![cafe](05.jpg)
+![cafe](https://github.com/john-althouse/artintoscience.github.io/blob/main/content/05.jpg)
 
 ## Hotels
 
