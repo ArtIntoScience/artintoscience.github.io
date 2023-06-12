@@ -36,12 +36,15 @@ Not sure if Art into Science is for you? Check out our Youtube channel below to 
 
 ## Conference staff
 
-| Name            | Role                      |
-| --------------- | ------------------------- |
-| Gadi Evron      | Chairman                  |
-| Jeff Moss       | Head of Program Committee |
-| Kymberlee Price | Program Chair             |
-| Mike Johnson    |                           |
-| Sounil Yu       |                           |
-| John Scimone    |                           |
+| Name               |
+| ---------------    |
+| Steve Orrin        |
+| Sounil Yu          |
+| Valerie Zargarpur  |
+| John Althouse      |
+| Guillaume Ross     | 
+| Derek Chamorro     |
+| Andrew Cunje       | 
+| Gadi Evron         |
+
 
