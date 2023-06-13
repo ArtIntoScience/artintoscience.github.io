@@ -36,15 +36,16 @@ Not sure if Art into Science is for you? Check out our Youtube channel below to 
 
 ## Conference staff
 
-| Name               |
-| ---------------    |
-| Steve Orrin        |
-| Sounil Yu          |
-| Valerie Zargarpur  |
-| John Althouse      |
-| Guillaume Ross     | 
-| Derek Chamorro     |
-| Andrew Cunje       | 
-| Gadi Evron         |
+| Name              | Social/Contact                                                                                  |
+| ----------------- | ----------------------------------------------------------------------------------------------- |
+| Steve Orrin       |                                                                                                 |
+| Sounil Yu         |                                                                                                 |
+| Valerie Zargarpur |                                                                                                 |
+| John Althouse     |                                                                                                 |
+| Guillaume Ross    | [LinkedIn](https://www.linkedin.com/in/guillaumeross/) - [Mastodon](https://irrelephant.co/@g) |
+| Derek Chamorro    |                                                                                                 |
+| Andrew Cunje      |                                                                                                 |
+| Gadi Evron        |                                                                                                 |
+| Dan LaVoie        | [LinkedIn](https://www.linkedin.com/in/dlavoie)                                                 |
 
 
