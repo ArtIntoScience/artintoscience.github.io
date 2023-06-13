@@ -39,10 +39,10 @@ Not sure if Art into Science is for you? Check out our Youtube channel below to 
 | Name              | Social/Contact                                                                                  |
 | ----------------- | ----------------------------------------------------------------------------------------------- |
 | Steve Orrin       |                                                                                                 |
-| Sounil Yu         |                                                                                                 |
-| Valerie Zargarpur |                                                                                                 |
+| Sounil Yu         | [LinkedIn](https://www.linkedin.com/in/sounil/)                                                 |
+| Valerie Zargarpur | [LinkedIn](https://www.linkedin.com/in/valerie-zargarpur/)                                      |
 | John Althouse     |                                                                                                 |
-| Guillaume Ross    | [LinkedIn](https://www.linkedin.com/in/guillaumeross/) - [Mastodon](https://irrelephant.co/@g) |
+| Guillaume Ross    | [LinkedIn](https://www.linkedin.com/in/guillaumeross/) - [Mastodon](https://irrelephant.co/@g)  |
 | Derek Chamorro    |                                                                                                 |
 | Andrew Cunje      |                                                                                                 |
 | Gadi Evron        |                                                                                                 |
