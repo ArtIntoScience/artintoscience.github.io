@@ -9,6 +9,7 @@ paginate = 5
   showMenuItems = 4
   fullWidthTheme = false
   centerTheme = false
+  favicon = "favicon.svg"
 
 [params.twitter]
   # set Twitter handles for Twitter cards
