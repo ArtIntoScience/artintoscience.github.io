@@ -43,7 +43,7 @@ Not sure if Art into Science is for you? Check out our Youtube channel below to 
 | Valerie Zargarpur | [LinkedIn](https://www.linkedin.com/in/valerie-zargarpur/)                                      |
 | John Althouse     |                                                                                                 |
 | Guillaume Ross    | [LinkedIn](https://www.linkedin.com/in/guillaumeross/) - [Mastodon](https://irrelephant.co/@g)  |
-| Derek Chamorro    |                                                                                                 |
+| Derek Chamorro    | [LinkedIn](https://www.linkedin.com/in/derekchamorro/) - [Mastodon](https://infosec.exchange/@randomsec)  |
 | Andrew Cunje      |                                                                                                 |
 | Gadi Evron        |                                                                                                 |
 | Dan LaVoie        | [LinkedIn](https://www.linkedin.com/in/dlavoie)                                                 |
