@@ -1,6 +1,6 @@
 +++
 title = "ACoD Tickets!"
-date = "2023-06-14"
+date = "2023-06-20"
 author = "Art Into Science (ACoD)"
 description = "ACoD is getting fancy but still free"
 showFullContent = true
