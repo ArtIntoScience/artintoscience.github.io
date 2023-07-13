@@ -1,6 +1,11 @@
 ---
-title: "Call for speakers"
+title: "Call for Presenters"
 ---
+
+## Submit CFP
+
+The CFP is open and closes on August 18, 2023.  
+[Submit your CFP here.](https://forms.gle/yddCT2kG2P53Lt4m9)
 
 ## Tracks
 
@@ -22,11 +27,6 @@ Some things to avoid:
 
 ## Talk Format
 Talks are 20 or 40 minutes. If requesting 40 minutes in the form, please explain why this topic can't fit in 20 minutes. Remember the audience: there's no need to start with the basics. 
-
-## Submit CFP
-
-The CFP opens on July 1, 2023, and closes on August 18, 2023.
-Link for CFP (future)
 
 ### Classic Talks 
 
@@ -69,14 +69,6 @@ This track runs the full duration of the convention to facilitate topic discussi
 * [Product Testing Framework](http://bit.ly/acod-tef)
 * [Hazard Assessment Framework / Forecasting Framework](http://bit.ly/acod-hazard)
 * [Near Misses](http://bit.ly/acod-near-miss)
-
-
-
-
-## P.S.
-
-A total of 0 mentions of the term “cyber” counted in this page above this line.
-
 
 
 [^1]: Unless it’s 10% faster crypto. That’s cool. And crypto means cryptography.
