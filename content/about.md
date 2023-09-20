@@ -47,6 +47,6 @@ Not sure if Art into Science is for you? Check out our Youtube channel below to 
 | Andrew Cunje      |                                                                                                 |
 | Gadi Evron        |                                                                                                 |
 | Dan LaVoie        | [LinkedIn](https://www.linkedin.com/in/dlavoie)                                                 |
-| David Shinberg    |                                                                                                 | 
+| David Shinberg    | [LinkedIn](https://www.linkedin.com/in/davidshinberg/)                                          | 
 
 
