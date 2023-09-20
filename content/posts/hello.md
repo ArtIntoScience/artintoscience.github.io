@@ -6,7 +6,7 @@ description = "ACoD is back this year - in DC this time!"
 showFullContent = true
 +++
 
-We are thrilled to announce the return of the Art into Science conference (ACoD)! After an impactful previous season, we are back to continue our mission of pushing the art of security into a recognized professional discipline. The conference will be held in Washington D.C. from October 25 to 27, 2023.
+We are thrilled to announce the return of the Art into Science conference (ACoD)! After an impactful previous season, we are back to continue our mission of pushing the art of security into a recognized professional discipline. The conference will be held in Washington D.C. from October 25 to 26, 2023.
 
 We've crafted ACoD with two key goals in mind:
 

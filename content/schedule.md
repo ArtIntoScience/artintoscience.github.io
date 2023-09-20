@@ -2,14 +2,13 @@
 title: "Schedule and Venue"
 ---
 
-October 25-27, 2023 at Appian HQ in the Washington, DC area.\
+October 25-26, 2023 at Appian HQ in the Washington, DC area.\
 Talk schedule and Happy Hour TBA.
 
 | Date             | Tracks          |
 | ---------------- | --------------- |
 | October 25, 2023 | Operations and Philosophy |
 | October 26, 2023 | Operations and Philosophy |
-| October 27, 2023 | Philosophy only |
 
 # Venue
 
