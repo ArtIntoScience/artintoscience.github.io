@@ -4,7 +4,7 @@ title: "Call for Presenters"
 
 ## Submit CFP
 
-The CFP is open and closes on August 18, 2023.  
+The CFP is open and closes on September 22, 2023.  
 [Submit your CFP here.](https://forms.gle/yddCT2kG2P53Lt4m9)
 
 ## Tracks
