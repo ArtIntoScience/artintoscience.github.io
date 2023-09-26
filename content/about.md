@@ -1,7 +1,5 @@
 ---
 title: "About the conference"
-date: "2022-12-12"
-author: "Art into Science"
 ---
 
 ## ACoD Goals
