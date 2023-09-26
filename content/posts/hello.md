@@ -1,12 +1,14 @@
 +++
-title = "ACoD is back!"
+title = "Art Into Science: A Conference on Defense"
 date = "2023-09-26"
 author = "Art Into Science (ACoD)"
 description = "Art Into Science: A Conference on Defense"
 showFullContent = true
 +++
-*Art Into Science: A Conference on Defense*
+**Art Into Science: A Conference on Defense**
+
 October 25-26, 2023
+
 Appian HQ in Tysons Corner, VA  |  [7950 Jones Branch Dr, McLean, VA 22102](https://goo.gl/maps/RthWv3UEvdH5Gwx9A)
 
 
@@ -20,3 +22,7 @@ Not sure if Art into Science is for you? Take a peek at our [Youtube channel](ht
 Ready to join us? A limited number of tickets are still available. Secure your spot today!
 
 We can’t wait to see you at the Art into Science conference. Visit our [Schedule and Venue](https://artintoscience.com/schedule/) page for more information about travel and the daily schedule for the conference.
+
+[Get your tickets here!](https://www.eventbrite.com/e/art-into-science-a-conference-on-defense-tickets-656839754387)
+
+ACoD is still free but space is limited. Sign up to secure your spot!
