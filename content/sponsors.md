@@ -6,5 +6,5 @@ Art Into Science would not be possible without the generous contributions from o
 
 Gold Sponsors: [Intel Federal](https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html), [JupiterOne](https://www.jupiterone.com/learn-more)
 
-![Intel Logo](/img/intel-logo.svg)
-![JupiterOne](/img/jupiterone-logo.svg)
+[![Intel Logo](/img/intel-logo.svg)](https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html)
+[![JupiterOne](/img/jupiterone-logo.svg)](https://www.jupiterone.com/learn-more)
