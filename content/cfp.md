@@ -4,8 +4,7 @@ title: "Call for Presenters"
 
 ## Submit CFP
 
-The CFP is open and closes on September 22, 2023.  
-[Submit your CFP here.](https://forms.gle/yddCT2kG2P53Lt4m9)
+The CFP is now closed. If you missed the deadline and would still like to submit a talk, please email contact@artintoscience.com.
 
 ## Tracks
 
