@@ -6,7 +6,7 @@ paginate = 5
 [params]
   contentTypeName = "posts"
   themeColor = "blue"
-  showMenuItems = 4
+  showMenuItems = 5
   fullWidthTheme = false
   centerTheme = false
   favicon = "favicon.svg"
@@ -49,3 +49,7 @@ paginate = 5
         identifier = "schedule"
         name = "Schedule and Venue"
         url = "/Schedule"
+      [[languages.en.menu.main]]
+        identifier = "sponsors"
+        name = "Sponsors"
+        url = "/sponsors"
