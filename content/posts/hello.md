@@ -1,7 +1,5 @@
 +++
 title = "Art Into Science: A Conference on Defense"
-date = "2023-09-26"
-author = "Art Into Science (ACoD)"
 description = "Art Into Science: A Conference on Defense"
 showFullContent = true
 +++

@@ -1,7 +1,5 @@
 ---
 title: "Sponsors"
-date: "2023-09-26"
-author: "Art Into Science (ACoD)"
 ---
 
 Art Into Science would not be possible without the generous contributions from our sponsors.
