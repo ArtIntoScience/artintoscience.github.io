@@ -21,6 +21,6 @@ Ready to join us? A limited number of tickets are still available. Secure your s
 
 We can’t wait to see you at the Art into Science conference. Visit our [Schedule and Venue](https://artintoscience.com/schedule/) page for more information about travel and the daily schedule for the conference.
 
-[Get your tickets here!](https://www.eventbrite.com/e/art-into-science-a-conference-on-defense-tickets-656839754387)
+## [Get your tickets here!](https://www.eventbrite.com/e/art-into-science-a-conference-on-defense-tickets-656839754387)
 
 ACoD is still free but space is limited. Sign up to secure your spot!
