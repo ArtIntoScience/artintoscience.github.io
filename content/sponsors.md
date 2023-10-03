@@ -14,7 +14,7 @@ Art Into Science would not be possible without the generous contributions from o
 
 [![Intel Logo](/img/IntelFederal_Gold.png)](https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html)
 
-## [JupiterOne]((https://www.jupiterone.com/learn-more)
+## [JupiterOne](https://www.jupiterone.com/learn-more)
 
 [![JupiterOne Logo](/img/JupiterOne_Gold.png)](https://www.jupiterone.com/learn-more)
 
