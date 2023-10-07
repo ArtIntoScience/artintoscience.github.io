@@ -11,7 +11,7 @@ Talk schedule and Happy Hour TBA.
 | October 26, 2023 | Operations and Philosophy |
 
 # Philosophy Track
-| October 25, 2023 | Speaker | Topic |
+| October 25 | Speaker | Topic |
 | ------ | ------- | ----- |
 | 09:00-09:10 | Sounil Yu | Day 1 Welcome and Overview of the Philosophy Track |
 | 09:10-09:50 | Sounil Yu | Anticipating the Next Stages of the AI Revolution |
@@ -23,7 +23,7 @@ Talk schedule and Happy Hour TBA.
 | 15:00-15:50 | Jerry Perullo | Breaking down the wall between art and science; artists can type fast too |
 | 16:00-16:50 | Sounil Yu | A machine quantifiable approach to risk quantification |
 
-| October 26, 2023 | Speaker | Topic |
+| October 26 | Speaker | Topic |
 | ------ | ------- | ----- |
 | 09:00-09:10 | Sounil Yu | Day 2: Welcome and Day 1 Recap |
 | 09:10-09:50 | Sounil Yu | Exploring the role and the limits of AI in cybersecurity through the lens of the Cyber Defense Matrix |
@@ -33,7 +33,7 @@ Talk schedule and Happy Hour TBA.
 | 13:00-13:50 | Ian Campbell | Out Of Time: Neurodivergent Success in Security as a Framework |
 | 14:00-14:50 | Larry Greenblatt | Ask Not Will AGI Be Aligned With Our Values, Ask Are My Values Consistent With Big Data. |
 | 15:00-15:50 | Claude Mandy | The year of RADICAL data breach transparency |
-| 16:00-16:50 | Donald McCarthy / SynMac | Cheap Parking and Express Lanes Through Your Proxy Filters |
+| 16:00-16:50 | Donald McCarthy | Cheap Parking and Express Lanes Through Your Proxy Filters |
 
 # Venue
 
