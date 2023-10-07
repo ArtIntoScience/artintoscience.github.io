@@ -21,7 +21,7 @@ Talk schedule and Happy Hour TBA.
 | 13:00-13:50 | Yael Nagler | Maturing your security program –means leveling up, personally |
 | 14:00-14:50 | Chris Cooley | Discover Your Cyber Superpowers |
 | 15:00-15:50 | Jerry Perullo | Breaking down the wall between art and science; artists can type fast too |
-| 16:00-16:50 | Sounil Yu | A machine quantifiable approach to risk quantification |
+| 16:00-16:50 | Tigran Terpandjian | The Threat Hunting Wars: Juxtaposing Different Threat Hunting Schools of Thought and Setting a Standard in Program Implementation, Training, and Hiring |
 
 | October 26 | Speaker | Topic |
 | ------ | ------- | ----- |
