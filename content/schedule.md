@@ -18,7 +18,7 @@ Talk schedule and Happy Hour TBA.
 | 09:50-10:30 | Ross Haleliuk | Motivation & incentive systems that shape the dynamics of the cybersecurity industry for security practitioners and future founders |
 | 10:30-10:40 |  | Break |
 | 10:40-11:20 | Darren Spruell | Less is Not More: Sharing Richer Indicators |
-| 11:20-12:00 | Ariel Robinson | It's the Economy, Stupid: Tacking Technical Debt in Times of Economic Uncertainty |
+| 11:20-12:00 | Ariel Robinson | It's the Economy, Stupid: Tackling Technical Debt in Times of Economic Uncertainty |
 | 12:00-13:00 |  | Lunch |
 | 13:00-13:45 | Yael Nagler | Maturing your security program –means leveling up, personally |
 | 13:45-14:30 | Chris Cooley | Discover Your Cyber Superpowers |
