@@ -13,7 +13,8 @@ Talk schedule and Happy Hour TBA.
 # Philosophy Track
 | October 25 | Speaker | Topic |
 | ------ | ------- | ----- |
-| 09:30-10:00 | Sounil Yu | Anticipating the Next Stages of the AI Revolution |
+| 09:00-09:30 |  | Conference Kickoff |
+| 09:30-10:00 | Sounil Yu | Anticipating the Next Stages of the AI Revolution (Joint Session) |
 | 10:00-10:05 |  | Transition from Auditorium to Conference Rooms |
 | 10:05-10:15 | Sounil Yu | Day 1 Welcome and Overview of the Philosophy Track |
 | 10:15-10:55 | Ross Haleliuk | Motivation & incentive systems that shape the dynamics of the cybersecurity industry for security practitioners and future founders |
