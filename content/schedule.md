@@ -13,35 +13,35 @@ Talk schedule and Happy Hour TBA.
 # Philosophy Track
 | October 25 | Speaker | Topic |
 | ------ | ------- | ----- |
-| 09:00-09:10 | Sounil Yu | Day 1 Welcome and Overview of the Philosophy Track |
-| 09:10-09:50 | Sounil Yu | Anticipating the Next Stages of the AI Revolution |
-| 09:50-10:30 | Ross Haleliuk | Motivation & incentive systems that shape the dynamics of the cybersecurity industry for security practitioners and future founders |
-| 10:30-10:40 |  | Break |
-| 10:40-11:20 | Darren Spruell | Less is Not More: Sharing Richer Indicators |
-| 11:20-12:00 | Ariel Robinson | It's the Economy, Stupid: Tackling Technical Debt in Times of Economic Uncertainty |
-| 12:00-13:00 |  | Lunch |
-| 13:00-13:45 | Yael Nagler | Maturing your security program –means leveling up, personally |
+| 09:30-10:00 | Sounil Yu | Anticipating the Next Stages of the AI Revolution |
+| 10:00-10:05 |  | Transition from Auditorium to Conference Rooms |
+| 10:05-10:15 | Sounil Yu | Day 1 Welcome and Overview of the Philosophy Track |
+| 10:15-10:55 | Ross Haleliuk | Motivation & incentive systems that shape the dynamics of the cybersecurity industry for security practitioners and future founders |
+| 10:55-11:35 | Darren Spruell, Nick Chalard | Less is Not More: Sharing Richer Indicators |
+| 11:35-12:15 | Ariel Robinson | It's the Economy, Stupid: Tacking Technical Debt in Times of Economic Uncertainty |
+| 12:15-13:00 |  | Lunch |
+| 13:00-13:45 | Yael Nagler | Maturing your security program means leveling up, personally |
 | 13:45-14:30 | Chris Cooley | Discover Your Cyber Superpowers |
-| 14:30-15:00 |  | Break / Discussion |
-| 15:00-15:45 | Jerry Perullo | Breaking down the wall between art and science; artists can type fast too |
-| 15:45-16:30 | Sounil Yu | A machine quantifiable approach to risk quantification |
-| 16:30-17:00 | Sounil Yu | Recap / Discussion |
+| 14:30-15:15 | Jerry Perullo | Breaking down the wall between art and science; artists can type fast too |
+| 15:15-15:30 |  | Break |
+| 15:30-16:15 | Sounil Yu | A machine quantifiable approach to risk quantification |
+| 16:15-16:45 | Sounil Yu | Recap / Discussion |
 
 | October 26 | Speaker | Topic |
 | ------ | ------- | ----- |
-| 09:00-09:10 | Sounil Yu | Day 2: Welcome and Day 1 Recap |
-| 09:10-09:50 | Sounil Yu | Exploring the role and the limits of AI in cybersecurity through the lens of the Cyber Defense Matrix |
-| 09:50-10:30 | David Shinberg | Security is Impossible and What To Do About It |
-| 10:30-10:40 |  | Break |
-| 10:40-11:20 | Zeal Somani | Controls Reliability Engineering |
-| 11:20-12:00 | Claude Mandy | The year of RADICAL data breach transparency |
-| 12:00-13:00 |  | Lunch |
-| 13:00-13:45 | Ian Campbell | Out Of Time: Neurodivergent Success in Security as a Framework |
-| 13:45-14:30 | Larry Greenblatt | Ask Not Will AGI Be Aligned With Our Values, Ask Are My Values Consistent With Big Data. |
-| 14:30-15:00 |  | Break / Discussion |
-| 15:00-15:45 | Tigran | The Threat Hunting Wars: Juxtaposing Different Threat Hunting Schools of Thought and Setting a Standard in Program Implementation & Training and Hiring: FENRIR & SKADI |
-| 15:45-16:30 | Donald McCarthy / SynMac | Cheap Parking and Express Lanes Through Your Proxy Filters |
-| 16:30-17:00 | Sounil Yu | Recap / Discussion |
+| 09:15-09:30 | Sounil Yu | Day 2: Welcome and Day 1 Recap |
+| 09:30-10:00 | Sounil Yu | Exploring the role and the limits of AI in cybersecurity through the lens of the Cyber Defense Matrix |
+| 10:00-10:40 | David Shinberg | Security is Impossible and What To Do About It |
+| 10:40-10:55 |  | Break |
+| 10:55-11:35 | Donald McCarthy | Cheap Parking and Express Lanes Through Your Proxy Filters |
+| 11:35-12:15 | Claude Mandy | The year of RADICAL data breach transparency |
+| 12:15-13:00 |  | Lunch |
+| 13:00-13:45 | Ian Campbell, Travis Hall | Out Of Time: Neurodivergent Success in Security as a Framework |
+| 13:45-14:30 | Zeal Somani | Controls Reliability Engineering |
+| 14:30-15:15 | Tigran | The Threat Hunting Wars: Juxtaposing Different Threat Hunting Schools of Thought and Setting a Standard in Program Implementation & Training and Hiring: FENRIR & SKADI |
+| 15:15-15:30 |  | Break |
+| 15:30-16:15 | Larry Greenblatt | Ask Not Will AGI Be Aligned With Our Values, Ask Are My Values Consistent With Big Data. |
+| 16:15-16:45 | Sounil Yu | Recap / Discussion |
 
 # Venue
 
