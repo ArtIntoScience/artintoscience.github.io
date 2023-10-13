@@ -13,6 +13,7 @@ Talk schedule and Happy Hour TBA.
 # Philosophy Track
 | October 25 | Speaker | Topic |
 | ------ | ------- | ----- |
+| 8:00-9:00 |  | Registration, Coffee |
 | 09:00-09:30 |  | Conference Kickoff |
 | 09:30-10:00 | Sounil Yu | Anticipating the Next Stages of the AI Revolution (Joint Session) |
 | 10:00-10:05 |  | Transition from Auditorium to Conference Rooms |
@@ -43,6 +44,40 @@ Talk schedule and Happy Hour TBA.
 | 15:15-15:30 |  | Break |
 | 15:30-16:15 | Larry Greenblatt | Ask Not Will AGI Be Aligned With Our Values, Ask Are My Values Consistent With Big Data. |
 | 16:15-16:45 | Sounil Yu | Recap / Discussion |
+
+# Operations Track
+| October 25 | Speaker | Topic |
+| ------ | ------- | ----- |
+| 8:00-9:00 |  | Registration, Coffee |
+| 09:00-09:30 |  | Conference Kickoff |
+| 09:30-10:00 | Sounil Yu | Anticipating the Next Stages of the AI Revolution (Joint Session) |
+| 10:00-10:45 | John Althouse | JA4+  Network Fingerprinting  |
+| 10:45-11:05 |  | Break |
+| 11:05-11:30 | Jimmy Blakeney | I Don’t Know You!  - One Way of Verifying Contacts |
+| 11:30-12:15 | Sasha Levy | Easy Mode Deception Technology Deployments @ Scale |
+| 12:15-13:15 |  | Lunch |
+| 13:15-14:00 | Justin Borland | Sigma and MISP visualization for the masses |
+| 14:00-14:30 | Armen Martirosyan | Are You Committed to Secret Free Version Control? |
+| 14:30-15:15 | Ian Campbell, Travis Hall, Daniel Schwalbe | Keeping Exchange Blue with a Walled Garden |
+| 15:15-15:35 |  | Break |
+| 15:35-16:15 | Christine Le | Threat Detection Engineering Metrics |
+| 16:15-16:45 | Jordan Anderson | Get MADD, Not Glad: Metrics for ATT&CK-driven detection |
+
+| October 26 | Speaker | Topic |
+| ------ | ------- | ----- |
+| 09:15-10:00 | Kymberlee Price | DevSecOps is Dead, Long Live DevSecOps |
+| 10:00-10:45 | Jason Craig | LAPSUS$* is better than us |
+| 10:45-11:05 |  | Break |
+| 11:05-11:45 | Arpan Abani Sarkar | Getting MAAD-AF to Attack Microsoft 365 & Azure AD |
+| 11:45-12:15 | Claude Mandy | The upside-down of ATT&CK coverage |
+| 12:15-13:00 |  | Lunch |
+| 13:15-14:00 | James Jin Park | Cybersecurity Law Demystified |
+| 14:00-14:30 | Derek Chamorro | Threat Actor: Scattered Spider |
+| 14:30-15:15 | Darien Hirotsu | Dealing with Kubernetes Identity Crisises! |
+| 15:15-15:30 |  | Break |
+| 15:30-16:15 |  | Lightning Talks |
+| 16:15-16:45 |  | Recap / Discussion |
+| 16:54- |  | Happy Hour |
 
 # Venue
 
