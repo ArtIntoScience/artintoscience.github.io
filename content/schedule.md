@@ -70,14 +70,14 @@ Talk schedule and Happy Hour TBA.
 | 10:45-11:05 |  | Break |
 | 11:05-11:45 | Arpan Abani Sarkar | Getting MAAD-AF to Attack Microsoft 365 & Azure AD |
 | 11:45-12:15 | Claude Mandy | The upside-down of ATT&CK coverage |
-| 12:15-13:00 |  | Lunch |
-| 13:15-14:00 | James Jin Park | Cybersecurity Law Demystified |
-| 14:00-14:30 | Derek Chamorro | Threat Actor: Scattered Spider |
-| 14:30-15:15 | Darien Hirotsu | Dealing with Kubernetes Identity Crisises! |
+| 12:15-13:15 |  | Lunch |
+| 13:15-13:45 | James Jin Park | Cybersecurity Law Demystified |
+| 13:45-14:15 | Derek Chamorro | Threat Actor: Scattered Spider |
+| 14:15-14:45 | Darien Hirotsu | Dealing with Kubernetes Identity Crisises! |
+| 14:45-15:15 | Taiga Walker, Venkat Iyer | Deception and Connection: How we Fooled a Scammer and Made a Friend |
 | 15:15-15:30 |  | Break |
-| 15:30-16:15 |  | Lightning Talks |
-| 16:15-16:45 |  | Recap / Discussion |
-| 16:54- |  | Happy Hour |
+| 15:30-16:45 |  | Lightning Talks |
+| 16:45- |  | Happy Hour |
 
 # Venue
 
