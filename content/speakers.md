@@ -4,7 +4,7 @@ title: "Speakers"
 
 ## Ariel Robinson
 
-**Philosophy Track: It’s the Economy, Stupid: Tracking Technical Debt in Times of Economic Uncertainty**
+**Philosophy Track: It’s the Economy, Stupid: Tackling Technical Debt in Times of Economic Uncertainty**
 
 _Wednesday, Oct 25  |  11:35-12:15_
 
