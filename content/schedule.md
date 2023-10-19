@@ -20,7 +20,7 @@ Talk schedule and Happy Hour TBA.
 | 10:05-10:15 | Sounil Yu | Day 1 Welcome and Overview of the Philosophy Track |
 | 10:15-10:55 | Ross Haleliuk | Motivation & incentive systems that shape the dynamics of the cybersecurity industry for security practitioners and future founders |
 | 10:55-11:35 | Darren Spruell, Nick Chalard | Less is Not More: Sharing Richer Indicators |
-| 11:35-12:15 | Ariel Robinson | It's the Economy, Stupid: Tacking Technical Debt in Times of Economic Uncertainty |
+| 11:35-12:15 | Ariel Robinson | It's the Economy, Stupid: Tackling Technical Debt in Times of Economic Uncertainty |
 | 12:15-13:00 |  | Lunch |
 | 13:00-13:45 | Yael Nagler | Maturing your security program means leveling up, personally |
 | 13:45-14:30 | Chris Cooley | Discover Your Cyber Superpowers |
