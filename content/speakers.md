@@ -93,7 +93,7 @@ Most of all, your current approach to adversary emulation will be challenged wit
 
 ## David Shinberg
 
-**Philosophy Track: Security is Impossible and What To Do About It**
+**Philosophy Track: Applying Physical Discipline to Cybersecurity Challenges**
 
 _Thursday, Oct 26  |  10:00-10:40_
 
