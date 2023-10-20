@@ -69,7 +69,7 @@ Talk schedule and Happy Hour TBA.
 | 10:00-10:45 | Jason Craig | LAPSUS$* is better than us |
 | 10:45-11:05 |  | Break |
 | 11:05-11:45 | Arpan Abani Sarkar | Getting MAAD-AF to Attack Microsoft 365 & Azure AD |
-| 11:45-12:15 | Claude Mandy | The upside-down of ATT&CK coverage |
+| 11:45-12:15 | David Hunt | The upside-down of ATT&CK coverage |
 | 12:15-13:15 |  | Lunch |
 | 13:15-13:45 | James Jin Park | Cybersecurity Law Demystified |
 | 13:45-14:15 | Derek Chamorro | Threat Actor: Scattered Spider |
