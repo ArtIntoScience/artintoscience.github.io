@@ -33,7 +33,7 @@ Talk schedule and Happy Hour TBA.
 | ------ | ------- | ----- |
 | 09:15-09:30 | Sounil Yu | Day 2: Welcome and Day 1 Recap |
 | 09:30-10:00 | Sounil Yu | Exploring the role and the limits of AI in cybersecurity through the lens of the Cyber Defense Matrix |
-| 10:00-10:40 | David Shinberg | Security is Impossible and What To Do About It |
+| 10:00-10:40 | David Shinberg | Applying Physical Discipline to Cybersecurity Challenges |
 | 10:40-10:55 |  | Break |
 | 10:55-11:35 | Donald McCarthy | Cheap Parking and Express Lanes Through Your Proxy Filters |
 | 11:35-12:15 | Claude Mandy | The year of RADICAL data breach transparency |
