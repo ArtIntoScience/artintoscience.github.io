@@ -22,10 +22,10 @@ October 25-26, 2023 at Appian HQ in the Washington, DC area.\
 | 11:35-12:15 | Ariel Robinson | It's the Economy, Stupid: Tackling Technical Debt in Times of Economic Uncertainty |
 | 12:15-13:00 |  | Lunch |
 | 13:00-13:45 | Yael Nagler | Maturing your security program means leveling up, personally |
-| 13:45-14:30 | Chris Cooley | Discover Your Cyber Superpowers |
+| 13:45-14:30 | Sounil Yu | A machine quantifiable approach to risk quantification |
 | 14:30-15:15 | Jerry Perullo | Breaking down the wall between art and science; artists can type fast too |
 | 15:15-15:30 |  | Break |
-| 15:30-16:15 | Sounil Yu | A machine quantifiable approach to risk quantification |
+| 15:30-16:15 | TBD | Lightning Talks |
 | 16:15-16:45 | Sounil Yu | Recap / Discussion |
 
 | October 26 | Speaker | Topic |
@@ -39,7 +39,7 @@ October 25-26, 2023 at Appian HQ in the Washington, DC area.\
 | 12:15-13:00 |  | Lunch |
 | 13:00-13:45 | Ian Campbell, Travis Hall | Out Of Time: Neurodivergent Success in Security as a Framework |
 | 13:45-14:30 | Zeal Somani | Controls Reliability Engineering |
-| 14:30-15:15 | Tigran | The Threat Hunting Wars: Juxtaposing Different Threat Hunting Schools of Thought and Setting a Standard in Program Implementation & Training and Hiring: FENRIR & SKADI |
+| 14:30-15:15 | Chris Cooley | Discover Your Cyber Superpowers |
 | 15:15-15:30 |  | Break |
 | 15:30-16:15 | Larry Greenblatt | Ask Not Will AGI Be Aligned With Our Values, Ask Are My Values Consistent With Big Data. |
 | 16:15-16:45 | Sounil Yu | Recap / Discussion |
