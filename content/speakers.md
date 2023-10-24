@@ -69,7 +69,7 @@ _Thursday, Oct 26  |  14:15-14:45_
 In this technical talk, we will show techniques to implement least privileged identities in Kubernetes clusters. We shall delve into kubernetes RBAC configurations, cloud provider IAM integration, and common tools of the trade to level-up least privilege.
 
 
-## Darren Spruell, Nick Chalard
+## Nick Chalard
 
 **Philosophy Track: Less is Not More: Sharing Richer Indicators**
 
