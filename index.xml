@@ -618,7 +618,7 @@ No matter the number of weeks between my submitting this abstract and you readin
 &lt;p>&lt;strong>Operations Track: Dealing with Kubernetes Identity Crises!&lt;/strong>&lt;/p>
 &lt;p>&lt;em>Thursday, Oct 26 | 14:15-14:45&lt;/em>&lt;/p>
 &lt;p>In this technical talk, we will show techniques to implement least privileged identities in Kubernetes clusters. We shall delve into kubernetes RBAC configurations, cloud provider IAM integration, and common tools of the trade to level-up least privilege.&lt;/p>
-&lt;h2 id="darren-spruell-nick-chalard">Darren Spruell, Nick Chalard&lt;/h2>
+&lt;h2 id="nick-chalard">Nick Chalard&lt;/h2>
 &lt;p>&lt;strong>Philosophy Track: Less is Not More: Sharing Richer Indicators&lt;/strong>&lt;/p>
 &lt;p>&lt;em>Wednesday, Oct 25 | 10:55-11:35&lt;/em>&lt;/p>
 &lt;p>As a community, we regularly share nondescript lists of IP addresses, domains and file hashes as IOCs. Each of these core indicator types are critical to defense, but require additional context to be rapidly usable by recipients. We typically share the indicators with a description of why they’re bad, but without origin context relating to them. In this session we&amp;rsquo;ll discuss resulting resulting challenges as well as how to gain a multiplier effect, increasing the impact of IOCs we share downstream by representing indicators in a richer but still compact format to fuel additional recognition of related threat aspects by recipients. We will also review available tooling that can help with this endeavor.&lt;/p>
