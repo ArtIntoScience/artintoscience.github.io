@@ -25,7 +25,7 @@ October 25-26, 2023 at Appian HQ in the Washington, DC area.\
 | 13:45-14:30 | Sounil Yu | A machine quantifiable approach to risk quantification |
 | 14:30-15:15 | Jerry Perullo | Breaking down the wall between art and science; artists can type fast too |
 | 15:15-15:30 |  | Break |
-| 15:30-16:15 | TBD | Lightning Talks |
+| 15:30-16:15 | Sounil Yu | Measuring Privilege |
 | 16:15-16:45 | Sounil Yu | Recap / Discussion |
 
 | October 26 | Speaker | Topic |
