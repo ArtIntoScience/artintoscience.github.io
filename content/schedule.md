@@ -55,7 +55,7 @@ October 25-26, 2023 at Appian HQ in the Washington, DC area.\
 | 11:05-11:30 | Jimmy Blakeney | I Don’t Know You!  - One Way of Verifying Contacts |
 | 11:30-12:15 | Sasha Levy | Easy Mode Deception Technology Deployments @ Scale |
 | 12:15-13:15 |  | Lunch |
-| 13:15-14:00 | Justin Borland | Sigma and MISP visualization for the masses |
+| 13:15-14:00 | Justin Borland, David Heise | Sigma and MISP visualization for the masses |
 | 14:00-14:30 | Armen Martirosyan | Are You Committed to Secret Free Version Control? |
 | 14:30-15:15 | Ian Campbell, Travis Hall, Daniel Schwalbe | Keeping Exchange Blue with a Walled Garden |
 | 15:15-15:35 |  | Break |
