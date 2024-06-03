@@ -4,7 +4,7 @@ title: "Call for Presenters"
 
 ## Submit CFP
 
-The CFP is now closed. If you missed the deadline and would still like to submit a talk, please email contact@artintoscience.com.
+The CFP is now closed. The CFP for 2024 will open **soon**.
 
 ## Tracks
 

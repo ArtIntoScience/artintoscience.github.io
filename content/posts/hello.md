@@ -1,13 +1,14 @@
 +++
-title = "Art Into Science: A Conference on Defense"
-description = "Art Into Science: A Conference on Defense"
+title = "ACoD: A Conference on Defense"
+description = "ACoD: A Conference on Defense"
 showFullContent = true
 +++
-**Art Into Science: A Conference on Defense**
+**ACoD: A Conference on Defense 2024**
 
-October 25-26, 2023
+September 18-19, 2024
 
-Appian HQ in Tysons Corner, VA  |  [7950 Jones Branch Dr, McLean, VA 22102](https://goo.gl/maps/RthWv3UEvdH5Gwx9A)
+[SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456](https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9)
+
 
 
 ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:
