@@ -1,4 +1,4 @@
-baseurl = "https://artintoscience.com/"
+baseurl = "https:/acod.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -15,13 +15,13 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "ArtIntoScience"
-  site = "ArtIntoScience"
+  creator = "ACoD"
+  site = "ACoD"
 
 [languages]
   [languages.en]
-    title = "Art into Science"
-    subtitle = "Art into Science - A Conference on Defense"
+    title = "ACoD"
+    subtitle = "A Conference on Defense"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
