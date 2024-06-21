@@ -1,4 +1,4 @@
-baseurl = "https:/acod.io/"
+baseurl = "https://acod.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -15,8 +15,8 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "ACoD"
-  site = "ACoD"
+  creator = "ArtIntoScience"
+  site = "ArtIntoScience"
 
 [languages]
   [languages.en]
