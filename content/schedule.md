@@ -3,7 +3,7 @@ title: "Schedule and Venue"
 ---
 
 Full schedule coming soon.
-Dates **TBD**. **NOT* happening in September as previously planned.
+Dates **TBD**. **NOT** happening in September as previously planned.
 
 
 # Venue

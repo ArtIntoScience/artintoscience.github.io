@@ -4,7 +4,7 @@ title: "Call for Presenters"
 
 ## Submit CFP
 
-The CFP is now closed. The CFP for 2024 will open **soon**.
+The 2024 CFP is open! [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
 
 ## Tracks
 

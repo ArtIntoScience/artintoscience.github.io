@@ -5,11 +5,11 @@ showFullContent = true
 +++
 **ACoD: A Conference on Defense 2024**
 
-**Dates TBD****
+**Dates TBD**
 
 [SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456](https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9)
 
-
+**CFP Open!**  [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
 
 ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:
 
