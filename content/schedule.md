@@ -2,8 +2,8 @@
 title: "Schedule and Venue"
 ---
 
+**November 13 and 14, 2024**
 Full schedule coming soon.
-Dates **TBD**. **NOT** happening in September as previously planned.
 
 
 # Venue
