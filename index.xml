@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACoD</title><link>https://acod.io/</link><description>Recent content on ACoD</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://acod.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Showcase</title><link>https://acod.io/showcase/</link><pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate><guid>https://acod.io/showcase/</guid><description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description><content>&lt;h2 id="header-2">Header 2&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACoD</title><link>https://acod.io/</link><description>Recent content on ACoD</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://acod.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Showcase</title><link>https://acod.io/showcase/</link><pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate><guid>https://acod.io/showcase/</guid><description>&lt;h2 id="header-2">Header 2&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p></description><content>&lt;h2 id="header-2">Header 2&lt;/h2>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p>
 &lt;blockquote>
 &lt;p>Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p>
@@ -65,9 +66,12 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p></content></item><item><title>About the conference</title><link>https://acod.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/about/</guid><description>ACoD Goals Push the Art to a Science: Creating a Professional Discipline To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.
-We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.
-Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement Security conferences glorify the attacker, and accept attack-oriented talks.</description><content>&lt;h2 id="acod-goals">ACoD Goals&lt;/h2>
+&lt;p>Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p></content></item><item><title>About the conference</title><link>https://acod.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/about/</guid><description>&lt;h2 id="acod-goals">ACoD Goals&lt;/h2>
+&lt;h3 id="push-the-art-to-a-science-creating-a-professional-discipline">Push the Art to a Science: Creating a Professional Discipline&lt;/h3>
+&lt;p>To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.&lt;/p>
+&lt;p>We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.&lt;/p>
+&lt;h3 id="glorify-the-defense-tools-techniques-and-ideas-people-can-leave-the-conference-with-and-implement">Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement&lt;/h3>
+&lt;p>Security conferences glorify the attacker, and accept attack-oriented talks. We&amp;rsquo;d like to put defense on a pedestal and take in talks that interest us - operational talks on defense.&lt;/p></description><content>&lt;h2 id="acod-goals">ACoD Goals&lt;/h2>
 &lt;h3 id="push-the-art-to-a-science-creating-a-professional-discipline">Push the Art to a Science: Creating a Professional Discipline&lt;/h3>
 &lt;p>To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.&lt;/p>
 &lt;p>We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.&lt;/p>
@@ -87,58 +91,57 @@ Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conferenc
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Name&lt;/th>
-&lt;th>Social/Contact&lt;/th>
+&lt;th style="text-align: left">Name&lt;/th>
+&lt;th style="text-align: left">Social/Contact&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Steve Orrin&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align: left">Steve Orrin&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/sounil/">LinkedIn&lt;/a>&lt;/td>
+&lt;td style="text-align: left">Sounil Yu&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/sounil/">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Valerie Zargarpur&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/valerie-zargarpur/">LinkedIn&lt;/a>&lt;/td>
+&lt;td style="text-align: left">Valerie Zargarpur&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/valerie-zargarpur/">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>John Althouse&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align: left">John Althouse&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Guillaume Ross&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/guillaumeross/">LinkedIn&lt;/a> - &lt;a href="https://irrelephant.co/@g">Mastodon&lt;/a>&lt;/td>
+&lt;td style="text-align: left">Guillaume Ross&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/guillaumeross/">LinkedIn&lt;/a> - &lt;a href="https://irrelephant.co/@g">Mastodon&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Derek Chamorro&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/derekchamorro/">LinkedIn&lt;/a> - &lt;a href="https://infosec.exchange/@randomsec">Mastodon&lt;/a>&lt;/td>
+&lt;td style="text-align: left">Derek Chamorro&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/derekchamorro/">LinkedIn&lt;/a> - &lt;a href="https://infosec.exchange/@randomsec">Mastodon&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Andrew Cunje&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align: left">Andrew Cunje&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Gadi Evron&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align: left">Gadi Evron&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Dan LaVoie&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/dlavoie">LinkedIn&lt;/a>&lt;/td>
+&lt;td style="text-align: left">Dan LaVoie&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/dlavoie">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>David Shinberg&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/davidshinberg/">LinkedIn&lt;/a>&lt;/td>
+&lt;td style="text-align: left">David Shinberg&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/davidshinberg/">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content></item><item><title>ACoD: A Conference on Defense</title><link>https://acod.io/posts/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/posts/hello/</guid><description>ACoD: A Conference on Defense 2024
-November 13 and 14, 2024
-SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456
-CFP Open! Submit your talk!
-ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:
-Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline.</description><content>&lt;p>&lt;strong>ACoD: A Conference on Defense 2024&lt;/strong>&lt;/p>
+&lt;/table></content></item><item><title>ACoD: A Conference on Defense</title><link>https://acod.io/posts/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/posts/hello/</guid><description>&lt;p>&lt;strong>ACoD: A Conference on Defense 2024&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
+&lt;p>&lt;strong>CFP Open!&lt;/strong> &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform">Submit your talk!&lt;/a>&lt;/p>
+&lt;p>ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p></description><content>&lt;p>&lt;strong>ACoD: A Conference on Defense 2024&lt;/strong>&lt;/p>
 &lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>&lt;/p>
 &lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
 &lt;p>&lt;strong>CFP Open!&lt;/strong> &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform">Submit your talk!&lt;/a>&lt;/p>
@@ -150,11 +153,16 @@ Push the Art to a Science: We aim to foster a space where security methodologies
 &lt;p>Not sure if Art into Science is for you? Take a peek at our &lt;a href="https://www.youtube.com/@aconferencefordefense-acod8650">Youtube channel&lt;/a> to view presentations from our previous conference.&lt;/p>
 &lt;p>Ready to join us? A limited number of tickets are still available. Secure your spot today!&lt;/p>
 &lt;p>We can’t wait to see you at the Art into Science conference. Visit our &lt;a href="https://artintoscience.com/schedule/">Schedule and Venue&lt;/a> page for more information about travel and the daily schedule for the conference.&lt;/p>
-&lt;p>&lt;a href="https://www.eventbrite.com/e/art-into-science-a-conference-on-defense-tickets-656839754387">Get your tickets here!&lt;/a>&lt;/p>
-&lt;p>ACoD is still free but space is limited. Sign up to secure your spot!&lt;/p></content></item><item><title>Call for Presenters</title><link>https://acod.io/cfp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/cfp/</guid><description>Submit CFP The 2024 CFP is open! Submit your talk!
-Tracks Art Into Science talk tracks are:
-Operations Philosophical/Art Into Science For operations, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.
-For the philosophical track, we invite you to share your thoughts, experiences, and propose new ideas for building our discipline.</description><content>&lt;h2 id="submit-cfp">Submit CFP&lt;/h2>
+&lt;p>&lt;a href="https://www.zeffy.com/en-US/ticketing/e6b8943c-d7e1-417d-8335-b3f44d6b1f8a">Get your tickets here!&lt;/a>&lt;/p>
+&lt;p>ACoD is still free but space is limited. Sign up to secure your spot!&lt;/p></content></item><item><title>Call for Presenters</title><link>https://acod.io/cfp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/cfp/</guid><description>&lt;h2 id="submit-cfp">Submit CFP&lt;/h2>
+&lt;p>The 2024 CFP is open! &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform">Submit your talk!&lt;/a>&lt;/p>
+&lt;h2 id="tracks">Tracks&lt;/h2>
+&lt;p>Art Into Science talk tracks are:&lt;/p>
+&lt;ol>
+&lt;li>Operations&lt;/li>
+&lt;li>Philosophical/Art Into Science&lt;/li>
+&lt;/ol>
+&lt;p>For &lt;strong>operations&lt;/strong>, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.&lt;/p></description><content>&lt;h2 id="submit-cfp">Submit CFP&lt;/h2>
 &lt;p>The 2024 CFP is open! &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform">Submit your talk!&lt;/a>&lt;/p>
 &lt;h2 id="tracks">Tracks&lt;/h2>
 &lt;p>Art Into Science talk tracks are:&lt;/p>
@@ -214,7 +222,9 @@ For the philosophical track, we invite you to share your thoughts, experiences, 
 &lt;p>Unless it’s 10% faster crypto. That’s cool. And crypto means cryptography.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></content></item><item><title>Code of Conduct</title><link>https://acod.io/coc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/coc/</guid><description>Code of Conduct Summary: Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description><content>&lt;h1 id="code-of-conduct">Code of Conduct&lt;/h1>
+&lt;/div></content></item><item><title>Code of Conduct</title><link>https://acod.io/coc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/coc/</guid><description>&lt;h1 id="code-of-conduct">Code of Conduct&lt;/h1>
+&lt;h2 id="summary">Summary:&lt;/h2>
+&lt;p>Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media such as Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p></description><content>&lt;h1 id="code-of-conduct">Code of Conduct&lt;/h1>
 &lt;h2 id="summary">Summary:&lt;/h2>
 &lt;p>Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media such as Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p>
 &lt;h2 id="detail">Detail:&lt;/h2>
@@ -235,20 +245,32 @@ For the philosophical track, we invite you to share your thoughts, experiences, 
 &lt;h3 id="consequences">Consequences&lt;/h3>
 &lt;ul>
 &lt;li>If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.&lt;/li>
-&lt;/ul></content></item><item><title>Schedule and Venue</title><link>https://acod.io/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/schedule/</guid><description>November 13 and 14, 2024 Full schedule coming soon.
-Venue SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456
-Hotels Coming soon.</description><content>&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>
+&lt;/ul></content></item><item><title>Schedule and Venue</title><link>https://acod.io/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/schedule/</guid><description>&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>
 Full schedule coming soon.&lt;/p>
 &lt;h1 id="venue">Venue&lt;/h1>
 &lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
 &lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;p>Coming soon.&lt;/p></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>Speakers coming soon Track: Talk Title
-Date, | Time
-Talk description</description><content>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
+&lt;p>Coming soon.&lt;/p></description><content>&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>
+Full schedule coming soon.&lt;/p>
+&lt;h1 id="venue">Venue&lt;/h1>
+&lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
+&lt;h2 id="hotels">Hotels&lt;/h2>
+&lt;p>Coming soon.&lt;/p></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
 &lt;p>&lt;strong>Track: Talk Title&lt;/strong>&lt;/p>
 &lt;p>&lt;em>Date, | Time&lt;/em>&lt;/p>
-&lt;p>Talk description&lt;/p></content></item><item><title>Sponsors</title><link>https://acod.io/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/sponsors/</guid><description>Art Into Science would not be possible without the generous contributions from our sponsors.
-Gold Sponsors CapitalOne Intel Federal JupiterOne TachTech</description><content>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
+&lt;p>Talk description&lt;/p></description><content>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
+&lt;p>&lt;strong>Track: Talk Title&lt;/strong>&lt;/p>
+&lt;p>&lt;em>Date, | Time&lt;/em>&lt;/p>
+&lt;p>Talk description&lt;/p></content></item><item><title>Sponsors</title><link>https://acod.io/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/sponsors/</guid><description>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
+&lt;h1 id="gold-sponsors">Gold Sponsors&lt;/h1>
+&lt;h2 id="capitalonehttpscapitalonecom">&lt;a href="https://capitalone.com">CapitalOne&lt;/a>&lt;/h2>
+&lt;p>&lt;a href="https://capitalone.com">&lt;img alt="CapitalOne Logo" src="https://acod.io/img/CapitalOne_Gold.png">&lt;/a>&lt;/p>
+&lt;h2 id="intel-federalhttpswwwintelcomcontentwwwusengovernmentpublic-sector-solutions-overviewhtml">&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">Intel Federal&lt;/a>&lt;/h2>
+&lt;p>&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">&lt;img alt="Intel Logo" src="https://acod.io/img/IntelFederal_Gold.png">&lt;/a>&lt;/p>
+&lt;h2 id="jupiteronehttpswwwjupiteronecomlearn-more">&lt;a href="https://www.jupiterone.com/learn-more">JupiterOne&lt;/a>&lt;/h2>
+&lt;p>&lt;a href="https://www.jupiterone.com/learn-more">&lt;img alt="JupiterOne Logo" src="https://acod.io/img/JupiterOne_Gold.png">&lt;/a>&lt;/p>
+&lt;h2 id="tachtechhttpstachtechnet">&lt;a href="https://tachtech.net/">TachTech&lt;/a>&lt;/h2>
+&lt;p>&lt;a href="https://tachtech.net/">&lt;img alt="TachTech Logo" src="https://acod.io/img/TachTech_Gold.png">&lt;/a>&lt;/p></description><content>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
 &lt;h1 id="gold-sponsors">Gold Sponsors&lt;/h1>
 &lt;h2 id="capitalonehttpscapitalonecom">&lt;a href="https://capitalone.com">CapitalOne&lt;/a>&lt;/h2>
 &lt;p>&lt;a href="https://capitalone.com">&lt;img alt="CapitalOne Logo" src="https://acod.io/img/CapitalOne_Gold.png">&lt;/a>&lt;/p>
