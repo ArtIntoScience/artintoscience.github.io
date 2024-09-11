@@ -12,4 +12,9 @@ Full schedule coming soon.
 
 ## Hotels
 
-Coming soon.
+[Book your group rate for SEI - November 13 2024](https://www.marriott.com/events/start.mi?id=1722449683299&key=GRP)
+Event Summary:
+
+| Start Date                 | End Date                  | Last Day to Book         |
+| -------------------------- | ------------------------- | ------------------------ |
+| Tuesday, November 13, 2024 | Friday, November 15, 2024 | Friday, November 1, 2024 |

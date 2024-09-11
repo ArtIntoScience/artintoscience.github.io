@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACoD</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ACoD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showcase</title>
+      <link>http://localhost:1313/showcase/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/showcase/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+      <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;
+&lt;p&gt;Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code&gt;odio a dignissim pharetra&lt;/code&gt;, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* PostCSS code */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;pre&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#1a1a1d&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;border-radius&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;rem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;overflow&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;@media&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;(--phone)&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;white-space&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;pre-wrap&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;word-wrap&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;break-word&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;none&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;!important&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#ccc&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inherit&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// JS code
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu-trigger&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;getComputedStyle&lt;/span&gt;(document.&lt;span style=&#34;color:#a6e22e&#34;&gt;body&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;getPropertyValue&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;--phoneWidth&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; window.&lt;span style=&#34;color:#a6e22e&#34;&gt;matchMedia&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;matches&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;, () =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;window.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;resize&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- HTML code --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;main&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ range .Pages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      {{ .Render &amp;#34;summary&amp;#34;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;
+&lt;p&gt;Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maecenas elementum vitae nibh vitae porttitor.&lt;/li&gt;
+&lt;li&gt;Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.&lt;/li&gt;
+&lt;li&gt;Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.&lt;/li&gt;
+&lt;li&gt;Etiam vitae enim quis velit lobortis placerat a ut sem.
+&lt;ul&gt;
+&lt;li&gt;Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.&lt;/li&gt;
+&lt;li&gt;Praesent fermentum orci quis leo facilisis posuere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About the conference</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>ACoD Goals Push the Art to a Science: Creating a Professional Discipline To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.
+We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.
+Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement Security conferences glorify the attacker, and accept attack-oriented talks.</description>
+      <content>&lt;h2 id=&#34;acod-goals&#34;&gt;ACoD Goals&lt;/h2&gt;
+&lt;h3 id=&#34;push-the-art-to-a-science-creating-a-professional-discipline&#34;&gt;Push the Art to a Science: Creating a Professional Discipline&lt;/h3&gt;
+&lt;p&gt;To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.&lt;/p&gt;
+&lt;p&gt;We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.&lt;/p&gt;
+&lt;h3 id=&#34;glorify-the-defense-tools-techniques-and-ideas-people-can-leave-the-conference-with-and-implement&#34;&gt;Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement&lt;/h3&gt;
+&lt;p&gt;Security conferences glorify the attacker, and accept attack-oriented talks. We&amp;rsquo;d like to put defense on a pedestal and take in talks that interest us - operational talks on defense.&lt;/p&gt;
+&lt;p&gt;As a field, we need practitioners to offer implementable ideas and or reference implementations to reduce the amount of work that someone has to do to implement what they learn.&lt;/p&gt;
+&lt;h3 id=&#34;acod-is-a-working-conference&#34;&gt;ACoD is a working conference&lt;/h3&gt;
+&lt;p&gt;In the &amp;ldquo;Glorify the Defense&amp;rdquo; (operations) track we will have talks of interest on various investigations and case studies on the one hand, and tools and ideas used to defend our environments on the other.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;Push the art into a science&amp;rdquo; (philosophy) track will be dedicated to working tracks, where the members introduce their own concepts, and then discuss specifics. Most importantly, finish the day with a summary that can be used to push our field into the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We want to get more out of ACoD:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Often, the best value we as attendees get out of a conference is personal relationships that form. We&amp;rsquo;d like to generate more of this value.&lt;/p&gt;
+&lt;p&gt;Some of us are introverts, some are shy. Regardless, it is hard to meet too many people in conferences, and see how we can help each other. We will work to address this by building more discussion into the agenda, such as networking opportunities, small working groups, and other similar ideas, into the DNA of how the conference will run.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Get to Know Our Convention!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Not sure if Art into Science is for you? Check out our Youtube channel below to view presentations from last year&amp;rsquo;s conference, or follow us on Twitter to stay up-to-date with the latest news from the Art into Science conference!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC4EhrLEDYKuuwdTvGWVgiEQ&#34;&gt;Youtube Channel&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;conference-staff&#34;&gt;Conference staff&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Social/Contact&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Steve Orrin&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/sounil/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Valerie Zargarpur&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/valerie-zargarpur/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Guillaume Ross&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/guillaumeross/&#34;&gt;LinkedIn&lt;/a&gt; - &lt;a href=&#34;https://irrelephant.co/@g&#34;&gt;Mastodon&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Derek Chamorro&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/derekchamorro/&#34;&gt;LinkedIn&lt;/a&gt; - &lt;a href=&#34;https://infosec.exchange/@randomsec&#34;&gt;Mastodon&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Andrew Cunje&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gadi Evron&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dan LaVoie&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/dlavoie&#34;&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;David Shinberg&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/davidshinberg/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>ACoD: A Conference on Defense</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>ACoD: A Conference on Defense 2024
+November 13 and 14, 2024
+SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456
+CFP Open! Submit your talk!
+ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:
+Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline.</description>
+      <content>&lt;p&gt;&lt;strong&gt;ACoD: A Conference on Defense 2024&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November 13 and 14, 2024&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9&#34;&gt;SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CFP Open!&lt;/strong&gt;  &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform&#34;&gt;Submit your talk!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline. We discuss, model, and advance security concepts to facilitate this evolution.&lt;/li&gt;
+&lt;li&gt;Glorify the Defense: While many conferences focus on attack strategies, ACoD chooses to spotlight the defenders. We welcome operational talks on defense, offering attendees actionable tools, techniques, and ideas to apply in their own environments.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Not sure if Art into Science is for you? Take a peek at our &lt;a href=&#34;https://www.youtube.com/@aconferencefordefense-acod8650&#34;&gt;Youtube channel&lt;/a&gt; to view presentations from our previous conference.&lt;/p&gt;
+&lt;p&gt;Ready to join us? A limited number of tickets are still available. Secure your spot today!&lt;/p&gt;
+&lt;p&gt;We can’t wait to see you at the Art into Science conference. Visit our &lt;a href=&#34;https://artintoscience.com/schedule/&#34;&gt;Schedule and Venue&lt;/a&gt; page for more information about travel and the daily schedule for the conference.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zeffy.com/en-US/ticketing/e6b8943c-d7e1-417d-8335-b3f44d6b1f8a&#34;&gt;Get your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ACoD is still free but space is limited. Sign up to secure your spot!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Call for Presenters</title>
+      <link>http://localhost:1313/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cfp/</guid>
+      <description>Submit CFP The 2024 CFP is open! Submit your talk!
+Tracks Art Into Science talk tracks are:
+Operations Philosophical/Art Into Science For operations, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.
+For the philosophical track, we invite you to share your thoughts, experiences, and propose new ideas for building our discipline.</description>
+      <content>&lt;h2 id=&#34;submit-cfp&#34;&gt;Submit CFP&lt;/h2&gt;
+&lt;p&gt;The 2024 CFP is open! &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform&#34;&gt;Submit your talk!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tracks&#34;&gt;Tracks&lt;/h2&gt;
+&lt;p&gt;Art Into Science talk tracks are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Operations&lt;/li&gt;
+&lt;li&gt;Philosophical/Art Into Science&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For &lt;strong&gt;operations&lt;/strong&gt;, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.&lt;/p&gt;
+&lt;p&gt;For the &lt;strong&gt;philosophical&lt;/strong&gt; track, we invite you to share your thoughts, experiences, and propose new ideas for building our discipline. This track is unlike most other conferences in that there is a high degree of interaction expected among speakers and attendees. In fact, one of the expected outputs are documents with authorship credit that include attendees that contributed during the conference.&lt;/p&gt;
+&lt;p&gt;You can review some of the past talks and topics on our &lt;a href=&#34;https://www.youtube.com/@aconferencefordefense-acod8650&#34;&gt;YouTube channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some things to avoid:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stays away from statements such as “we should all use Linux” or “this wouldn’t happen if people patched their systems.”&lt;/li&gt;
+&lt;li&gt;Mentions of Sun Tzu are not allowed in lectures, unless they are new, previously unseen 0day quotes.&lt;/li&gt;
+&lt;li&gt;Purely academic topics such as: “5% faster crypto!” &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;talk-format&#34;&gt;Talk Format&lt;/h2&gt;
+&lt;p&gt;Talks are 20 or 40 minutes. If requesting 40 minutes in the form, please explain why this topic can&amp;rsquo;t fit in 20 minutes. Remember the audience: there&amp;rsquo;s no need to start with the basics.&lt;/p&gt;
+&lt;h3 id=&#34;classic-talks&#34;&gt;Classic Talks&lt;/h3&gt;
+&lt;p&gt;ACoD will invite select speakers who, in our opinion, gave talks or wrote papers that defined our field, so that we can learn from their experience, as well as record them for posterity. Please submit ideas for who to invite, with contact details, if you have them, to: &lt;a href=&#34;mailto:contact@artintoscience.com&#34;&gt;contact@artintoscience.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;diversity&#34;&gt;Diversity&lt;/h3&gt;
+&lt;p&gt;ACoD strongly believes in the power of diversity and inclusion within security. We actively encourage and warmly welcome submissions from individuals of all backgrounds, regardless of race, religion, gender, disability, age, national origin, sexual orientation, gender identity, or expression.&lt;/p&gt;
+&lt;p&gt;We are eager to hear from diverse voices and we sincerely hope to see these groups well-represented in our submissions.&lt;/p&gt;
+&lt;h2 id=&#34;suggested-topics&#34;&gt;Suggested Topics&lt;/h2&gt;
+&lt;h3 id=&#34;operations&#34;&gt;Operations&lt;/h3&gt;
+&lt;p&gt;We welcome practical defense-related topics. Offer implementable ideas, case studies, or reference implementations.&lt;/p&gt;
+&lt;p&gt;Topics can range from security operations, automation, research on threat actors, fraud, software development, incident response, detection engineering and much more.&lt;/p&gt;
+&lt;h3 id=&#34;philosophicalart-into-science&#34;&gt;Philosophical/Art Into Science&lt;/h3&gt;
+&lt;p&gt;The CFP for the Philosophy Track encourages submitters to consider the following to increase your chances of getting your submission accepted:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build upon other talks given in previous years.&lt;/li&gt;
+&lt;li&gt;Create space/opportunities for attendees to contribute to your topic. All attendees are potential contributors.&lt;/li&gt;
+&lt;li&gt;Orient towards a “Guide-on-the-Side” style talk over “Sage-on-the-Stage”.&lt;/li&gt;
+&lt;li&gt;Identify first principles.&lt;/li&gt;
+&lt;li&gt;Model the results, and ensure the resulting models are useful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;other-more-mundane-topics-of-interest-for-the-philosophy-track&#34;&gt;Other More Mundane Topics of Interest for the Philosophy Track&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;How do you hire and keep your security professionals?&lt;/li&gt;
+&lt;li&gt;Internal tool building. Build vs Buy. When to choose which, and why?&lt;/li&gt;
+&lt;li&gt;The geopolitics and legal implications of security.&lt;/li&gt;
+&lt;li&gt;Getting executive attention: Unlocking budget and success metrics.&lt;/li&gt;
+&lt;li&gt;Efficacy evaluation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This track runs the full duration of the convention to facilitate topic discussion.&lt;/p&gt;
+&lt;h4 id=&#34;previous-documents-that-were-created-by-attendees-include-the-following&#34;&gt;Previous documents that were created by attendees include the following:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/acod-prof&#34;&gt;Professionalization Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/acod-tef&#34;&gt;Product Testing Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/acod-hazard&#34;&gt;Hazard Assessment Framework / Forecasting Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/acod-near-miss&#34;&gt;Near Misses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Unless it’s 10% faster crypto. That’s cool. And crypto means cryptography.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://localhost:1313/coc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/coc/</guid>
+      <description>Code of Conduct Summary: Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
+      <content>&lt;h1 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media such as Twitter and other online media.  Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p&gt;
+&lt;h2 id=&#34;detail&#34;&gt;Detail:&lt;/h2&gt;
+&lt;h3 id=&#34;what-we-expect&#34;&gt;What We Expect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Be Kind.&lt;/li&gt;
+&lt;li&gt;Be Respectful.&lt;/li&gt;
+&lt;li&gt;Be helpful and help us all improve ourselves. We do this through honest and insightful discussion with our peers and partners. Attendees may not always agree on a topic and rational discourse is encouraged, with the expectation that discourse will be thoughtful and respectful.&lt;/li&gt;
+&lt;li&gt;Be Ethical. Don’t intentionally mislead ACoD attendees or staff. The field of security is well known for breaking things, but the mission of ACoD is to come together to build a collaborative community of defenders. This requires trustworthy behavior and honesty.&lt;/li&gt;
+&lt;li&gt;Honor the information privacy and confidentiality requests of others.  Do not take photos of people without first receiving their permission.&lt;/li&gt;
+&lt;li&gt;ACoD staff will actively enforce these standards, but won’t always see everything that occurs. We ask all attendees to take an active role in ensuring the quality and reputation of the ACoD event. If you see or experience something that you feel violates our guidelines please notify our operations team immediately either in person or by email to an ACoD staff email address as announced at the conference. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;unacceptable-behavior&#34;&gt;Unacceptable Behavior&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Penetration testing or social engineering activity targeting attendees, speakers, staff, or the conference venue.&lt;/li&gt;
+&lt;li&gt;Harassment, including offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;consequences&#34;&gt;Consequences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Schedule and Venue</title>
+      <link>http://localhost:1313/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/schedule/</guid>
+      <description>November 13 and 14, 2024 Full schedule coming soon.
+Venue SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456
+Hotels Book your group rate for SEI - November 13 2024 Event Summary:
+Start Date End Date Last Day to Book Tuesday, November 13, 2024 Friday, November 15, 2024 Friday, November 1, 2024 </description>
+      <content>&lt;p&gt;&lt;strong&gt;November 13 and 14, 2024&lt;/strong&gt;
+Full schedule coming soon.&lt;/p&gt;
+&lt;h1 id=&#34;venue&#34;&gt;Venue&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9&#34;&gt;SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hotels&#34;&gt;Hotels&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.marriott.com/events/start.mi?id=1722449683299&amp;key=GRP&#34;&gt;Book your group rate for SEI - November 13 2024&lt;/a&gt;
+Event Summary:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start Date&lt;/th&gt;
+&lt;th&gt;End Date&lt;/th&gt;
+&lt;th&gt;Last Day to Book&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Tuesday, November 13, 2024&lt;/td&gt;
+&lt;td&gt;Friday, November 15, 2024&lt;/td&gt;
+&lt;td&gt;Friday, November 1, 2024&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Speakers</title>
+      <link>http://localhost:1313/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/speakers/</guid>
+      <description>Speakers coming soon Track: Talk Title
+Date, | Time
+Talk description</description>
+      <content>&lt;h2 id=&#34;speakers-coming-soon&#34;&gt;Speakers coming soon&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Track: Talk Title&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Date,   |  Time&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Talk description&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>http://localhost:1313/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sponsors/</guid>
+      <description>Art Into Science would not be possible without the generous contributions from our sponsors.
+Gold Sponsors CapitalOne Intel Federal JupiterOne TachTech </description>
+      <content>&lt;p&gt;Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p&gt;
+&lt;h1 id=&#34;gold-sponsors&#34;&gt;Gold Sponsors&lt;/h1&gt;
+&lt;h2 id=&#34;capitalonehttpscapitalonecom&#34;&gt;&lt;a href=&#34;https://capitalone.com&#34;&gt;CapitalOne&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://capitalone.com&#34;&gt;&lt;img alt=&#34;CapitalOne Logo&#34; src=&#34;http://localhost:1313/img/CapitalOne_Gold.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;intel-federalhttpswwwintelcomcontentwwwusengovernmentpublic-sector-solutions-overviewhtml&#34;&gt;&lt;a href=&#34;https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html&#34;&gt;Intel Federal&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html&#34;&gt;&lt;img alt=&#34;Intel Logo&#34; src=&#34;http://localhost:1313/img/IntelFederal_Gold.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;jupiteronehttpswwwjupiteronecomlearn-more&#34;&gt;&lt;a href=&#34;https://www.jupiterone.com/learn-more&#34;&gt;JupiterOne&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jupiterone.com/learn-more&#34;&gt;&lt;img alt=&#34;JupiterOne Logo&#34; src=&#34;http://localhost:1313/img/JupiterOne_Gold.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tachtechhttpstachtechnet&#34;&gt;&lt;a href=&#34;https://tachtech.net/&#34;&gt;TachTech&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://tachtech.net/&#34;&gt;&lt;img alt=&#34;TachTech Logo&#34; src=&#34;http://localhost:1313/img/TachTech_Gold.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
