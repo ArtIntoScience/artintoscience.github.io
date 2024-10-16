@@ -14,8 +14,9 @@ Full schedule coming soon.
 
 ACOD 2024 has a group rate at the following preferred hotel: 
 
-**Residence Inn Philadelphia Valley Forge/Collegeville**
+**Residence Inn Philadelphia Valley Forge/Collegeville** 
 500 Campus Drive Collegeville, Pennsylvania, USA, 19426
+
 Group rate: $139/night before taxes and fees
 
 [Book your group rate for SEI - November 13 2024](https://www.marriott.com/event-reservations/reservation-link.mi?id=1722449683299&key=GRP&guestreslink2=true)
