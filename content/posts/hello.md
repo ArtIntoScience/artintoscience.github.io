@@ -24,4 +24,4 @@ We can’t wait to see you at the Art into Science conference. Visit our [Schedu
 
 [Get your tickets here!](https://www.zeffy.com/en-US/ticketing/e6b8943c-d7e1-417d-8335-b3f44d6b1f8a)
 
-ACoD is registration is only $50 but space is limited. Sign up to secure your spot!
+ACoD registration is only $50 but space is limited. Sign up to secure your spot!
