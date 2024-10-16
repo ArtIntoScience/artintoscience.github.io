@@ -91,50 +91,50 @@
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align: left">Name&lt;/th>
-&lt;th style="text-align: left">Social/Contact&lt;/th>
+&lt;th>Name&lt;/th>
+&lt;th>Social/Contact&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align: left">Steve Orrin&lt;/td>
-&lt;td style="text-align: left">&lt;/td>
+&lt;td>Steve Orrin&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">Sounil Yu&lt;/td>
-&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/sounil/">LinkedIn&lt;/a>&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>&lt;a href="https://www.linkedin.com/in/sounil/">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">Valerie Zargarpur&lt;/td>
-&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/valerie-zargarpur/">LinkedIn&lt;/a>&lt;/td>
+&lt;td>Valerie Zargarpur&lt;/td>
+&lt;td>&lt;a href="https://www.linkedin.com/in/valerie-zargarpur/">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">John Althouse&lt;/td>
-&lt;td style="text-align: left">&lt;/td>
+&lt;td>John Althouse&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">Guillaume Ross&lt;/td>
-&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/guillaumeross/">LinkedIn&lt;/a> - &lt;a href="https://irrelephant.co/@g">Mastodon&lt;/a>&lt;/td>
+&lt;td>Guillaume Ross&lt;/td>
+&lt;td>&lt;a href="https://www.linkedin.com/in/guillaumeross/">LinkedIn&lt;/a> - &lt;a href="https://irrelephant.co/@g">Mastodon&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">Derek Chamorro&lt;/td>
-&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/derekchamorro/">LinkedIn&lt;/a> - &lt;a href="https://infosec.exchange/@randomsec">Mastodon&lt;/a>&lt;/td>
+&lt;td>Derek Chamorro&lt;/td>
+&lt;td>&lt;a href="https://www.linkedin.com/in/derekchamorro/">LinkedIn&lt;/a> - &lt;a href="https://infosec.exchange/@randomsec">Mastodon&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">Andrew Cunje&lt;/td>
-&lt;td style="text-align: left">&lt;/td>
+&lt;td>Andrew Cunje&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">Gadi Evron&lt;/td>
-&lt;td style="text-align: left">&lt;/td>
+&lt;td>Gadi Evron&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">Dan LaVoie&lt;/td>
-&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/dlavoie">LinkedIn&lt;/a>&lt;/td>
+&lt;td>Dan LaVoie&lt;/td>
+&lt;td>&lt;a href="https://www.linkedin.com/in/dlavoie">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">David Shinberg&lt;/td>
-&lt;td style="text-align: left">&lt;a href="https://www.linkedin.com/in/davidshinberg/">LinkedIn&lt;/a>&lt;/td>
+&lt;td>David Shinberg&lt;/td>
+&lt;td>&lt;a href="https://www.linkedin.com/in/davidshinberg/">LinkedIn&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></content></item><item><title>ACoD: A Conference on Defense</title><link>https://acod.io/posts/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/posts/hello/</guid><description>&lt;p>&lt;strong>ACoD: A Conference on Defense 2024&lt;/strong>&lt;/p>
@@ -256,46 +256,62 @@ Full schedule coming soon.&lt;/p>
 &lt;h1 id="venue">Venue&lt;/h1>
 &lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
 &lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;p>&lt;a href="https://www.marriott.com/events/start.mi?id=1722449683299&amp;key=GRP">Book your group rate for SEI - November 13 2024&lt;/a>
-Event Summary:&lt;/p>
+&lt;p>ACOD 2024 has a group rate at the following preferred hotel:&lt;/p>
+&lt;p>&lt;strong>Residence Inn Philadelphia Valley Forge/Collegeville&lt;/strong>
+500 Campus Drive Collegeville, Pennsylvania, USA, 19426
+Group rate: $139/night before taxes and fees&lt;/p>
+&lt;p>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1722449683299&amp;key=GRP&amp;guestreslink2=true">Book your group rate for SEI - November 13 2024&lt;/a>&lt;/p>
+&lt;h2 id="event-summary">Event Summary&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align: left">Start Date&lt;/th>
-&lt;th style="text-align: left">End Date&lt;/th>
-&lt;th style="text-align: left">Last Day to Book&lt;/th>
+&lt;th>Start Date&lt;/th>
+&lt;th>End Date&lt;/th>
+&lt;th>Last Day to Book&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align: left">Tuesday, November 13, 2024&lt;/td>
-&lt;td style="text-align: left">Friday, November 15, 2024&lt;/td>
-&lt;td style="text-align: left">Friday, November 1, 2024&lt;/td>
+&lt;td>Tuesday, November 13, 2024&lt;/td>
+&lt;td>Friday, November 15, 2024&lt;/td>
+&lt;td>Friday, November 1, 2024&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description><content>&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>
+&lt;/table>
+&lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
+&lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p></description><content>&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>
 Full schedule coming soon.&lt;/p>
 &lt;h1 id="venue">Venue&lt;/h1>
 &lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
 &lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;p>&lt;a href="https://www.marriott.com/events/start.mi?id=1722449683299&amp;key=GRP">Book your group rate for SEI - November 13 2024&lt;/a>
-Event Summary:&lt;/p>
+&lt;p>ACOD 2024 has a group rate at the following preferred hotel:&lt;/p>
+&lt;p>&lt;strong>Residence Inn Philadelphia Valley Forge/Collegeville&lt;/strong>
+500 Campus Drive Collegeville, Pennsylvania, USA, 19426
+Group rate: $139/night before taxes and fees&lt;/p>
+&lt;p>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1722449683299&amp;key=GRP&amp;guestreslink2=true">Book your group rate for SEI - November 13 2024&lt;/a>&lt;/p>
+&lt;h2 id="event-summary">Event Summary&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align: left">Start Date&lt;/th>
-&lt;th style="text-align: left">End Date&lt;/th>
-&lt;th style="text-align: left">Last Day to Book&lt;/th>
+&lt;th>Start Date&lt;/th>
+&lt;th>End Date&lt;/th>
+&lt;th>Last Day to Book&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align: left">Tuesday, November 13, 2024&lt;/td>
-&lt;td style="text-align: left">Friday, November 15, 2024&lt;/td>
-&lt;td style="text-align: left">Friday, November 1, 2024&lt;/td>
+&lt;td>Tuesday, November 13, 2024&lt;/td>
+&lt;td>Friday, November 15, 2024&lt;/td>
+&lt;td>Friday, November 1, 2024&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
+&lt;/table>
+&lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
+&lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p>
+&lt;p>&lt;a href="https://www.hilton.com/en/hotels/phlvyhx-hampton-suites-valley-forge-oaks/">Hampton Inn &amp;amp; Suites Valley Forge/Oaks&lt;/a>
+100 Cresson Blvd, Phoenixville, PA 19460&lt;/p>
+&lt;p>&lt;a href="https://www.hilton.com/en/hotels/phlpogi-hilton-garden-inn-valley-forge-oaks/">Hilton Garden Inn Valley Forge/Oaks&lt;/a>
+500 Cresson Blvd, Phoenixville, PA 19460&lt;/p></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
 &lt;p>&lt;strong>Track: Talk Title&lt;/strong>&lt;/p>
 &lt;p>&lt;em>Date, | Time&lt;/em>&lt;/p>
 &lt;p>Talk description&lt;/p></description><content>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
