@@ -6,7 +6,7 @@ paginate = 5
 [params]
   contentTypeName = "posts"
   themeColor = "blue"
-  showMenuItems = 6
+  showMenuItems = 7
   fullWidthTheme = false
   centerTheme = false
   favicon = "favicon.svg"
@@ -33,6 +33,10 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.en.menu]
+        [[languages.en.menu.main]]
+        identifier = "tickets"
+        name = "Tickets"
+        url = "https://www.zeffy.com/en-US/ticketing/e6b8943c-d7e1-417d-8335-b3f44d6b1f8a"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
@@ -43,7 +47,7 @@ paginate = 5
         url = "/speakers"
       [[languages.en.menu.main]]
         identifier = "cfp"
-        name = "Call for Speakers"
+        name = "CFP"
         url = "/cfp"
       [[languages.en.menu.main]]
         identifier = "coc"
