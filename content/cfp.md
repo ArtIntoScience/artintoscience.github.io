@@ -4,7 +4,9 @@ title: "Call for Presenters"
 
 ## Submit CFP
 
-The 2024 CFP is open! [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
+The 2025 (Q1) CFP is open! [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
+
+ACoD is postponed until early 2025 (end of Q1). Our CFP is open!
 
 ## Tracks
 
