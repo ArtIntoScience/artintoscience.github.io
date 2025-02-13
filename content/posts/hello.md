@@ -5,7 +5,7 @@ showFullContent = true
 +++
 **ACoD: A Conference on Defense 2024** is **POSTPONED** until early 2025.
 
-**POSTPONED TO EARLY 2025 (end of Q1) ~~~November 13 and 14, 2024~~**
+**POSTPONED TO EARLY 2025 (end of Q1) ~~November 13 and 14, 2024~~**
 
 ~~[SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456](https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9)~~
 
