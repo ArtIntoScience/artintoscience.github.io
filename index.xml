@@ -2,8 +2,7 @@
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p></description><content>&lt;h2 id="header-2">Header 2&lt;/h2>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p>
 &lt;blockquote>
-&lt;p>Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p>
-&lt;/blockquote>
+&lt;p>Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p>&lt;/blockquote>
 &lt;h3 id="header-3">Header 3&lt;/h3>
 &lt;p>Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code>odio a dignissim pharetra&lt;/code>, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-css" data-lang="css">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">/* PostCSS code */&lt;/span>
@@ -138,11 +137,11 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></content></item><item><title>ACoD: A Conference on Defense</title><link>https://acod.io/posts/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/posts/hello/</guid><description>&lt;p>&lt;strong>ACoD: A Conference on Defense 2024&lt;/strong> is &lt;strong>POSTPONED&lt;/strong> until early 2025.&lt;/p>
-&lt;p>&lt;strong>POSTPONED TO EARLY 2025 (end of Q1) ~~~November 13 and 14, 2024~~&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>POSTPONED TO EARLY 2025 (end of Q1) &lt;del>November 13 and 14, 2024&lt;/del>&lt;/strong>&lt;/p>
 &lt;p>&lt;del>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/del>&lt;/p>
 &lt;p>&lt;strong>2025 CFP Open!&lt;/strong> &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform">Submit your talk!&lt;/a>&lt;/p>
 &lt;p>ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p></description><content>&lt;p>&lt;strong>ACoD: A Conference on Defense 2024&lt;/strong> is &lt;strong>POSTPONED&lt;/strong> until early 2025.&lt;/p>
-&lt;p>&lt;strong>POSTPONED TO EARLY 2025 (end of Q1) ~~~November 13 and 14, 2024~~&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>POSTPONED TO EARLY 2025 (end of Q1) &lt;del>November 13 and 14, 2024&lt;/del>&lt;/strong>&lt;/p>
 &lt;p>&lt;del>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/del>&lt;/p>
 &lt;p>&lt;strong>2025 CFP Open!&lt;/strong> &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform">Submit your talk!&lt;/a>&lt;/p>
 &lt;p>ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p>
@@ -247,16 +246,12 @@
 &lt;h3 id="consequences">Consequences&lt;/h3>
 &lt;ul>
 &lt;li>If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.&lt;/li>
-&lt;/ul></content></item><item><title>Schedule and Venue</title><link>https://acod.io/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/schedule/</guid><description>&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>
-Full schedule coming soon.&lt;/p>
+&lt;/ul></content></item><item><title>Schedule and Venue</title><link>https://acod.io/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/schedule/</guid><description>&lt;p>&lt;del>&lt;strong>November 13 and 14, 2024&lt;/strong>&lt;/del>
+New dates coming soon.&lt;/p>
 &lt;h1 id="venue">Venue&lt;/h1>
-&lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
+&lt;p>TBD&lt;/p>
 &lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;p>ACOD 2024 has a group rate at the following preferred hotel:&lt;/p>
-&lt;p>&lt;strong>Residence Inn Philadelphia Valley Forge/Collegeville&lt;/strong>
-500 Campus Drive Collegeville, Pennsylvania, USA, 19426&lt;/p>
-&lt;p>Group rate: $139/night before taxes and fees&lt;/p>
-&lt;p>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1722449683299&amp;key=GRP&amp;guestreslink2=true">Book your group rate for SEI - November 13 2024&lt;/a>&lt;/p>
+&lt;p>TBD&lt;/p>
 &lt;h2 id="event-summary">Event Summary&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -268,46 +263,40 @@ Full schedule coming soon.&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Tuesday, November 13, 2024&lt;/td>
-&lt;td>Friday, November 15, 2024&lt;/td>
-&lt;td>Friday, November 1, 2024&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
-&lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p></description><content>&lt;p>&lt;strong>November 13 and 14, 2024&lt;/strong>
-Full schedule coming soon.&lt;/p>
-&lt;h1 id="venue">Venue&lt;/h1>
-&lt;p>&lt;a href="https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9">SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456&lt;/a>&lt;/p>
-&lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;p>ACOD 2024 has a group rate at the following preferred hotel:&lt;/p>
-&lt;p>&lt;strong>Residence Inn Philadelphia Valley Forge/Collegeville&lt;/strong>
-500 Campus Drive Collegeville, Pennsylvania, USA, 19426&lt;/p>
-&lt;p>Group rate: $139/night before taxes and fees&lt;/p>
-&lt;p>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1722449683299&amp;key=GRP&amp;guestreslink2=true">Book your group rate for SEI - November 13 2024&lt;/a>&lt;/p>
-&lt;h2 id="event-summary">Event Summary&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Start Date&lt;/th>
-&lt;th>End Date&lt;/th>
-&lt;th>Last Day to Book&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Tuesday, November 13, 2024&lt;/td>
-&lt;td>Friday, November 15, 2024&lt;/td>
-&lt;td>Friday, November 1, 2024&lt;/td>
+&lt;td>TBD&lt;/td>
+&lt;td>TBD&lt;/td>
+&lt;td>TBD&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
 &lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p>
-&lt;p>&lt;a href="https://www.hilton.com/en/hotels/phlvyhx-hampton-suites-valley-forge-oaks/">Hampton Inn &amp;amp; Suites Valley Forge/Oaks&lt;/a>
-100 Cresson Blvd, Phoenixville, PA 19460&lt;/p>
-&lt;p>&lt;a href="https://www.hilton.com/en/hotels/phlpogi-hilton-garden-inn-valley-forge-oaks/">Hilton Garden Inn Valley Forge/Oaks&lt;/a>
-500 Cresson Blvd, Phoenixville, PA 19460&lt;/p></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
+&lt;p>TBD&lt;/p></description><content>&lt;p>&lt;del>&lt;strong>November 13 and 14, 2024&lt;/strong>&lt;/del>
+New dates coming soon.&lt;/p>
+&lt;h1 id="venue">Venue&lt;/h1>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="hotels">Hotels&lt;/h2>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="event-summary">Event Summary&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Start Date&lt;/th>
+&lt;th>End Date&lt;/th>
+&lt;th>Last Day to Book&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>TBD&lt;/td>
+&lt;td>TBD&lt;/td>
+&lt;td>TBD&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
+&lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p>
+&lt;p>TBD&lt;/p></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
 &lt;p>&lt;strong>Track: Talk Title&lt;/strong>&lt;/p>
 &lt;p>&lt;em>Date, | Time&lt;/em>&lt;/p>
 &lt;p>Talk description&lt;/p></description><content>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
@@ -316,19 +305,19 @@ Full schedule coming soon.&lt;/p>
 &lt;p>Talk description&lt;/p></content></item><item><title>Sponsors</title><link>https://acod.io/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/sponsors/</guid><description>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
 &lt;h1 id="gold-sponsors">Gold Sponsors&lt;/h1>
 &lt;h2 id="capitalonehttpscapitalonecom">&lt;a href="https://capitalone.com">CapitalOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://capitalone.com">&lt;img alt="CapitalOne Logo" src="https://acod.io/img/CapitalOne_Gold.png">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/CapitalOne_Gold.png" alt="CapitalOne Logo">&lt;/a>&lt;/p>
 &lt;h2 id="intel-federalhttpswwwintelcomcontentwwwusengovernmentpublic-sector-solutions-overviewhtml">&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">Intel Federal&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">&lt;img alt="Intel Logo" src="https://acod.io/img/IntelFederal_Gold.png">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">&lt;img src="https://acod.io/img/IntelFederal_Gold.png" alt="Intel Logo">&lt;/a>&lt;/p>
 &lt;h2 id="jupiteronehttpswwwjupiteronecomlearn-more">&lt;a href="https://www.jupiterone.com/learn-more">JupiterOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.jupiterone.com/learn-more">&lt;img alt="JupiterOne Logo" src="https://acod.io/img/JupiterOne_Gold.png">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.jupiterone.com/learn-more">&lt;img src="https://acod.io/img/JupiterOne_Gold.png" alt="JupiterOne Logo">&lt;/a>&lt;/p>
 &lt;h2 id="tachtechhttpstachtechnet">&lt;a href="https://tachtech.net/">TachTech&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://tachtech.net/">&lt;img alt="TachTech Logo" src="https://acod.io/img/TachTech_Gold.png">&lt;/a>&lt;/p></description><content>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
+&lt;p>&lt;a href="https://tachtech.net/">&lt;img src="https://acod.io/img/TachTech_Gold.png" alt="TachTech Logo">&lt;/a>&lt;/p></description><content>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
 &lt;h1 id="gold-sponsors">Gold Sponsors&lt;/h1>
 &lt;h2 id="capitalonehttpscapitalonecom">&lt;a href="https://capitalone.com">CapitalOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://capitalone.com">&lt;img alt="CapitalOne Logo" src="https://acod.io/img/CapitalOne_Gold.png">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/CapitalOne_Gold.png" alt="CapitalOne Logo">&lt;/a>&lt;/p>
 &lt;h2 id="intel-federalhttpswwwintelcomcontentwwwusengovernmentpublic-sector-solutions-overviewhtml">&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">Intel Federal&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">&lt;img alt="Intel Logo" src="https://acod.io/img/IntelFederal_Gold.png">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">&lt;img src="https://acod.io/img/IntelFederal_Gold.png" alt="Intel Logo">&lt;/a>&lt;/p>
 &lt;h2 id="jupiteronehttpswwwjupiteronecomlearn-more">&lt;a href="https://www.jupiterone.com/learn-more">JupiterOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.jupiterone.com/learn-more">&lt;img alt="JupiterOne Logo" src="https://acod.io/img/JupiterOne_Gold.png">&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.jupiterone.com/learn-more">&lt;img src="https://acod.io/img/JupiterOne_Gold.png" alt="JupiterOne Logo">&lt;/a>&lt;/p>
 &lt;h2 id="tachtechhttpstachtechnet">&lt;a href="https://tachtech.net/">TachTech&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://tachtech.net/">&lt;img alt="TachTech Logo" src="https://acod.io/img/TachTech_Gold.png">&lt;/a>&lt;/p></content></item></channel></rss>
+&lt;p>&lt;a href="https://tachtech.net/">&lt;img src="https://acod.io/img/TachTech_Gold.png" alt="TachTech Logo">&lt;/a>&lt;/p></content></item></channel></rss>
