@@ -2,27 +2,29 @@
 title: "Schedule and Venue"
 ---
 
-~~**November 13 and 14, 2024**~~
-New dates coming soon.
-
+Sept 10th and 11th, 2025
 
 # Venue
 
-TBD
+The conference will be held at the Appian Conference Center in McLean, VA.
+
+[7950 Jones Branch Dr McLean, VA 22102](https://maps.app.goo.gl/jNwJgt44pLnw3dZa6)
+
+[![Appian](/img/appian/0039.jpg)](https://capitalone.com)
 
 ## Hotels
 
-TBD
+*Coming soon*
 
 ## Event Summary
 
 | Start Date                 | End Date                  | Last Day to Book         |
 | -------------------------- | ------------------------- | ------------------------ |
-| TBD | TBD | TBD |
+| September 10, 2025 | September 11, 2025 | TBD |
 
 
 ## Additional Accommodations
 
 If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:
 
-TBD
+*Coming soon*

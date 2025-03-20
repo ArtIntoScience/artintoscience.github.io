@@ -2,11 +2,11 @@
 title: "Call for Presenters"
 ---
 
-## Submit CFP
+## Submit CFP - Deadline is June 1
 
 The 2025 (Q1) CFP is open! [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
 
-ACoD is postponed until early 2025 (end of Q1). Our CFP is open!
+Our CFP is open until June 1st.
 
 ## Tracks
 

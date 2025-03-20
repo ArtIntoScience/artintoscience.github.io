@@ -3,13 +3,9 @@ title = "ACoD: A Conference on Defense"
 description = "ACoD: A Conference on Defense"
 showFullContent = true
 +++
-**ACoD: A Conference on Defense 2024** is **POSTPONED** until early 2025.
+**ACoD: A Conference on Defense 2025** is **HAPPENING**, on September 10-11, at the [Appian HQ Conference Center in Virginia](https://maps.app.goo.gl/jNwJgt44pLnw3dZa6). 
 
-**POSTPONED TO EARLY 2025 (end of Q1) ~~November 13 and 14, 2024~~**
-
-~~[SEI Conference Center, 1 Freedom Valley Drive Oaks, PA 19456](https://maps.app.goo.gl/Fo3d9vQAqnswqMPL9)~~
-
-**2025 CFP Open!**  [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
+**2025 CFP Open until June 1!**  [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
 
 ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:
 
