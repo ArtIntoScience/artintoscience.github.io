@@ -4,6 +4,11 @@ title: "Sponsors"
 
 Art Into Science would not be possible without the generous contributions from our sponsors.
 
+# Venue sponsor
+
+## [Appian](https://appian.com)
+[![Appian Logo](/img/AppianLogo.png)](https://appian.com)
+
 # Gold Sponsors
 
 ## [CapitalOne](https://capitalone.com)
