@@ -19,7 +19,7 @@ For **operations**, our audience is seasoned defense practitioners. We invite yo
 
 For the **philosophical** track, we invite you to share your thoughts, experiences, and propose new ideas for building our discipline. This track is unlike most other conferences in that there is a high degree of interaction expected among speakers and attendees. In fact, one of the expected outputs are documents with authorship credit that include attendees that contributed during the conference.
 
-You can review some of the past talks and topics on our [YouTube channel](https://www.youtube.com/@aconferencefordefense-acod8650).
+You can review some of the past talks and topics on our [YouTube channel](https://www.youtube.com/@acod-artintoscience).
 
 Some things to avoid:
 * Stays away from statements such as “we should all use Linux” or “this wouldn’t happen if people patched their systems.”
