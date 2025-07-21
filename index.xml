@@ -273,7 +273,244 @@
 &lt;/table>
 &lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
 &lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p>
-&lt;p>&lt;em>Coming soon&lt;/em>&lt;/p></description><content>&lt;p>Sept 10th and 11th, 2025&lt;/p>
+&lt;p>&lt;em>Coming soon&lt;/em>&lt;/p>
+&lt;h1 id="ops-track">Ops Track&lt;/h1>
+&lt;h2 id="day-1---september-10">Day 1 - September 10&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;th>Length&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Opener&lt;/td>
+&lt;td>8:45&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Keynote&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>0:40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>0:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>10:15&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Teaching the Detection Engineer’s Apprentice with Verified Rewards&lt;/td>
+&lt;td>10:15&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>1:05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:15&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>JA4+ Network Fingerprints vs. Threat Actors&lt;/td>
+&lt;td>13:15&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cloud Guardrails: A Practical Field Guide to Success&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>14:25&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>14:25&lt;/td>
+&lt;td>14:40&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td>
+&lt;td>14:40&lt;/td>
+&lt;td>15:05&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>FIDO2: you can too&lt;/td>
+&lt;td>15:05&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Happy Hour&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>18:50&lt;/td>
+&lt;td>2:00&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="day-2---september-11">Day 2 - September 11&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;th>Length&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Keynote&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>0:40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>0:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>10:35&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>The Challenges of AI Logging&lt;/td>
+&lt;td>10:35&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>1:05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 25&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>13:55&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 26&lt;/td>
+&lt;td>13:55&lt;/td>
+&lt;td>14:15&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 27&lt;/td>
+&lt;td>14:15&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 28&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>14:55&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>14:55&lt;/td>
+&lt;td>15:10&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 29&lt;/td>
+&lt;td>15:10&lt;/td>
+&lt;td>15:30&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 30&lt;/td>
+&lt;td>15:30&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 31&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>16:10&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 32&lt;/td>
+&lt;td>16:10&lt;/td>
+&lt;td>16:30&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 33&lt;/td>
+&lt;td>16:30&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 34&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>17:10&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>17:10&lt;/td>
+&lt;td>17:25&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description><content>&lt;p>Sept 10th and 11th, 2025&lt;/p>
 &lt;h1 id="venue">Venue&lt;/h1>
 &lt;p>The conference will be held at the Appian Conference Center in McLean, VA.&lt;/p>
 &lt;p>&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">7950 Jones Branch Dr McLean, VA 22102&lt;/a>&lt;/p>
@@ -299,7 +536,244 @@
 &lt;/table>
 &lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
 &lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p>
-&lt;p>&lt;em>Coming soon&lt;/em>&lt;/p></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
+&lt;p>&lt;em>Coming soon&lt;/em>&lt;/p>
+&lt;h1 id="ops-track">Ops Track&lt;/h1>
+&lt;h2 id="day-1---september-10">Day 1 - September 10&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;th>Length&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Opener&lt;/td>
+&lt;td>8:45&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Keynote&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>0:40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>0:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>10:15&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Teaching the Detection Engineer’s Apprentice with Verified Rewards&lt;/td>
+&lt;td>10:15&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>1:05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:15&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>JA4+ Network Fingerprints vs. Threat Actors&lt;/td>
+&lt;td>13:15&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cloud Guardrails: A Practical Field Guide to Success&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>14:25&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>14:25&lt;/td>
+&lt;td>14:40&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td>
+&lt;td>14:40&lt;/td>
+&lt;td>15:05&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>FIDO2: you can too&lt;/td>
+&lt;td>15:05&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Happy Hour&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>18:50&lt;/td>
+&lt;td>2:00&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="day-2---september-11">Day 2 - September 11&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;th>Length&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Keynote&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>0:40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>0:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>10:35&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>The Challenges of AI Logging&lt;/td>
+&lt;td>10:35&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>0:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>1:05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>0:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 25&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>13:55&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 26&lt;/td>
+&lt;td>13:55&lt;/td>
+&lt;td>14:15&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 27&lt;/td>
+&lt;td>14:15&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 28&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>14:55&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>14:55&lt;/td>
+&lt;td>15:10&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 29&lt;/td>
+&lt;td>15:10&lt;/td>
+&lt;td>15:30&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 30&lt;/td>
+&lt;td>15:30&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 31&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>16:10&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 32&lt;/td>
+&lt;td>16:10&lt;/td>
+&lt;td>16:30&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 33&lt;/td>
+&lt;td>16:30&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Talk 34&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>17:10&lt;/td>
+&lt;td>0:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>17:10&lt;/td>
+&lt;td>17:25&lt;/td>
+&lt;td>0:15&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content></item><item><title>Speakers</title><link>https://acod.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/speakers/</guid><description>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
 &lt;p>&lt;strong>Track: Talk Title&lt;/strong>&lt;/p>
 &lt;p>&lt;em>Date, | Time&lt;/em>&lt;/p>
 &lt;p>Talk description&lt;/p></description><content>&lt;h2 id="speakers-coming-soon">Speakers coming soon&lt;/h2>
