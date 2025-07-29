@@ -41,10 +41,6 @@ pagination.pagerSize = 5
         identifier = "about"
         name = "About"
         url = "/about"
-    [[languages.en.menu.main]]
-        identifier = "speakers"
-        name = "Speakers"
-        url = "/speakers"
       [[languages.en.menu.main]]
         identifier = "cfp"
         name = "CFP"
