@@ -70,44 +70,38 @@ If the recommended hotel is unavailable, it is suggested that you book at one of
 
 ## Day 1 - September 10
 
-| Topic                                                                                       | Speaker           | Start | End   | 
+| Topic                                                                                             | Speaker           | Start | End   | 
 | ------------------------------------------------------------------------------------------------- | ----------------- | ----- | ----- | 
 | Opener                                                                                            |                   | 8:45  | 9:00  | 
 | Keynote                                                                                           |                   | 9:00  | 9:40  | 
 | Transition to Tracks                                                                              |                   | 9:40  | 9:50  | 
-| Mental Models for AI and Agentic AI                                                               | Sounil Yu         | 9:50  | 10:20 | 
-| The Liberty Lenses: a cyber organizational risk assessment methodology                            | Amanda Draeger    | 10:20 | 10:50 | 
-| Improving Threat Detection Resilience                                                             | Augusto Barros    | 10:50 | 11:20 | 
-| Borrowed Shields: Cyber Cooperation in Crisis                                                     | April Lenhard     | 11:20 | 11:50 | 
+| Mental Models for AI and Agentic AI                                                               | Sounil Yu         | 9:50  | 10:30 | 
+| The Liberty Lenses: a cyber organizational risk assessment methodology                            | Amanda Draeger    | 10:30 | 11:10 | 
+| Improving Threat Detection Resilience                                                             | Augusto Barros    | 11:10 | 11:50 | 
 | Lunch                                                                                             |                   | 11:50 | 12:50 | 
-| The Art (and Science) of Storytelling                                                             | John Checco       | 12:50 | 13:20 | 
-| Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb | April Lenhard     | 13:20 | 13:50 | 
-| ACoD: Elevating Heroes                                                                            | Chris Cooley      | 13:50 | 14:20 | 
+| Does DoD Level Security Work in the Real World?                                                   | Jeff Man          | 12:50 | 13:35 | 
+| Borrowed Shields: Cyber Cooperation in Crisis                                                     | April Lenhard     | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:40 | 
-| The Long and Winding Road                                                                         | Dallas Moore      | 14:40 | 15:10 | 
-| Turn your SOC into Minority Report                                                                | Daniel Goldenberg | 15:10 | 15:40 | 
-| There are no Malicious Bytes                                                                      | David Heise       | 15:40 | 16:10 | 
-| Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 16:10 | 16:40 | 
+| ACoD: Elevating Heroes                                                                            | Chris Cooley      | 14:40 | 15:20 | 
+| The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders    | Dallas Moore      | 15:20 | 16:00 | 
+| Turn your SOC into Minority Report                                                                | Daniel Goldenberg | 16:00 | 16:40 | 
 | Wrap Up                                                                                           |                   | 16:40 | 16:50 | 
 | Happy Hour                                                                                        |                   | 16:50 | 18:50 | 
 
 ## Day 2 - September 11
 
-| Topic                                                                                                                                                                   | Speaker         | Start | End   |  
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----- | ----- | 
-| Keynote                                                                                                                                                                 |                 | 9:00  | 9:40  | 
-| Transition to Tracks                                                                                                                                                    |                 | 9:40  | 9:50  | 
-| Diseconomies of Scale                                                                                                                                                   | Sounil Yu       | 9:50  | 10:20 | 
-| Non-Security Metrics for Cybersecurity Assessments: Defense Edition                                                                                                     | JC Herz         | 10:20 | 10:50 | 
-| The 3 Lines Model is Dead                                                                                                                                               | Jerry Perullo   | 10:50 | 11:20 | 
-| Does DoD Level Security Work in the Real World?                                                                                                                         | Jeff Man        | 11:20 | 11:50 | 
-| Lunch                                                                                                                                                                   |                 | 11:50 | 12:50 | 
-| Platform vs. Point Solution: What Are We Actually Optimizing For?                                                                                                       | Valerie Z       | 12:50 | 13:20 | 
-| The Era of Logging-In Instead of Hacking-In: How Bad is Information Stealer Malware in 2024?                                                                            | Olivier Bilodea | 13:20 | 13:50 | 
-| Control Efficacy - "not a thing" but it should be!                                                                                                                      | Pete Lindstrom  | 13:50 | 14:20 | 
-| Break                                                                                                                                                                   |                 | 14:20 | 14:40 | 
-| Asymmetric Cyber Defense through Autonomous Threat Engagement                                                                                                           | Phil Dursey     | 14:40 | 15:10 | 
-| It’s time to stop the epidemic of cyber pessimism                                                                                                                       | Ross Haleliuk   | 15:10 | 15:40 | 
-| The Threat Hunting Wars: Juxtaposing Different Threat Hunting Schools of Thought and Setting a Standard in Program Implementation & Training and Hiring: FENRIR & SKADI | th3CyF0x        | 15:40 | 16:10 | 
-| It's not all datatables... I promise!                                                                                                                                   | Abeer Khalaf    | 16:10 | 16:40 | 
-| Wrap Up                                                                                                                                                                 |                 | 16:40 | 17:00 | 
+| Topic                                                                                             | Speaker           | Start | End   |  
+| ------------------------------------------------------------------------------------------------- | ----------------- | ----- | ----- | 
+| Keynote                                                                                           |                   | 9:00  | 9:40  | 
+| Transition to Tracks                                                                              |                   | 9:40  | 9:50  | 
+| Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI                  | Sounil Yu         | 9:50  | 10:30 | 
+| Non-Security Metrics for Cybersecurity Assessments: Defense Edition                               | JC Herz           | 10:30 | 11:10 | 
+| Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 11:10 | 11:50 | 
+| Lunch                                                                                             |                   | 11:50 | 12:50 | 
+| Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb | April Lenhard     | 12:50 | 13:35 | 
+| Platform vs. Point Solution: What Are We Actually Optimizing For?                                 | Valerie Z         | 13:35 | 14:20 | 
+| Break                                                                                             |                   | 14:20 | 14:40 | 
+| The Era of Logging-In Instead of Hacking-In: How Bad is Information Stealer Malware in 2024?      | Nick Ascoli       | 14:40 | 15:20 | 
+| Control Efficacy - "not a thing" but it should be!                                                | Pete Lindstrom    | 15:20 | 16:00 | 
+| Measuring Privilege: Putting numbers to "least privilege"                                         | Sounil Yu         | 16:00 | 16:40 |
+| Wrap Up                                                                                           |                   | 16:40 | 16:50 | 
