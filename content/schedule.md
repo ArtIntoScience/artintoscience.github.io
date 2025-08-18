@@ -14,20 +14,28 @@ The conference will be held at the Appian Conference Center in McLean, VA.
 
 ## Hotels
 
-*Coming soon*
+Recommended Hotels (Discounted for ACOD Attendees)
+| Hotel                      | Booking Link              | Location                 |
+| -------------------------- | ------------------------- | ------------------------ |
+| Residence Inn Tysons | (https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&key=GRP&app=resvlink) | 8400 Old Courthouse Road Vienna, Virginia, USA, 22182 |
+| Hyatt Regency Tysons Corner Center | (https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD)  | 8400 Old Courthouse Road Vienna, Virginia, USA, 22182 |
+
+Additional Hotels
+| Hotel                      | Booking Link              | Location                 |
+| -------------------------- | ------------------------- | ------------------------ |
+| Hilton McLean Tysons Corner | (https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/) | 87920 Jones Branch Dr, McLean, VA 22102
+
+#Walking distance to conference
+ |
+| Courtyard Tysons McLean | (https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/)  | 81960-A Chain Bridge Rd, McLean, VA 22102 |
+| Extended Stay America - Tysons Corner | (https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner)  | 8201 Old Courthouse Rd, Vienna, VA 22182 |
 
 ## Event Summary
 
 | Start Date                 | End Date                  | Last Day to Book         |
 | -------------------------- | ------------------------- | ------------------------ |
-| September 10, 2025 | September 11, 2025 | TBD |
+| September 10, 2025 | September 11, 2025 | August 22, 2025 |
 
-
-## Additional Accommodations
-
-If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:
-
-*Coming soon*
 
 # Ops Track
 
