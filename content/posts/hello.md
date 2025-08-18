@@ -12,7 +12,7 @@ ACoD is a working conference, with tracks that explore various investigations, c
 1. Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline. We discuss, model, and advance security concepts to facilitate this evolution.
 2. Glorify the Defense: While many conferences focus on attack strategies, ACoD chooses to spotlight the defenders. We welcome operational talks on defense, offering attendees actionable tools, techniques, and ideas to apply in their own environments.
 
-Not sure if Art into Science is for you? Take a peek at our [Youtube channel](https://www.youtube.com/@aconferencefordefense-acod8650) to view presentations from our previous conference.
+Not sure if Art into Science is for you? Take a peek at our [Youtube channel](http://www.youtube.com/@acod-artintoscience) to view presentations from our previous conference.
 
 Ready to join us? A limited number of tickets are still available. Secure your spot today!
 
