@@ -30,7 +30,7 @@ Some of us are introverts, some are shy. Regardless, it is hard to meet too many
 
 Not sure if Art into Science is for you? Check out our Youtube channel below to view presentations from last year's conference, or follow us on Twitter to stay up-to-date with the latest news from the Art into Science conference!
 
-[Youtube Channel](https://www.youtube.com/channel/UC4EhrLEDYKuuwdTvGWVgiEQ)
+[Youtube Channel](http://www.youtube.com/@acod-artintoscience)
 
 ## Conference staff
 

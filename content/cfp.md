@@ -1,12 +1,11 @@
 ---
 title: "Call for Presenters"
 ---
+## CFP IS CLOSED AS OF JUNE 1!
 
 ## Submit CFP - Deadline is June 1
 
-The 2025 (Q1) CFP is open! [Submit your talk!](https://docs.google.com/forms/d/e/1FAIpQLScccFNorOxAbi98HehMdQ28oN-YfpL3TkPhVSBrbx9Vwmvftw/viewform)
-
-Our CFP is open until June 1st.
+The 2025 (Q1) CFP is closed as of June 1st.
 
 ## Tracks
 
