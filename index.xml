@@ -253,7 +253,29 @@
 &lt;p>&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">7950 Jones Branch Dr McLean, VA 22102&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/appian/0039.jpg" alt="Appian">&lt;/a>&lt;/p>
 &lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;h3 id="recommended-hotels-discounted-for-acod-attendees">Recommended hotels (Discounted for ACoD Attendees)&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Hotel&lt;/th>
+&lt;th>Booking Link&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Residence Inn Tysons&lt;/td>
+&lt;td>(&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;key=GRP&amp;app=resvlink&lt;/a>)&lt;/td>
+&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
+&lt;td>(&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD&lt;/a>)&lt;/td>
+&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="recommended-hotels-discounted-for-acod-attendees">Recommended Hotels (Discounted for ACOD Attendees)&lt;/h1>
+&lt;h3 id="recommended-hotels-discounted-for-acod-attendees-1">Recommended hotels (Discounted for ACoD Attendees)&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -315,86 +337,10 @@
 &lt;tr>
 &lt;td>September 10, 2025&lt;/td>
 &lt;td>September 11, 2025&lt;/td>
-&lt;td>TBD&lt;/td>
+&lt;td>August 22, 2025&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
-&lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p></description><content>&lt;p>Sept 10th and 11th, 2025&lt;/p>
-&lt;h1 id="venue">Venue&lt;/h1>
-&lt;p>The conference will be held at the Appian Conference Center in McLean, VA.&lt;/p>
-&lt;p>&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">7950 Jones Branch Dr McLean, VA 22102&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/appian/0039.jpg" alt="Appian">&lt;/a>&lt;/p>
-&lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;h3 id="recommended-hotels-discounted-for-acod-attendees">Recommended hotels (Discounted for ACoD Attendees)&lt;/h3>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel&lt;/th>
-&lt;th>Address&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Residence Inn Tysons&lt;/td>
-&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
-&lt;td>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
-&lt;td>7901 Tysons One Place, Tysons, Virginia 22102&lt;/td>
-&lt;td>&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="other-hotels">Other Hotels&lt;/h3>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel Name&lt;/th>
-&lt;th>Address&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Hilton McLean Tysons Corner&lt;/td>
-&lt;td>7920 Jones Branch Dr, McLean, VA 22102 (Walking distance to conference)&lt;/td>
-&lt;td>&lt;a href="https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Courtyard Tysons McLean&lt;/td>
-&lt;td>1960-A Chain Bridge Rd, McLean, VA 22102&lt;/td>
-&lt;td>&lt;a href="https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Extended Stay America - Tysons Corner&lt;/td>
-&lt;td>8201 Old Courthouse Rd, Vienna, VA 22182.&lt;/td>
-&lt;td>&lt;a href="https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="event-summary">Event Summary&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Start Date&lt;/th>
-&lt;th>End Date&lt;/th>
-&lt;th>Last Day to Book&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>September 10, 2025&lt;/td>
-&lt;td>September 11, 2025&lt;/td>
-&lt;td>TBD&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="additional-accommodations">Additional Accommodations&lt;/h2>
-&lt;p>If the recommended hotel is unavailable, it is suggested that you book at one of these area hotels:&lt;/p>
-&lt;p>&lt;em>Coming soon&lt;/em>&lt;/p>
 &lt;h1 id="ops-track">Ops Track&lt;/h1>
 &lt;h2 id="day-1---september-10">Day 1 - September 10&lt;/h2>
 &lt;table>
@@ -409,13 +355,13 @@
 &lt;tbody>
 &lt;tr>
 &lt;td>Opener&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
 &lt;td>8:45&lt;/td>
 &lt;td>9:00&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Keynote&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Andrew Cunje&lt;/td>
 &lt;td>9:00&lt;/td>
 &lt;td>9:40&lt;/td>
 &lt;/tr>
@@ -427,19 +373,19 @@
 &lt;/tr>
 &lt;tr>
 &lt;td>LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Dylan Williams&lt;/td>
 &lt;td>9:50&lt;/td>
 &lt;td>10:15&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>The Challenges of AI Logging&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Jeremy Snyder&lt;/td>
 &lt;td>10:15&lt;/td>
 &lt;td>11:00&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Justin Borland&lt;/td>
 &lt;td>11:00&lt;/td>
 &lt;td>11:45&lt;/td>
 &lt;/tr>
@@ -451,19 +397,19 @@
 &lt;/tr>
 &lt;tr>
 &lt;td>Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Towne Besel&lt;/td>
 &lt;td>12:50&lt;/td>
 &lt;td>13:15&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>JA4+ Network Fingerprints vs. Threat Actors&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>John Althouse&lt;/td>
 &lt;td>13:15&lt;/td>
 &lt;td>14:00&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Cloud Guardrails: A Practical Field Guide to Success&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Adeel Khurshid&lt;/td>
 &lt;td>14:00&lt;/td>
 &lt;td>14:25&lt;/td>
 &lt;/tr>
@@ -475,19 +421,19 @@
 &lt;/tr>
 &lt;tr>
 &lt;td>CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Roy Gottlieb&lt;/td>
 &lt;td>14:40&lt;/td>
 &lt;td>15:05&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>FIDO2: you can too&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Jason Craig&lt;/td>
 &lt;td>15:05&lt;/td>
 &lt;td>15:50&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Doug Britton&lt;/td>
 &lt;td>15:50&lt;/td>
 &lt;td>16:35&lt;/td>
 &lt;/tr>
@@ -517,52 +463,76 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Keynote&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Opening&lt;/td>
+&lt;td>John Althouse&lt;/td>
 &lt;td>9:00&lt;/td>
-&lt;td>9:40&lt;/td>
+&lt;td>9:10&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Transition to Tracks&lt;/td>
 &lt;td>&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;td>9:50&lt;/td>
+&lt;td>9:10&lt;/td>
+&lt;td>9:15&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;td>10:35&lt;/td>
+&lt;td>Helen Oakley&lt;/td>
+&lt;td>9:15&lt;/td>
+&lt;td>10:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DPRK Threats to Defense Sector&lt;/td>
+&lt;td>Daniel Gordon&lt;/td>
+&lt;td>10:00&lt;/td>
+&lt;td>10:25&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:00&lt;/td>
-&lt;td>11:45&lt;/td>
+&lt;td>Roy Gottlieb&lt;/td>
+&lt;td>10:25&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch Keynote&lt;/td>
+&lt;td>Chris Inglis&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;td>11:50&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lunch&lt;/td>
 &lt;td>&lt;/td>
-&lt;td>11:45&lt;/td>
+&lt;td>11:50&lt;/td>
 &lt;td>12:50&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Naman Shah&lt;/td>
 &lt;td>12:50&lt;/td>
 &lt;td>13:35&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>Where Else? Solving the CISO&amp;rsquo;s Nightmare with Nuclei at Scale&lt;/td>
+&lt;td>Rob &amp;ldquo;mubix&amp;rdquo; Fuller&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>Break&lt;/td>
 &lt;td>&lt;/td>
-&lt;td>14:55&lt;/td>
-&lt;td>15:10&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>For the Internet Points? Red Team vs Blue Team vs Threat Intel - A debate over the hard questions&lt;/td>
+&lt;td>Mubix (Red), Althouse (Blue), Stikk (TI), Malcomb (Moderator)&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>16:15&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Wrap Up&lt;/td>
 &lt;td>&lt;/td>
-&lt;td>17:10&lt;/td>
-&lt;td>17:25&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>16:50&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -609,8 +579,8 @@
 &lt;td>11:10&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Improving Threat Detection Resilience&lt;/td>
-&lt;td>Augusto Barros&lt;/td>
+&lt;td>Does DoD Level Security Work in the Real World?&lt;/td>
+&lt;td>Jeff Man&lt;/td>
 &lt;td>11:10&lt;/td>
 &lt;td>11:50&lt;/td>
 &lt;/tr>
@@ -621,8 +591,8 @@
 &lt;td>12:50&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Does DoD Level Security Work in the Real World?&lt;/td>
-&lt;td>Jeff Man&lt;/td>
+&lt;td>Improving Threat Detection Resilience&lt;/td>
+&lt;td>Augusto Barros&lt;/td>
 &lt;td>12:50&lt;/td>
 &lt;td>13:35&lt;/td>
 &lt;/tr>
@@ -639,8 +609,8 @@
 &lt;td>14:40&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>ACoD: Elevating Heroes&lt;/td>
-&lt;td>Chris Cooley&lt;/td>
+&lt;td>Platform vs. Point Solution: What Are We Actually Optimizing For?&lt;/td>
+&lt;td>Valerie Z&lt;/td>
 &lt;td>14:40&lt;/td>
 &lt;td>15:20&lt;/td>
 &lt;/tr>
@@ -682,32 +652,38 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Keynote&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Opening&lt;/td>
+&lt;td>John Althouse&lt;/td>
 &lt;td>9:00&lt;/td>
-&lt;td>9:40&lt;/td>
+&lt;td>9:10&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Transition to Tracks&lt;/td>
 &lt;td>&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;td>9:50&lt;/td>
+&lt;td>9:10&lt;/td>
+&lt;td>9:15&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI&lt;/td>
 &lt;td>Sounil Yu&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;td>10:30&lt;/td>
+&lt;td>9:15&lt;/td>
+&lt;td>9:55&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Non-Security Metrics for Cybersecurity Assessments: Defense Edition&lt;/td>
 &lt;td>JC Herz&lt;/td>
-&lt;td>10:30&lt;/td>
-&lt;td>11:10&lt;/td>
+&lt;td>9:55&lt;/td>
+&lt;td>10:35&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Product Security Incident Response at a Fortune 500 SaaS&lt;/td>
 &lt;td>Garrett McNamara&lt;/td>
+&lt;td>10:35&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch Keynote&lt;/td>
+&lt;td>Chris Inglis&lt;/td>
 &lt;td>11:10&lt;/td>
 &lt;td>11:50&lt;/td>
 &lt;/tr>
@@ -724,8 +700,394 @@
 &lt;td>13:35&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Platform vs. Point Solution: What Are We Actually Optimizing For?&lt;/td>
-&lt;td>Valerie Z&lt;/td>
+&lt;td>ACoD: Elevating Heroes&lt;/td>
+&lt;td>Chris Cooley&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Control Efficacy - &amp;ldquo;not a thing&amp;rdquo; but it should be!&lt;/td>
+&lt;td>Pete Lindstrom&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>15:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Measuring Privilege: Putting numbers to &amp;ldquo;least privilege&amp;rdquo;&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>15:15&lt;/td>
+&lt;td>15:55&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Recap of Major Themes&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>15:55&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description><content>&lt;p>Sept 10th and 11th, 2025&lt;/p>
+&lt;h1 id="venue">Venue&lt;/h1>
+&lt;p>The conference will be held at the Appian Conference Center in McLean, VA.&lt;/p>
+&lt;p>&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">7950 Jones Branch Dr McLean, VA 22102&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/appian/0039.jpg" alt="Appian">&lt;/a>&lt;/p>
+&lt;h2 id="hotels">Hotels&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Hotel&lt;/th>
+&lt;th>Booking Link&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Residence Inn Tysons&lt;/td>
+&lt;td>(&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;key=GRP&amp;app=resvlink&lt;/a>)&lt;/td>
+&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
+&lt;td>(&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD&lt;/a>)&lt;/td>
+&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="recommended-hotels-discounted-for-acod-attendees">Recommended Hotels (Discounted for ACOD Attendees)&lt;/h1>
+&lt;h3 id="recommended-hotels-discounted-for-acod-attendees-1">Recommended hotels (Discounted for ACoD Attendees)&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Hotel&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>Booking Link&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Residence Inn Tysons&lt;/td>
+&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
+&lt;td>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">Click here&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
+&lt;td>7901 Tysons One Place, Tysons, Virginia 22102&lt;/td>
+&lt;td>&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">Click here&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="other-hotels">Other Hotels&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Hotel Name&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>Booking Link&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Hilton McLean Tysons Corner&lt;/td>
+&lt;td>7920 Jones Branch Dr, McLean, VA 22102 (Walking distance to conference)&lt;/td>
+&lt;td>&lt;a href="https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/">Click here&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Courtyard Tysons McLean&lt;/td>
+&lt;td>1960-A Chain Bridge Rd, McLean, VA 22102&lt;/td>
+&lt;td>&lt;a href="https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/">Click here&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Extended Stay America - Tysons Corner&lt;/td>
+&lt;td>8201 Old Courthouse Rd, Vienna, VA 22182.&lt;/td>
+&lt;td>&lt;a href="https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner">Click here&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="event-summary">Event Summary&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Start Date&lt;/th>
+&lt;th>End Date&lt;/th>
+&lt;th>Last Day to Book&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>September 10, 2025&lt;/td>
+&lt;td>September 11, 2025&lt;/td>
+&lt;td>August 22, 2025&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="ops-track">Ops Track&lt;/h1>
+&lt;h2 id="day-1---september-10">Day 1 - September 10&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Speaker&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Opener&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>8:45&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Keynote&lt;/td>
+&lt;td>Andrew Cunje&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td>
+&lt;td>Dylan Williams&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>10:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>The Challenges of AI Logging&lt;/td>
+&lt;td>Jeremy Snyder&lt;/td>
+&lt;td>10:15&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td>
+&lt;td>Justin Borland&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>11:45&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td>
+&lt;td>Towne Besel&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>JA4+ Network Fingerprints vs. Threat Actors&lt;/td>
+&lt;td>John Althouse&lt;/td>
+&lt;td>13:15&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cloud Guardrails: A Practical Field Guide to Success&lt;/td>
+&lt;td>Adeel Khurshid&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>14:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>14:25&lt;/td>
+&lt;td>14:40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td>
+&lt;td>Roy Gottlieb&lt;/td>
+&lt;td>14:40&lt;/td>
+&lt;td>15:05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>FIDO2: you can too&lt;/td>
+&lt;td>Jason Craig&lt;/td>
+&lt;td>15:05&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td>
+&lt;td>Doug Britton&lt;/td>
+&lt;td>15:50&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Happy Hour&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>18:50&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="day-2---september-11">Day 2 - September 11&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Speaker&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Opening&lt;/td>
+&lt;td>John Althouse&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>9:10&lt;/td>
+&lt;td>9:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td>
+&lt;td>Helen Oakley&lt;/td>
+&lt;td>9:15&lt;/td>
+&lt;td>10:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DPRK Threats to Defense Sector&lt;/td>
+&lt;td>Daniel Gordon&lt;/td>
+&lt;td>10:00&lt;/td>
+&lt;td>10:25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td>
+&lt;td>Roy Gottlieb&lt;/td>
+&lt;td>10:25&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch Keynote&lt;/td>
+&lt;td>Chris Inglis&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;td>11:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>11:50&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td>
+&lt;td>Naman Shah&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Where Else? Solving the CISO&amp;rsquo;s Nightmare with Nuclei at Scale&lt;/td>
+&lt;td>Rob &amp;ldquo;mubix&amp;rdquo; Fuller&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>For the Internet Points? Red Team vs Blue Team vs Threat Intel - A debate over the hard questions&lt;/td>
+&lt;td>Mubix (Red), Althouse (Blue), Stikk (TI), Malcomb (Moderator)&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>16:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="philosophy-track">Philosophy Track&lt;/h1>
+&lt;h2 id="day-1---september-10-1">Day 1 - September 10&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Speaker&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Opener&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>8:45&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Keynote&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>9:40&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mental Models for AI and Agentic AI&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>9:50&lt;/td>
+&lt;td>10:30&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>The Liberty Lenses: a cyber organizational risk assessment methodology&lt;/td>
+&lt;td>Amanda Draeger&lt;/td>
+&lt;td>10:30&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Does DoD Level Security Work in the Real World?&lt;/td>
+&lt;td>Jeff Man&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;td>11:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>11:50&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Improving Threat Detection Resilience&lt;/td>
+&lt;td>Augusto Barros&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Borrowed Shields: Cyber Cooperation in Crisis&lt;/td>
+&lt;td>April Lenhard&lt;/td>
 &lt;td>13:35&lt;/td>
 &lt;td>14:20&lt;/td>
 &lt;/tr>
@@ -736,20 +1098,20 @@
 &lt;td>14:40&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>The Era of Logging-In Instead of Hacking-In: How Bad is Information Stealer Malware in 2024?&lt;/td>
-&lt;td>Nick Ascoli&lt;/td>
+&lt;td>Platform vs. Point Solution: What Are We Actually Optimizing For?&lt;/td>
+&lt;td>Valerie Z&lt;/td>
 &lt;td>14:40&lt;/td>
 &lt;td>15:20&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Control Efficacy - &amp;ldquo;not a thing&amp;rdquo; but it should be!&lt;/td>
-&lt;td>Pete Lindstrom&lt;/td>
+&lt;td>The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders&lt;/td>
+&lt;td>Dallas Moore&lt;/td>
 &lt;td>15:20&lt;/td>
 &lt;td>16:00&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Measuring Privilege: Putting numbers to &amp;ldquo;least privilege&amp;rdquo;&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
+&lt;td>Turn your SOC into Minority Report&lt;/td>
+&lt;td>Daniel Goldenberg&lt;/td>
 &lt;td>16:00&lt;/td>
 &lt;td>16:40&lt;/td>
 &lt;/tr>
@@ -757,6 +1119,109 @@
 &lt;td>Wrap Up&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>16:40&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Happy Hour&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>16:50&lt;/td>
+&lt;td>18:50&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="day-2---september-11-1">Day 2 - September 11&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Topic&lt;/th>
+&lt;th>Speaker&lt;/th>
+&lt;th>Start&lt;/th>
+&lt;th>End&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Opening&lt;/td>
+&lt;td>John Althouse&lt;/td>
+&lt;td>9:00&lt;/td>
+&lt;td>9:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transition to Tracks&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>9:10&lt;/td>
+&lt;td>9:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>9:15&lt;/td>
+&lt;td>9:55&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Non-Security Metrics for Cybersecurity Assessments: Defense Edition&lt;/td>
+&lt;td>JC Herz&lt;/td>
+&lt;td>9:55&lt;/td>
+&lt;td>10:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Product Security Incident Response at a Fortune 500 SaaS&lt;/td>
+&lt;td>Garrett McNamara&lt;/td>
+&lt;td>10:35&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch Keynote&lt;/td>
+&lt;td>Chris Inglis&lt;/td>
+&lt;td>11:10&lt;/td>
+&lt;td>11:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lunch&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>11:50&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb&lt;/td>
+&lt;td>April Lenhard&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ACoD: Elevating Heroes&lt;/td>
+&lt;td>Chris Cooley&lt;/td>
+&lt;td>13:35&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Break&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>14:20&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Control Efficacy - &amp;ldquo;not a thing&amp;rdquo; but it should be!&lt;/td>
+&lt;td>Pete Lindstrom&lt;/td>
+&lt;td>14:35&lt;/td>
+&lt;td>15:15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Measuring Privilege: Putting numbers to &amp;ldquo;least privilege&amp;rdquo;&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>15:15&lt;/td>
+&lt;td>15:55&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Recap of Major Themes&lt;/td>
+&lt;td>Sounil Yu&lt;/td>
+&lt;td>15:55&lt;/td>
+&lt;td>16:35&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Wrap Up&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>16:35&lt;/td>
 &lt;td>16:50&lt;/td>
 &lt;/tr>
 &lt;/tbody>
