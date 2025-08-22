@@ -19,19 +19,23 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | -------------------------- | ------------------------- | ------------------------ |
 | Residence Inn Tysons | (https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&key=GRP&app=resvlink) | 8400 Old Courthouse Road Vienna, Virginia, USA, 22182 |
 | Hyatt Regency Tysons Corner Center | (https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD)  | 8400 Old Courthouse Road Vienna, Virginia, USA, 22182 |
+  =======
+### Recommended hotels (Discounted for ACoD Attendees)
 
-Additional Hotels
-| Hotel                      | Booking Link              | Location                 |
-| -------------------------- | ------------------------- | ------------------------ |
-| Hilton McLean Tysons Corner | (https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/) | 87920 Jones Branch Dr, McLean, VA 22102
+| Hotel                              | Address                                               | Booking Link |
+| ---------------------------------- | ----------------------------------------------------- | ------------ |
+| Residence Inn Tysons               | 8400 Old Courthouse Road Vienna, Virginia, USA, 22182 | [Click here](https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&key=GRP&app=resvlink)   |
+| Hyatt Regency Tysons Corner Center | 7901 Tysons One Place, Tysons, Virginia 22102         | [Click here](https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD)   |
 
-#Walking distance to conference
- |
-| Courtyard Tysons McLean | (https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/)  | 81960-A Chain Bridge Rd, McLean, VA 22102 |
-| Extended Stay America - Tysons Corner | (https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner)  | 8201 Old Courthouse Rd, Vienna, VA 22182 |
+### Other Hotels
+
+| Hotel Name                            | Address                                    | Booking Link |
+| ------------------------------------- | ------------------------------------------ | ------------ |
+| Hilton McLean Tysons Corner           | 7920 Jones Branch Dr, McLean, VA 22102 (Walking distance to conference)     | [Click here](https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/)   |
+| Courtyard Tysons McLean               | 1960-A Chain Bridge Rd, McLean, VA 22102   | [Click here](https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/)   |
+| Extended Stay America - Tysons Corner | 8201 Old Courthouse Rd, Vienna, VA 22182.  | [Click here](https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner)   |
 
 ## Event Summary
-
 | Start Date                 | End Date                  | Last Day to Book         |
 | -------------------------- | ------------------------- | ------------------------ |
 | September 10, 2025 | September 11, 2025 | August 22, 2025 |
@@ -42,36 +46,40 @@ Additional Hotels
 ## Day 1 - September 10 
 
 | Topic                                                             | Speaker            | Start | End   |
-| -------------------------------------------------| ---------------------------------- | ----- | ----- | 
-| Opener                                           |                  | 8:45  | 9:00  | 
-| Keynote                                          |                  | 9:00  | 9:40  | 
-| Transition to Tracks                             |                  | 9:40  | 9:50  | 
-| LLMs as a Force Multiplier: Practical Patterns for Security Teams|  | 9:50  | 10:15 | 
-| The Challenges of AI Logging                                      | | 10:15 | 11:00 | 
-| DFIR-as-Code: Scaling Incident Response Beyond Human Limits       | | 11:00 | 11:45 | 
-| Lunch                                                             | | 11:45 | 12:50 | 
-| Ghosts In The Wild: Hunting the Unseen in the Internet Noise      | | 12:50 | 13:15 | 
-| JA4+ Network Fingerprints vs. Threat Actors                       | | 13:15 | 14:00 | 
-| Cloud Guardrails: A Practical Field Guide to Success              | | 14:00 | 14:25 | 
-| Break                                                             | | 14:25 | 14:40 | 
-| CHA vs. PTA: A Defender's Guide to Smarter Static Analysis        | | 14:40 | 15:05 | 
-| FIDO2: you can too                                                | | 15:05 | 15:50 | 
-| Stopping the Next Zero Day: Taking ROP Attacks Off the Table      | | 15:50 | 16:35 | 
-| Wrap Up                                                           | | 16:35 | 16:50 | 
-| Happy Hour                                                        | | 16:50 | 18:50 |
+| ------------------------------------------------------------------| ------------------ | ----- | ----- | 
+| Opener                                                            | Sounil Yu          | 8:45  | 9:00  | 
+| Keynote                                                           | Andrew Cunje       | 9:00  | 9:40  | 
+| Transition to Tracks                                              |                    | 9:40  | 9:50  | 
+| LLMs as a Force Multiplier: Practical Patterns for Security Teams | Dylan Williams     | 9:50  | 10:15 | 
+| The Challenges of AI Logging                                      | Jeremy Snyder      | 10:15 | 11:00 | 
+| DFIR-as-Code: Scaling Incident Response Beyond Human Limits       | Justin Borland     | 11:00 | 11:45 | 
+| Lunch                                                             |                    | 11:45 | 12:50 | 
+| Ghosts In The Wild: Hunting the Unseen in the Internet Noise      | Towne Besel        | 12:50 | 13:15 | 
+| JA4+ Network Fingerprints vs. Threat Actors                       | John Althouse      | 13:15 | 14:00 | 
+| Cloud Guardrails: A Practical Field Guide to Success              | Adeel Khurshid     | 14:00 | 14:25 | 
+| Break                                                             |                    | 14:25 | 14:40 | 
+| CHA vs. PTA: A Defender's Guide to Smarter Static Analysis        | Roy Gottlieb       | 14:40 | 15:05 | 
+| FIDO2: you can too                                                | Jason Craig        | 15:05 | 15:50 | 
+| Stopping the Next Zero Day: Taking ROP Attacks Off the Table      | Doug Britton       | 15:50 | 16:35 | 
+| Wrap Up                                                           |                    | 16:35 | 16:50 | 
+| Happy Hour                                                        |                    | 16:50 | 18:50 |
 
 ## Day 2 - September 11
 
-| Topic                                                                 | Speaker                | Start | End   | 
-| ----------------------------------------------------------------|---------- | ----- | ----- | 
-| Keynote                                                                   | | 9:00  | 9:40  | 
-| Transition to Tracks                                                      | | 9:40  | 9:50  | 
-| AIBOM: Powering Transparency and Security in AI and Software Supply Chains| | 9:50  | 10:35 | 
-| Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense  | | 11:00 | 11:45 | 
-| Lunch                                                                     | | 11:45 | 12:50 | 
-| Threats Don’t Wait—Neither Should You! Automating Threat Response         | | 12:50 | 13:35 | 
-| Break                                                                     | | 14:55 | 15:10 | 
-| Wrap Up                                                                   | | 17:10 | 17:25 |
+| Topic                                                                     | Speaker            | Start | End   | 
+| --------------------------------------------------------------------------|------------------- | ----- | ----- | 
+| Opening                                                                   | John Althouse      | 9:00  | 9:10  | 
+| Transition to Tracks                                                      |                    | 9:10  | 9:15  | 
+| AIBOM: Powering Transparency and Security in AI and Software Supply Chains| Helen Oakley       | 9:15  | 10:00 | 
+| DPRK Threats to Defense Sector                                            | Daniel Gordon      | 10:00 | 10:25 | 
+| Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense  | Roy Gottlieb       | 10:25 | 11:10 | 
+| Lunch Keynote                                                             | Chris Inglis       | 11:10 | 11:50 | 
+| Lunch                                                                     |                    | 11:50 | 12:50 | 
+| Threats Don’t Wait—Neither Should You! Automating Threat Response         | Naman Shah         | 12:50 | 13:35 | 
+| Where Else? Solving the CISO's Nightmare with Nuclei at Scale             | Rob "mubix" Fuller | 13:35 | 14:20 | 
+| Break                                                                     |                    | 14:20 | 14:35 | 
+| For the Internet Points? Red Team vs Blue Team vs Threat Intel - A debate over the hard questions | Mubix (Red), Althouse (Blue), Stikk (TI), Malcomb (Moderator) | 14:35 | 16:15 |
+| Wrap Up                                                                   |                    | 16:35 | 16:50 | 
 
 
 # Philosophy Track 
@@ -85,12 +93,12 @@ Additional Hotels
 | Transition to Tracks                                                                              |                   | 9:40  | 9:50  | 
 | Mental Models for AI and Agentic AI                                                               | Sounil Yu         | 9:50  | 10:30 | 
 | The Liberty Lenses: a cyber organizational risk assessment methodology                            | Amanda Draeger    | 10:30 | 11:10 | 
-| Improving Threat Detection Resilience                                                             | Augusto Barros    | 11:10 | 11:50 | 
+| Does DoD Level Security Work in the Real World?                                                   | Jeff Man          | 11:10 | 11:50 | 
 | Lunch                                                                                             |                   | 11:50 | 12:50 | 
-| Does DoD Level Security Work in the Real World?                                                   | Jeff Man          | 12:50 | 13:35 | 
+| Improving Threat Detection Resilience                                                             | Augusto Barros    | 12:50 | 13:35 | 
 | Borrowed Shields: Cyber Cooperation in Crisis                                                     | April Lenhard     | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:40 | 
-| ACoD: Elevating Heroes                                                                            | Chris Cooley      | 14:40 | 15:20 | 
+| Platform vs. Point Solution: What Are We Actually Optimizing For?                                 | Valerie Z         | 14:40 | 15:20 | 
 | The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders    | Dallas Moore      | 15:20 | 16:00 | 
 | Turn your SOC into Minority Report                                                                | Daniel Goldenberg | 16:00 | 16:40 | 
 | Wrap Up                                                                                           |                   | 16:40 | 16:50 | 
@@ -100,16 +108,17 @@ Additional Hotels
 
 | Topic                                                                                             | Speaker           | Start | End   |  
 | ------------------------------------------------------------------------------------------------- | ----------------- | ----- | ----- | 
-| Keynote                                                                                           |                   | 9:00  | 9:40  | 
-| Transition to Tracks                                                                              |                   | 9:40  | 9:50  | 
-| Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI                  | Sounil Yu         | 9:50  | 10:30 | 
-| Non-Security Metrics for Cybersecurity Assessments: Defense Edition                               | JC Herz           | 10:30 | 11:10 | 
-| Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 11:10 | 11:50 | 
+| Opening                                                                                           | John Althouse     | 9:00  | 9:10  | 
+| Transition to Tracks                                                                              |                   | 9:10  | 9:15  | 
+| Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI                  | Sounil Yu         | 9:15  | 9:55 | 
+| Non-Security Metrics for Cybersecurity Assessments: Defense Edition                               | JC Herz           | 9:55  | 10:35 | 
+| Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 10:35 | 11:10 | 
+| Lunch Keynote                                                                                     | Chris Inglis      | 11:10 | 11:50 | 
 | Lunch                                                                                             |                   | 11:50 | 12:50 | 
 | Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb | April Lenhard     | 12:50 | 13:35 | 
-| Platform vs. Point Solution: What Are We Actually Optimizing For?                                 | Valerie Z         | 13:35 | 14:20 | 
-| Break                                                                                             |                   | 14:20 | 14:40 | 
-| The Era of Logging-In Instead of Hacking-In: How Bad is Information Stealer Malware in 2024?      | Nick Ascoli       | 14:40 | 15:20 | 
-| Control Efficacy - "not a thing" but it should be!                                                | Pete Lindstrom    | 15:20 | 16:00 | 
-| Measuring Privilege: Putting numbers to "least privilege"                                         | Sounil Yu         | 16:00 | 16:40 |
-| Wrap Up                                                                                           |                   | 16:40 | 16:50 | 
+| ACoD: Elevating Heroes                                                                            | Chris Cooley      | 13:35 | 14:20 | 
+| Break                                                                                             |                   | 14:20 | 14:35 | 
+| Control Efficacy - "not a thing" but it should be!                                                | Pete Lindstrom    | 14:35 | 15:15 | 
+| Measuring Privilege: Putting numbers to "least privilege"                                         | Sounil Yu         | 15:15 | 15:55 | 
+| Recap of Major Themes                                                                             | Sounil Yu         | 15:55 | 16:35 |
+| Wrap Up                                                                                           |                   | 16:35 | 16:50 | 
