@@ -1,1252 +1,1238 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACoD</title><link>https://acod.io/</link><description>Recent content on ACoD</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://acod.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Showcase</title><link>https://acod.io/showcase/</link><pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate><guid>https://acod.io/showcase/</guid><description>&lt;h2 id="header-2">Header 2&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p></description><content>&lt;h2 id="header-2">Header 2&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p>
-&lt;blockquote>
-&lt;p>Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p>&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;p>Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code>odio a dignissim pharetra&lt;/code>, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-css" data-lang="css">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">/* PostCSS code */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">pre&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">background&lt;/span>: &lt;span style="color:#ae81ff">#1a1a1d&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">padding&lt;/span>: &lt;span style="color:#ae81ff">20&lt;/span>&lt;span style="color:#66d9ef">px&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">border-radius&lt;/span>: &lt;span style="color:#ae81ff">8&lt;/span>&lt;span style="color:#66d9ef">px&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">font-size&lt;/span>: &lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#66d9ef">rem&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">overflow&lt;/span>: &lt;span style="color:#66d9ef">auto&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#960050;background-color:#1e0010">@media&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">(--phone)&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">white-space&lt;/span>: &lt;span style="color:#66d9ef">pre-wrap&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">word-wrap&lt;/span>: &lt;span style="color:#66d9ef">break-word&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">code&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">background&lt;/span>: &lt;span style="color:#66d9ef">none&lt;/span> &lt;span style="color:#75715e">!important&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#ae81ff">#ccc&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">padding&lt;/span>: &lt;span style="color:#ae81ff">0&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">font-size&lt;/span>: &lt;span style="color:#66d9ef">inherit&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-js" data-lang="js">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">// JS code
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">menuTrigger&lt;/span> &lt;span style="color:#f92672">=&lt;/span> document.&lt;span style="color:#a6e22e">querySelector&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;.menu-trigger&amp;#39;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">menu&lt;/span> &lt;span style="color:#f92672">=&lt;/span> document.&lt;span style="color:#a6e22e">querySelector&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;.menu&amp;#39;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">mobileQuery&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">getComputedStyle&lt;/span>(document.&lt;span style="color:#a6e22e">body&lt;/span>).&lt;span style="color:#a6e22e">getPropertyValue&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;--phoneWidth&amp;#39;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">isMobile&lt;/span> &lt;span style="color:#f92672">=&lt;/span> () =&amp;gt; window.&lt;span style="color:#a6e22e">matchMedia&lt;/span>(&lt;span style="color:#a6e22e">mobileQuery&lt;/span>).&lt;span style="color:#a6e22e">matches&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">isMobileMenu&lt;/span> &lt;span style="color:#f92672">=&lt;/span> () =&amp;gt; {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">menuTrigger&lt;/span>.&lt;span style="color:#a6e22e">classList&lt;/span>.&lt;span style="color:#a6e22e">toggle&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;hidden&amp;#39;&lt;/span>, &lt;span style="color:#f92672">!&lt;/span>&lt;span style="color:#a6e22e">isMobile&lt;/span>())
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">menu&lt;/span>.&lt;span style="color:#a6e22e">classList&lt;/span>.&lt;span style="color:#a6e22e">toggle&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;hidden&amp;#39;&lt;/span>, &lt;span style="color:#a6e22e">isMobile&lt;/span>())
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">isMobileMenu&lt;/span>()
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">menuTrigger&lt;/span>.&lt;span style="color:#a6e22e">addEventListener&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;click&amp;#39;&lt;/span>, () =&amp;gt; &lt;span style="color:#a6e22e">menu&lt;/span>.&lt;span style="color:#a6e22e">classList&lt;/span>.&lt;span style="color:#a6e22e">toggle&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;hidden&amp;#39;&lt;/span>))
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>window.&lt;span style="color:#a6e22e">addEventListener&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;resize&amp;#39;&lt;/span>, &lt;span style="color:#a6e22e">isMobileMenu&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&amp;lt;!-- HTML code --&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">section&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;main&amp;#34;&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">div&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">h1&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;title&amp;#34;&lt;/span>&amp;gt;{{ .Title }}&amp;lt;/&lt;span style="color:#f92672">h1&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {{ range .Pages }}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {{ .Render &amp;#34;summary&amp;#34;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {{ end }}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;/&lt;span style="color:#f92672">div&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">section&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;p>Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.&lt;/p>
-&lt;ul>
-&lt;li>Maecenas elementum vitae nibh vitae porttitor.&lt;/li>
-&lt;li>Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.&lt;/li>
-&lt;li>Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.&lt;/li>
-&lt;li>Etiam vitae enim quis velit lobortis placerat a ut sem.
-&lt;ul>
-&lt;li>Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.&lt;/li>
-&lt;li>Praesent fermentum orci quis leo facilisis posuere.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p></content></item><item><title>About the conference</title><link>https://acod.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/about/</guid><description>&lt;h2 id="acod-goals">ACoD Goals&lt;/h2>
-&lt;h3 id="push-the-art-to-a-science-creating-a-professional-discipline">Push the Art to a Science: Creating a Professional Discipline&lt;/h3>
-&lt;p>To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.&lt;/p>
-&lt;p>We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.&lt;/p>
-&lt;h3 id="glorify-the-defense-tools-techniques-and-ideas-people-can-leave-the-conference-with-and-implement">Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement&lt;/h3>
-&lt;p>Security conferences glorify the attacker, and accept attack-oriented talks. We&amp;rsquo;d like to put defense on a pedestal and take in talks that interest us - operational talks on defense.&lt;/p></description><content>&lt;h2 id="acod-goals">ACoD Goals&lt;/h2>
-&lt;h3 id="push-the-art-to-a-science-creating-a-professional-discipline">Push the Art to a Science: Creating a Professional Discipline&lt;/h3>
-&lt;p>To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.&lt;/p>
-&lt;p>We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.&lt;/p>
-&lt;h3 id="glorify-the-defense-tools-techniques-and-ideas-people-can-leave-the-conference-with-and-implement">Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement&lt;/h3>
-&lt;p>Security conferences glorify the attacker, and accept attack-oriented talks. We&amp;rsquo;d like to put defense on a pedestal and take in talks that interest us - operational talks on defense.&lt;/p>
-&lt;p>As a field, we need practitioners to offer implementable ideas and or reference implementations to reduce the amount of work that someone has to do to implement what they learn.&lt;/p>
-&lt;h3 id="acod-is-a-working-conference">ACoD is a working conference&lt;/h3>
-&lt;p>In the &amp;ldquo;Glorify the Defense&amp;rdquo; (operations) track we will have talks of interest on various investigations and case studies on the one hand, and tools and ideas used to defend our environments on the other.&lt;/p>
-&lt;p>The &amp;ldquo;Push the art into a science&amp;rdquo; (philosophy) track will be dedicated to working tracks, where the members introduce their own concepts, and then discuss specifics. Most importantly, finish the day with a summary that can be used to push our field into the future.&lt;/p>
-&lt;p>&lt;strong>We want to get more out of ACoD:&lt;/strong>&lt;/p>
-&lt;p>Often, the best value we as attendees get out of a conference is personal relationships that form. We&amp;rsquo;d like to generate more of this value.&lt;/p>
-&lt;p>Some of us are introverts, some are shy. Regardless, it is hard to meet too many people in conferences, and see how we can help each other. We will work to address this by building more discussion into the agenda, such as networking opportunities, small working groups, and other similar ideas, into the DNA of how the conference will run.&lt;/p>
-&lt;p>&lt;strong>Get to Know Our Convention!&lt;/strong>&lt;/p>
-&lt;p>Not sure if Art into Science is for you? Check out our Youtube channel below to view presentations from last year&amp;rsquo;s conference, or follow us on Twitter to stay up-to-date with the latest news from the Art into Science conference!&lt;/p>
-&lt;p>&lt;a href="http://www.youtube.com/@acod-artintoscience">Youtube Channel&lt;/a>&lt;/p>
-&lt;h2 id="conference-staff">Conference staff&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Name&lt;/th>
-&lt;th>Social/Contact&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Steve Orrin&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/sounil/">LinkedIn&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Valerie Zargarpur&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/valerie-zargarpur/">LinkedIn&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>John Althouse&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Guillaume Ross&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/guillaumeross/">LinkedIn&lt;/a> - &lt;a href="https://irrelephant.co/@g">Mastodon&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Derek Chamorro&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/derekchamorro/">LinkedIn&lt;/a> - &lt;a href="https://infosec.exchange/@randomsec">Mastodon&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Andrew Cunje&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Gadi Evron&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Dan LaVoie&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/dlavoie">LinkedIn&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>David Shinberg&lt;/td>
-&lt;td>&lt;a href="https://www.linkedin.com/in/davidshinberg/">LinkedIn&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></content></item><item><title>ACoD: A Conference on Defense</title><link>https://acod.io/posts/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/posts/hello/</guid><description>&lt;p>&lt;strong>ACoD: A Conference on Defense 2025&lt;/strong> is &lt;strong>HAPPENING&lt;/strong>, on September 10-11, at the &lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">Appian HQ Conference Center in Virginia&lt;/a>.&lt;/p>
-&lt;p>&lt;strong>2025 CFP Closed as of June 1!&lt;/strong>&lt;/p>
-&lt;p>ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p>
-&lt;ol>
-&lt;li>Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline. We discuss, model, and advance security concepts to facilitate this evolution.&lt;/li>
-&lt;li>Glorify the Defense: While many conferences focus on attack strategies, ACoD chooses to spotlight the defenders. We welcome operational talks on defense, offering attendees actionable tools, techniques, and ideas to apply in their own environments.&lt;/li>
-&lt;/ol>
-&lt;p>Not sure if Art into Science is for you? Take a peek at our &lt;a href="http://www.youtube.com/@acod-artintoscience">Youtube channel&lt;/a> to view presentations from our previous conference.&lt;/p></description><content>&lt;p>&lt;strong>ACoD: A Conference on Defense 2025&lt;/strong> is &lt;strong>HAPPENING&lt;/strong>, on September 10-11, at the &lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">Appian HQ Conference Center in Virginia&lt;/a>.&lt;/p>
-&lt;p>&lt;strong>2025 CFP Closed as of June 1!&lt;/strong>&lt;/p>
-&lt;p>ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p>
-&lt;ol>
-&lt;li>Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline. We discuss, model, and advance security concepts to facilitate this evolution.&lt;/li>
-&lt;li>Glorify the Defense: While many conferences focus on attack strategies, ACoD chooses to spotlight the defenders. We welcome operational talks on defense, offering attendees actionable tools, techniques, and ideas to apply in their own environments.&lt;/li>
-&lt;/ol>
-&lt;p>Not sure if Art into Science is for you? Take a peek at our &lt;a href="http://www.youtube.com/@acod-artintoscience">Youtube channel&lt;/a> to view presentations from our previous conference.&lt;/p>
-&lt;p>Ready to join us? A limited number of tickets are still available. Secure your spot today!&lt;/p>
-&lt;p>We can’t wait to see you at the Art into Science conference. Visit our &lt;a href="https://acod.io/schedule/">Schedule and Venue&lt;/a> page for more information about travel and the daily schedule for the conference.&lt;/p>
-&lt;p>&lt;a href="https://www.zeffy.com/en-US/ticketing/e6b8943c-d7e1-417d-8335-b3f44d6b1f8a">Get your tickets here!&lt;/a>&lt;/p>
-&lt;p>ACoD registration is only $50 but space is limited. Sign up to secure your spot!&lt;/p></content></item><item><title>Call for Presenters</title><link>https://acod.io/cfp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/cfp/</guid><description>&lt;h2 id="cfp-is-closed-as-of-june-1">CFP IS CLOSED AS OF JUNE 1!&lt;/h2>
-&lt;h2 id="submit-cfp---deadline-is-june-1">Submit CFP - Deadline is June 1&lt;/h2>
-&lt;p>The 2025 (Q1) CFP is closed as of June 1st.&lt;/p>
-&lt;h2 id="tracks">Tracks&lt;/h2>
-&lt;p>Art Into Science talk tracks are:&lt;/p>
-&lt;ol>
-&lt;li>Operations&lt;/li>
-&lt;li>Philosophical/Art Into Science&lt;/li>
-&lt;/ol>
-&lt;p>For &lt;strong>operations&lt;/strong>, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.&lt;/p></description><content>&lt;h2 id="cfp-is-closed-as-of-june-1">CFP IS CLOSED AS OF JUNE 1!&lt;/h2>
-&lt;h2 id="submit-cfp---deadline-is-june-1">Submit CFP - Deadline is June 1&lt;/h2>
-&lt;p>The 2025 (Q1) CFP is closed as of June 1st.&lt;/p>
-&lt;h2 id="tracks">Tracks&lt;/h2>
-&lt;p>Art Into Science talk tracks are:&lt;/p>
-&lt;ol>
-&lt;li>Operations&lt;/li>
-&lt;li>Philosophical/Art Into Science&lt;/li>
-&lt;/ol>
-&lt;p>For &lt;strong>operations&lt;/strong>, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.&lt;/p>
-&lt;p>For the &lt;strong>philosophical&lt;/strong> track, we invite you to share your thoughts, experiences, and propose new ideas for building our discipline. This track is unlike most other conferences in that there is a high degree of interaction expected among speakers and attendees. In fact, one of the expected outputs are documents with authorship credit that include attendees that contributed during the conference.&lt;/p>
-&lt;p>You can review some of the past talks and topics on our &lt;a href="https://www.youtube.com/channel/UC4EhrLEDYKuuwdTvGWVgiEQ">Youtube Channel&lt;/a>.&lt;/p>
-&lt;p>Some things to avoid:&lt;/p>
-&lt;ul>
-&lt;li>Stays away from statements such as “we should all use Linux” or “this wouldn’t happen if people patched their systems.”&lt;/li>
-&lt;li>Mentions of Sun Tzu are not allowed in lectures, unless they are new, previously unseen 0day quotes.&lt;/li>
-&lt;li>Purely academic topics such as: “5% faster crypto!” &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
-&lt;/ul>
-&lt;h2 id="talk-format">Talk Format&lt;/h2>
-&lt;p>Talks are 20 or 40 minutes. If requesting 40 minutes in the form, please explain why this topic can&amp;rsquo;t fit in 20 minutes. Remember the audience: there&amp;rsquo;s no need to start with the basics.&lt;/p>
-&lt;h3 id="classic-talks">Classic Talks&lt;/h3>
-&lt;p>ACoD will invite select speakers who, in our opinion, gave talks or wrote papers that defined our field, so that we can learn from their experience, as well as record them for posterity. Please submit ideas for who to invite, with contact details, if you have them, to: &lt;a href="mailto:contact@artintoscience.com">contact@artintoscience.com&lt;/a>.&lt;/p>
-&lt;h3 id="diversity">Diversity&lt;/h3>
-&lt;p>ACoD strongly believes in the power of diversity and inclusion within security. We actively encourage and warmly welcome submissions from individuals of all backgrounds, regardless of race, religion, gender, disability, age, national origin, sexual orientation, gender identity, or expression.&lt;/p>
-&lt;p>We are eager to hear from diverse voices and we sincerely hope to see these groups well-represented in our submissions.&lt;/p>
-&lt;h2 id="suggested-topics">Suggested Topics&lt;/h2>
-&lt;h3 id="operations">Operations&lt;/h3>
-&lt;p>We welcome practical defense-related topics. Offer implementable ideas, case studies, or reference implementations.&lt;/p>
-&lt;p>Topics can range from security operations, automation, research on threat actors, fraud, software development, incident response, detection engineering and much more.&lt;/p>
-&lt;h3 id="philosophicalart-into-science">Philosophical/Art Into Science&lt;/h3>
-&lt;p>The CFP for the Philosophy Track encourages submitters to consider the following to increase your chances of getting your submission accepted:&lt;/p>
-&lt;ul>
-&lt;li>Build upon other talks given in previous years.&lt;/li>
-&lt;li>Create space/opportunities for attendees to contribute to your topic. All attendees are potential contributors.&lt;/li>
-&lt;li>Orient towards a “Guide-on-the-Side” style talk over “Sage-on-the-Stage”.&lt;/li>
-&lt;li>Identify first principles.&lt;/li>
-&lt;li>Model the results, and ensure the resulting models are useful.&lt;/li>
-&lt;/ul>
-&lt;h4 id="other-more-mundane-topics-of-interest-for-the-philosophy-track">Other More Mundane Topics of Interest for the Philosophy Track&lt;/h4>
-&lt;ul>
-&lt;li>How do you hire and keep your security professionals?&lt;/li>
-&lt;li>Internal tool building. Build vs Buy. When to choose which, and why?&lt;/li>
-&lt;li>The geopolitics and legal implications of security.&lt;/li>
-&lt;li>Getting executive attention: Unlocking budget and success metrics.&lt;/li>
-&lt;li>Efficacy evaluation.&lt;/li>
-&lt;/ul>
-&lt;p>This track runs the full duration of the convention to facilitate topic discussion.&lt;/p>
-&lt;h4 id="previous-documents-that-were-created-by-attendees-include-the-following">Previous documents that were created by attendees include the following:&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a href="http://bit.ly/acod-prof">Professionalization Framework&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://bit.ly/acod-tef">Product Testing Framework&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://bit.ly/acod-hazard">Hazard Assessment Framework / Forecasting Framework&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://bit.ly/acod-near-miss">Near Misses&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>Unless it’s 10% faster crypto. That’s cool. And crypto means cryptography.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/div></content></item><item><title>Code of Conduct</title><link>https://acod.io/coc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/coc/</guid><description>&lt;h1 id="code-of-conduct">Code of Conduct&lt;/h1>
-&lt;h2 id="summary">Summary:&lt;/h2>
-&lt;p>Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media such as Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p></description><content>&lt;h1 id="code-of-conduct">Code of Conduct&lt;/h1>
-&lt;h2 id="summary">Summary:&lt;/h2>
-&lt;p>Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media such as Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p>
-&lt;h2 id="detail">Detail:&lt;/h2>
-&lt;h3 id="what-we-expect">What We Expect&lt;/h3>
-&lt;ul>
-&lt;li>Be Kind.&lt;/li>
-&lt;li>Be Respectful.&lt;/li>
-&lt;li>Be helpful and help us all improve ourselves. We do this through honest and insightful discussion with our peers and partners. Attendees may not always agree on a topic and rational discourse is encouraged, with the expectation that discourse will be thoughtful and respectful.&lt;/li>
-&lt;li>Be Ethical. Don’t intentionally mislead ACoD attendees or staff. The field of security is well known for breaking things, but the mission of ACoD is to come together to build a collaborative community of defenders. This requires trustworthy behavior and honesty.&lt;/li>
-&lt;li>Honor the information privacy and confidentiality requests of others. Do not take photos of people without first receiving their permission.&lt;/li>
-&lt;li>ACoD staff will actively enforce these standards, but won’t always see everything that occurs. We ask all attendees to take an active role in ensuring the quality and reputation of the ACoD event. If you see or experience something that you feel violates our guidelines please notify our operations team immediately either in person or by email to an ACoD staff email address as announced at the conference. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.&lt;/li>
-&lt;/ul>
-&lt;h3 id="unacceptable-behavior">Unacceptable Behavior&lt;/h3>
-&lt;ul>
-&lt;li>Penetration testing or social engineering activity targeting attendees, speakers, staff, or the conference venue.&lt;/li>
-&lt;li>Harassment, including offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.&lt;/li>
-&lt;/ul>
-&lt;h3 id="consequences">Consequences&lt;/h3>
-&lt;ul>
-&lt;li>If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.&lt;/li>
-&lt;/ul></content></item><item><title>Schedule and Venue</title><link>https://acod.io/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/schedule/</guid><description>&lt;p>Sept 10th and 11th, 2025&lt;/p>
-&lt;h1 id="venue">Venue&lt;/h1>
-&lt;p>The conference will be held at the Appian Conference Center in McLean, VA.&lt;/p>
-&lt;p>&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">7950 Jones Branch Dr McLean, VA 22102&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/appian/0039.jpg" alt="Appian">&lt;/a>&lt;/p>
-&lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;th>Location&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Residence Inn Tysons&lt;/td>
-&lt;td>(&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;key=GRP&amp;app=resvlink&lt;/a>)&lt;/td>
-&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
-&lt;td>(&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD&lt;/a>)&lt;/td>
-&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="recommended-hotels-discounted-for-acod-attendees">Recommended Hotels (Discounted for ACOD Attendees)&lt;/h1>
-&lt;h3 id="recommended-hotels-discounted-for-acod-attendees-1">Recommended hotels (Discounted for ACoD Attendees)&lt;/h3>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel&lt;/th>
-&lt;th>Address&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Residence Inn Tysons&lt;/td>
-&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
-&lt;td>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
-&lt;td>7901 Tysons One Place, Tysons, Virginia 22102&lt;/td>
-&lt;td>&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="other-hotels">Other Hotels&lt;/h3>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel Name&lt;/th>
-&lt;th>Address&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Hilton McLean Tysons Corner&lt;/td>
-&lt;td>7920 Jones Branch Dr, McLean, VA 22102 (Walking distance to conference)&lt;/td>
-&lt;td>&lt;a href="https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Courtyard Tysons McLean&lt;/td>
-&lt;td>1960-A Chain Bridge Rd, McLean, VA 22102&lt;/td>
-&lt;td>&lt;a href="https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Extended Stay America - Tysons Corner&lt;/td>
-&lt;td>8201 Old Courthouse Rd, Vienna, VA 22182.&lt;/td>
-&lt;td>&lt;a href="https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="event-summary">Event Summary&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Start Date&lt;/th>
-&lt;th>End Date&lt;/th>
-&lt;th>Last Day to Book&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>September 10, 2025&lt;/td>
-&lt;td>September 11, 2025&lt;/td>
-&lt;td>August 22, 2025&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="ops-track">Ops Track&lt;/h1>
-&lt;h2 id="day-1---september-10">Day 1 - September 10&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opener&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>8:45&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Keynote&lt;/td>
-&lt;td>Andrew Cunje&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td>
-&lt;td>Dylan Williams&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;td>10:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>The Challenges of AI Logging&lt;/td>
-&lt;td>Jeremy Snyder&lt;/td>
-&lt;td>10:15&lt;/td>
-&lt;td>11:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td>
-&lt;td>Justin Borland&lt;/td>
-&lt;td>11:00&lt;/td>
-&lt;td>11:45&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:45&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td>
-&lt;td>Towne Besel&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>JA4+ Network Fingerprints vs. Threat Actors&lt;/td>
-&lt;td>John Althouse&lt;/td>
-&lt;td>13:15&lt;/td>
-&lt;td>14:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Cloud Guardrails: A Practical Field Guide to Success&lt;/td>
-&lt;td>Adeel Khurshid&lt;/td>
-&lt;td>14:00&lt;/td>
-&lt;td>14:25&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:25&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td>
-&lt;td>Roy Gottlieb&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;td>15:05&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>FIDO2: you can too&lt;/td>
-&lt;td>Jason Craig&lt;/td>
-&lt;td>15:05&lt;/td>
-&lt;td>15:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td>
-&lt;td>Doug Britton&lt;/td>
-&lt;td>15:50&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Happy Hour&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;td>18:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="day-2---september-11">Day 2 - September 11&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opening&lt;/td>
-&lt;td>John Althouse&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td>
-&lt;td>Helen Oakley&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;td>10:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>DPRK Threats to Defense Sector&lt;/td>
-&lt;td>Daniel Gordon&lt;/td>
-&lt;td>10:00&lt;/td>
-&lt;td>10:25&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td>
-&lt;td>Roy Gottlieb&lt;/td>
-&lt;td>10:25&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch Keynote&lt;/td>
-&lt;td>Chris Inglis&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td>
-&lt;td>Naman Shah&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Where Else? Solving the CISO&amp;rsquo;s Nightmare with Nuclei at Scale&lt;/td>
-&lt;td>Rob &amp;ldquo;mubix&amp;rdquo; Fuller&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>For the Internet Points? Red Team vs Blue Team vs Threat Intel - A debate over the hard questions&lt;/td>
-&lt;td>Mubix (Red), Althouse (Blue), Stikk (TI), Malcomb (Moderator)&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;td>16:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="philosophy-track">Philosophy Track&lt;/h1>
-&lt;h2 id="day-1---september-10-1">Day 1 - September 10&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opener&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>8:45&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Keynote&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Mental Models for AI and Agentic AI&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;td>10:30&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>The Liberty Lenses: a cyber organizational risk assessment methodology&lt;/td>
-&lt;td>Amanda Draeger&lt;/td>
-&lt;td>10:30&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Does DoD Level Security Work in the Real World?&lt;/td>
-&lt;td>Jeff Man&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Improving Threat Detection Resilience&lt;/td>
-&lt;td>Augusto Barros&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Borrowed Shields: Cyber Cooperation in Crisis&lt;/td>
-&lt;td>April Lenhard&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Platform vs. Point Solution: What Are We Actually Optimizing For?&lt;/td>
-&lt;td>Valerie Z&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;td>15:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders&lt;/td>
-&lt;td>Dallas Moore&lt;/td>
-&lt;td>15:20&lt;/td>
-&lt;td>16:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Turn your SOC into Minority Report&lt;/td>
-&lt;td>Daniel Goldenberg&lt;/td>
-&lt;td>16:00&lt;/td>
-&lt;td>16:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:40&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Happy Hour&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;td>18:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="day-2---september-11-1">Day 2 - September 11&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opening&lt;/td>
-&lt;td>John Althouse&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;td>9:55&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Non-Security Metrics for Cybersecurity Assessments: Defense Edition&lt;/td>
-&lt;td>JC Herz&lt;/td>
-&lt;td>9:55&lt;/td>
-&lt;td>10:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Product Security Incident Response at a Fortune 500 SaaS&lt;/td>
-&lt;td>Garrett McNamara&lt;/td>
-&lt;td>10:35&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch Keynote&lt;/td>
-&lt;td>Chris Inglis&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb&lt;/td>
-&lt;td>April Lenhard&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>ACoD: Elevating Heroes&lt;/td>
-&lt;td>Chris Cooley&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Control Efficacy - &amp;ldquo;not a thing&amp;rdquo; but it should be!&lt;/td>
-&lt;td>Pete Lindstrom&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;td>15:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Measuring Privilege: Putting numbers to &amp;ldquo;least privilege&amp;rdquo;&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>15:15&lt;/td>
-&lt;td>15:55&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Recap of Major Themes&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>15:55&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description><content>&lt;p>Sept 10th and 11th, 2025&lt;/p>
-&lt;h1 id="venue">Venue&lt;/h1>
-&lt;p>The conference will be held at the Appian Conference Center in McLean, VA.&lt;/p>
-&lt;p>&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6">7950 Jones Branch Dr McLean, VA 22102&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/appian/0039.jpg" alt="Appian">&lt;/a>&lt;/p>
-&lt;h2 id="hotels">Hotels&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;th>Location&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Residence Inn Tysons&lt;/td>
-&lt;td>(&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;key=GRP&amp;app=resvlink&lt;/a>)&lt;/td>
-&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
-&lt;td>(&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD&lt;/a>)&lt;/td>
-&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="recommended-hotels-discounted-for-acod-attendees">Recommended Hotels (Discounted for ACOD Attendees)&lt;/h1>
-&lt;h3 id="recommended-hotels-discounted-for-acod-attendees-1">Recommended hotels (Discounted for ACoD Attendees)&lt;/h3>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel&lt;/th>
-&lt;th>Address&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Residence Inn Tysons&lt;/td>
-&lt;td>8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td>
-&lt;td>&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Hyatt Regency Tysons Corner Center&lt;/td>
-&lt;td>7901 Tysons One Place, Tysons, Virginia 22102&lt;/td>
-&lt;td>&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="other-hotels">Other Hotels&lt;/h3>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Hotel Name&lt;/th>
-&lt;th>Address&lt;/th>
-&lt;th>Booking Link&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Hilton McLean Tysons Corner&lt;/td>
-&lt;td>7920 Jones Branch Dr, McLean, VA 22102 (Walking distance to conference)&lt;/td>
-&lt;td>&lt;a href="https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Courtyard Tysons McLean&lt;/td>
-&lt;td>1960-A Chain Bridge Rd, McLean, VA 22102&lt;/td>
-&lt;td>&lt;a href="https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Extended Stay America - Tysons Corner&lt;/td>
-&lt;td>8201 Old Courthouse Rd, Vienna, VA 22182.&lt;/td>
-&lt;td>&lt;a href="https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner">Click here&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="event-summary">Event Summary&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Start Date&lt;/th>
-&lt;th>End Date&lt;/th>
-&lt;th>Last Day to Book&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>September 10, 2025&lt;/td>
-&lt;td>September 11, 2025&lt;/td>
-&lt;td>August 22, 2025&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="ops-track">Ops Track&lt;/h1>
-&lt;h2 id="day-1---september-10">Day 1 - September 10&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opener&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>8:45&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Keynote&lt;/td>
-&lt;td>Andrew Cunje&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td>
-&lt;td>Dylan Williams&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;td>10:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>The Challenges of AI Logging&lt;/td>
-&lt;td>Jeremy Snyder&lt;/td>
-&lt;td>10:15&lt;/td>
-&lt;td>11:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td>
-&lt;td>Justin Borland&lt;/td>
-&lt;td>11:00&lt;/td>
-&lt;td>11:45&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:45&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td>
-&lt;td>Towne Besel&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>JA4+ Network Fingerprints vs. Threat Actors&lt;/td>
-&lt;td>John Althouse&lt;/td>
-&lt;td>13:15&lt;/td>
-&lt;td>14:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Cloud Guardrails: A Practical Field Guide to Success&lt;/td>
-&lt;td>Adeel Khurshid&lt;/td>
-&lt;td>14:00&lt;/td>
-&lt;td>14:25&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:25&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td>
-&lt;td>Roy Gottlieb&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;td>15:05&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>FIDO2: you can too&lt;/td>
-&lt;td>Jason Craig&lt;/td>
-&lt;td>15:05&lt;/td>
-&lt;td>15:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td>
-&lt;td>Doug Britton&lt;/td>
-&lt;td>15:50&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Happy Hour&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;td>18:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="day-2---september-11">Day 2 - September 11&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opening&lt;/td>
-&lt;td>John Althouse&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td>
-&lt;td>Helen Oakley&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;td>10:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>DPRK Threats to Defense Sector&lt;/td>
-&lt;td>Daniel Gordon&lt;/td>
-&lt;td>10:00&lt;/td>
-&lt;td>10:25&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td>
-&lt;td>Roy Gottlieb&lt;/td>
-&lt;td>10:25&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch Keynote&lt;/td>
-&lt;td>Chris Inglis&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td>
-&lt;td>Naman Shah&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Where Else? Solving the CISO&amp;rsquo;s Nightmare with Nuclei at Scale&lt;/td>
-&lt;td>Rob &amp;ldquo;mubix&amp;rdquo; Fuller&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>For the Internet Points? Red Team vs Blue Team vs Threat Intel - A debate over the hard questions&lt;/td>
-&lt;td>Mubix (Red), Althouse (Blue), Stikk (TI), Malcomb (Moderator)&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;td>16:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 id="philosophy-track">Philosophy Track&lt;/h1>
-&lt;h2 id="day-1---september-10-1">Day 1 - September 10&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opener&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>8:45&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Keynote&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:40&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Mental Models for AI and Agentic AI&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>9:50&lt;/td>
-&lt;td>10:30&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>The Liberty Lenses: a cyber organizational risk assessment methodology&lt;/td>
-&lt;td>Amanda Draeger&lt;/td>
-&lt;td>10:30&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Does DoD Level Security Work in the Real World?&lt;/td>
-&lt;td>Jeff Man&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Improving Threat Detection Resilience&lt;/td>
-&lt;td>Augusto Barros&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Borrowed Shields: Cyber Cooperation in Crisis&lt;/td>
-&lt;td>April Lenhard&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Platform vs. Point Solution: What Are We Actually Optimizing For?&lt;/td>
-&lt;td>Valerie Z&lt;/td>
-&lt;td>14:40&lt;/td>
-&lt;td>15:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders&lt;/td>
-&lt;td>Dallas Moore&lt;/td>
-&lt;td>15:20&lt;/td>
-&lt;td>16:00&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Turn your SOC into Minority Report&lt;/td>
-&lt;td>Daniel Goldenberg&lt;/td>
-&lt;td>16:00&lt;/td>
-&lt;td>16:40&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:40&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Happy Hour&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;td>18:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="day-2---september-11-1">Day 2 - September 11&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Topic&lt;/th>
-&lt;th>Speaker&lt;/th>
-&lt;th>Start&lt;/th>
-&lt;th>End&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Opening&lt;/td>
-&lt;td>John Althouse&lt;/td>
-&lt;td>9:00&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transition to Tracks&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>9:10&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>9:15&lt;/td>
-&lt;td>9:55&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Non-Security Metrics for Cybersecurity Assessments: Defense Edition&lt;/td>
-&lt;td>JC Herz&lt;/td>
-&lt;td>9:55&lt;/td>
-&lt;td>10:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Product Security Incident Response at a Fortune 500 SaaS&lt;/td>
-&lt;td>Garrett McNamara&lt;/td>
-&lt;td>10:35&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch Keynote&lt;/td>
-&lt;td>Chris Inglis&lt;/td>
-&lt;td>11:10&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lunch&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>11:50&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb&lt;/td>
-&lt;td>April Lenhard&lt;/td>
-&lt;td>12:50&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>ACoD: Elevating Heroes&lt;/td>
-&lt;td>Chris Cooley&lt;/td>
-&lt;td>13:35&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Break&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>14:20&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Control Efficacy - &amp;ldquo;not a thing&amp;rdquo; but it should be!&lt;/td>
-&lt;td>Pete Lindstrom&lt;/td>
-&lt;td>14:35&lt;/td>
-&lt;td>15:15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Measuring Privilege: Putting numbers to &amp;ldquo;least privilege&amp;rdquo;&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>15:15&lt;/td>
-&lt;td>15:55&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Recap of Major Themes&lt;/td>
-&lt;td>Sounil Yu&lt;/td>
-&lt;td>15:55&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Wrap Up&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>16:35&lt;/td>
-&lt;td>16:50&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></content></item><item><title>Sponsors</title><link>https://acod.io/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/sponsors/</guid><description>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
-&lt;h1 id="venue-sponsor">Venue sponsor&lt;/h1>
-&lt;h2 id="appian">&lt;a href="https://appian.com">Appian&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://appian.com">&lt;img src="https://acod.io/img/AppianLogo.png" alt="Appian Logo">&lt;/a>&lt;/p>
-&lt;h1 id="gold-sponsors">Gold Sponsors&lt;/h1>
-&lt;h2 id="capitalone">&lt;a href="https://capitalone.com">CapitalOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/CapitalOne_Gold.png" alt="CapitalOne Logo">&lt;/a>&lt;/p>
-&lt;h2 id="intel-federal">&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">Intel Federal&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">&lt;img src="https://acod.io/img/IntelFederal_Gold.png" alt="Intel Logo">&lt;/a>&lt;/p>
-&lt;h2 id="jupiterone">&lt;a href="https://www.jupiterone.com/learn-more">JupiterOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.jupiterone.com/learn-more">&lt;img src="https://acod.io/img/JupiterOne_Gold.png" alt="JupiterOne Logo">&lt;/a>&lt;/p>
-&lt;h2 id="tachtech">&lt;a href="https://tachtech.net/">TachTech&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://tachtech.net/">&lt;img src="https://acod.io/img/TachTech_Gold.png" alt="TachTech Logo">&lt;/a>&lt;/p></description><content>&lt;p>Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p>
-&lt;h1 id="venue-sponsor">Venue sponsor&lt;/h1>
-&lt;h2 id="appian">&lt;a href="https://appian.com">Appian&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://appian.com">&lt;img src="https://acod.io/img/AppianLogo.png" alt="Appian Logo">&lt;/a>&lt;/p>
-&lt;h1 id="gold-sponsors">Gold Sponsors&lt;/h1>
-&lt;h2 id="capitalone">&lt;a href="https://capitalone.com">CapitalOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://capitalone.com">&lt;img src="https://acod.io/img/CapitalOne_Gold.png" alt="CapitalOne Logo">&lt;/a>&lt;/p>
-&lt;h2 id="intel-federal">&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">Intel Federal&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.intel.com/content/www/us/en/government/public-sector-solutions-overview.html">&lt;img src="https://acod.io/img/IntelFederal_Gold.png" alt="Intel Logo">&lt;/a>&lt;/p>
-&lt;h2 id="jupiterone">&lt;a href="https://www.jupiterone.com/learn-more">JupiterOne&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://www.jupiterone.com/learn-more">&lt;img src="https://acod.io/img/JupiterOne_Gold.png" alt="JupiterOne Logo">&lt;/a>&lt;/p>
-&lt;h2 id="tachtech">&lt;a href="https://tachtech.net/">TachTech&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://tachtech.net/">&lt;img src="https://acod.io/img/TachTech_Gold.png" alt="TachTech Logo">&lt;/a>&lt;/p></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACoD</title><link>https://acod.io/</link><description>Recent content on ACoD</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://acod.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Showcase</title><link>https://acod.io/showcase/</link><pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate><guid>https://acod.io/showcase/</guid><description>&lt;h2 id="header-2"&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;</description><content>&lt;h2 id="header-2"&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id="header-3"&gt;Header 3&lt;/h3&gt;
+&lt;p&gt;Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code&gt;odio a dignissim pharetra&lt;/code&gt;, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-css" data-lang="css"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;/* PostCSS code */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;pre&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;background&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;#1a1a1d&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;padding&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;20&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;border-radius&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;8&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;font-size&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;1&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;rem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;overflow&lt;/span&gt;: &lt;span style="color:#66d9ef"&gt;auto&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;@media&lt;/span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;(--phone)&lt;/span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;white-space&lt;/span&gt;: &lt;span style="color:#66d9ef"&gt;pre-wrap&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;word-wrap&lt;/span&gt;: &lt;span style="color:#66d9ef"&gt;break-word&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;code&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;background&lt;/span&gt;: &lt;span style="color:#66d9ef"&gt;none&lt;/span&gt; &lt;span style="color:#75715e"&gt;!important&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;color&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;#ccc&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;padding&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;font-size&lt;/span&gt;: &lt;span style="color:#66d9ef"&gt;inherit&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#960050;background-color:#1e0010"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-js" data-lang="js"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;// JS code
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;const&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;menuTrigger&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; document.&lt;span style="color:#a6e22e"&gt;querySelector&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;.menu-trigger&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;const&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;menu&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; document.&lt;span style="color:#a6e22e"&gt;querySelector&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;.menu&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;const&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;mobileQuery&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;getComputedStyle&lt;/span&gt;(document.&lt;span style="color:#a6e22e"&gt;body&lt;/span&gt;).&lt;span style="color:#a6e22e"&gt;getPropertyValue&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;--phoneWidth&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;const&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;isMobile&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; () =&amp;gt; window.&lt;span style="color:#a6e22e"&gt;matchMedia&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;mobileQuery&lt;/span&gt;).&lt;span style="color:#a6e22e"&gt;matches&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;const&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;isMobileMenu&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; () =&amp;gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;menuTrigger&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;classList&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;toggle&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style="color:#f92672"&gt;!&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;menu&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;classList&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;toggle&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;isMobileMenu&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;menuTrigger&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;addEventListener&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;click&amp;#39;&lt;/span&gt;, () =&amp;gt; &lt;span style="color:#a6e22e"&gt;menu&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;classList&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;toggle&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;window.&lt;span style="color:#a6e22e"&gt;addEventListener&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;resize&amp;#39;&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;isMobileMenu&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&amp;lt;!-- HTML code --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;&lt;span style="color:#f92672"&gt;section&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;id&lt;/span&gt;&lt;span style="color:#f92672"&gt;=&lt;/span&gt;&lt;span style="color:#e6db74"&gt;&amp;#34;main&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &amp;lt;&lt;span style="color:#f92672"&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &amp;lt;&lt;span style="color:#f92672"&gt;h1&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;id&lt;/span&gt;&lt;span style="color:#f92672"&gt;=&lt;/span&gt;&lt;span style="color:#e6db74"&gt;&amp;#34;title&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style="color:#f92672"&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {{ range .Pages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {{ .Render &amp;#34;summary&amp;#34;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &amp;lt;/&lt;span style="color:#f92672"&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;/&lt;span style="color:#f92672"&gt;section&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id="header-4"&gt;Header 4&lt;/h4&gt;
+&lt;p&gt;Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maecenas elementum vitae nibh vitae porttitor.&lt;/li&gt;
+&lt;li&gt;Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.&lt;/li&gt;
+&lt;li&gt;Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.&lt;/li&gt;
+&lt;li&gt;Etiam vitae enim quis velit lobortis placerat a ut sem.
+&lt;ul&gt;
+&lt;li&gt;Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.&lt;/li&gt;
+&lt;li&gt;Praesent fermentum orci quis leo facilisis posuere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p&gt;</content></item><item><title>About the conference</title><link>https://acod.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/about/</guid><description>&lt;h2 id="acod-goals"&gt;ACoD Goals&lt;/h2&gt;
+&lt;h3 id="push-the-art-to-a-science-creating-a-professional-discipline"&gt;Push the Art to a Science: Creating a Professional Discipline&lt;/h3&gt;
+&lt;p&gt;To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.&lt;/p&gt;
+&lt;p&gt;We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.&lt;/p&gt;
+&lt;h3 id="glorify-the-defense-tools-techniques-and-ideas-people-can-leave-the-conference-with-and-implement"&gt;Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement&lt;/h3&gt;
+&lt;p&gt;Security conferences glorify the attacker, and accept attack-oriented talks. We&amp;rsquo;d like to put defense on a pedestal and take in talks that interest us - operational talks on defense.&lt;/p&gt;</description><content>&lt;h2 id="acod-goals"&gt;ACoD Goals&lt;/h2&gt;
+&lt;h3 id="push-the-art-to-a-science-creating-a-professional-discipline"&gt;Push the Art to a Science: Creating a Professional Discipline&lt;/h3&gt;
+&lt;p&gt;To mature our practice, we need to be able to share our methodologies in a systematic and consistent way.&lt;/p&gt;
+&lt;p&gt;We have many professionals in the security industry, but do not have a professional discipline. We&amp;rsquo;d like to philosophically discuss concepts in security, push them forward, and model them.&lt;/p&gt;
+&lt;h3 id="glorify-the-defense-tools-techniques-and-ideas-people-can-leave-the-conference-with-and-implement"&gt;Glorify the Defense: Tools, Techniques, and Ideas People Can Leave the Conference with and Implement&lt;/h3&gt;
+&lt;p&gt;Security conferences glorify the attacker, and accept attack-oriented talks. We&amp;rsquo;d like to put defense on a pedestal and take in talks that interest us - operational talks on defense.&lt;/p&gt;
+&lt;p&gt;As a field, we need practitioners to offer implementable ideas and or reference implementations to reduce the amount of work that someone has to do to implement what they learn.&lt;/p&gt;
+&lt;h3 id="acod-is-a-working-conference"&gt;ACoD is a working conference&lt;/h3&gt;
+&lt;p&gt;In the &amp;ldquo;Glorify the Defense&amp;rdquo; (operations) track we will have talks of interest on various investigations and case studies on the one hand, and tools and ideas used to defend our environments on the other.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;Push the art into a science&amp;rdquo; (philosophy) track will be dedicated to working tracks, where the members introduce their own concepts, and then discuss specifics. Most importantly, finish the day with a summary that can be used to push our field into the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We want to get more out of ACoD:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Often, the best value we as attendees get out of a conference is personal relationships that form. We&amp;rsquo;d like to generate more of this value.&lt;/p&gt;
+&lt;p&gt;Some of us are introverts, some are shy. Regardless, it is hard to meet too many people in conferences, and see how we can help each other. We will work to address this by building more discussion into the agenda, such as networking opportunities, small working groups, and other similar ideas, into the DNA of how the conference will run.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Get to Know Our Convention!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Not sure if Art into Science is for you? Check out our Youtube channel below to view presentations from last year&amp;rsquo;s conference, or follow us on Twitter to stay up-to-date with the latest news from the Art into Science conference!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/@acod-artintoscience"&gt;Youtube Channel&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="conference-staff"&gt;Conference staff&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Social/Contact&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Steve Orrin&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.linkedin.com/in/sounil/"&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Valerie Zargarpur&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.linkedin.com/in/valerie-zargarpur/"&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Guillaume Ross&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.linkedin.com/in/guillaumeross/"&gt;LinkedIn&lt;/a&gt; - &lt;a href="https://irrelephant.co/@g"&gt;Mastodon&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Derek Chamorro&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.linkedin.com/in/derekchamorro/"&gt;LinkedIn&lt;/a&gt; - &lt;a href="https://infosec.exchange/@randomsec"&gt;Mastodon&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Andrew Cunje&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gadi Evron&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dan LaVoie&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.linkedin.com/in/dlavoie"&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;David Shinberg&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.linkedin.com/in/davidshinberg/"&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content></item><item><title>ACoD: A Conference on Defense</title><link>https://acod.io/posts/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/posts/hello/</guid><description>&lt;p&gt;&lt;strong&gt;ACoD: A Conference on Defense 2025&lt;/strong&gt; is &lt;strong&gt;HAPPENING&lt;/strong&gt;, on September 10-11, at the &lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6"&gt;Appian HQ Conference Center in Virginia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025 CFP Closed as of June 1!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline. We discuss, model, and advance security concepts to facilitate this evolution.&lt;/li&gt;
+&lt;li&gt;Glorify the Defense: While many conferences focus on attack strategies, ACoD chooses to spotlight the defenders. We welcome operational talks on defense, offering attendees actionable tools, techniques, and ideas to apply in their own environments.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Not sure if Art into Science is for you? Take a peek at our &lt;a href="http://www.youtube.com/@acod-artintoscience"&gt;Youtube channel&lt;/a&gt; to view presentations from our previous conference.&lt;/p&gt;</description><content>&lt;p&gt;&lt;strong&gt;ACoD: A Conference on Defense 2025&lt;/strong&gt; is &lt;strong&gt;HAPPENING&lt;/strong&gt;, on September 10-11, at the &lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6"&gt;Appian HQ Conference Center in Virginia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025 CFP Closed as of June 1!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ACoD is a working conference, with tracks that explore various investigations, case studies, and defense tools on the operations side, while philosophically pushing the boundaries of security science on the other. We’ve crafted ACoD with two key goals in mind:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Push the Art to a Science: We aim to foster a space where security methodologies are shared systematically and consistently, turning our diverse collection of professionals into a unified professional discipline. We discuss, model, and advance security concepts to facilitate this evolution.&lt;/li&gt;
+&lt;li&gt;Glorify the Defense: While many conferences focus on attack strategies, ACoD chooses to spotlight the defenders. We welcome operational talks on defense, offering attendees actionable tools, techniques, and ideas to apply in their own environments.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Not sure if Art into Science is for you? Take a peek at our &lt;a href="http://www.youtube.com/@acod-artintoscience"&gt;Youtube channel&lt;/a&gt; to view presentations from our previous conference.&lt;/p&gt;
+&lt;p&gt;Ready to join us? A limited number of tickets are still available. Secure your spot today!&lt;/p&gt;
+&lt;p&gt;We can’t wait to see you at the Art into Science conference. Visit our &lt;a href="https://acod.io/schedule/"&gt;Schedule and Venue&lt;/a&gt; page for more information about travel and the daily schedule for the conference.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.zeffy.com/en-US/ticketing/e6b8943c-d7e1-417d-8335-b3f44d6b1f8a"&gt;Get your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ACoD registration is only $50 but space is limited. Sign up to secure your spot!&lt;/p&gt;</content></item><item><title>Call for Presenters</title><link>https://acod.io/cfp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/cfp/</guid><description>&lt;h2 id="cfp-is-closed-as-of-june-1"&gt;CFP IS CLOSED AS OF JUNE 1!&lt;/h2&gt;
+&lt;h2 id="submit-cfp---deadline-is-june-1"&gt;Submit CFP - Deadline is June 1&lt;/h2&gt;
+&lt;p&gt;The 2025 (Q1) CFP is closed as of June 1st.&lt;/p&gt;
+&lt;h2 id="tracks"&gt;Tracks&lt;/h2&gt;
+&lt;p&gt;Art Into Science talk tracks are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Operations&lt;/li&gt;
+&lt;li&gt;Philosophical/Art Into Science&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For &lt;strong&gt;operations&lt;/strong&gt;, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.&lt;/p&gt;</description><content>&lt;h2 id="cfp-is-closed-as-of-june-1"&gt;CFP IS CLOSED AS OF JUNE 1!&lt;/h2&gt;
+&lt;h2 id="submit-cfp---deadline-is-june-1"&gt;Submit CFP - Deadline is June 1&lt;/h2&gt;
+&lt;p&gt;The 2025 (Q1) CFP is closed as of June 1st.&lt;/p&gt;
+&lt;h2 id="tracks"&gt;Tracks&lt;/h2&gt;
+&lt;p&gt;Art Into Science talk tracks are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Operations&lt;/li&gt;
+&lt;li&gt;Philosophical/Art Into Science&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For &lt;strong&gt;operations&lt;/strong&gt;, our audience is seasoned defense practitioners. We invite you to share your unique experience, strategies, and insights. While we encourage fresh content, we value proven methods and use-cases. We are looking for talks that are actionable and can be implemented by our audience.&lt;/p&gt;
+&lt;p&gt;For the &lt;strong&gt;philosophical&lt;/strong&gt; track, we invite you to share your thoughts, experiences, and propose new ideas for building our discipline. This track is unlike most other conferences in that there is a high degree of interaction expected among speakers and attendees. In fact, one of the expected outputs are documents with authorship credit that include attendees that contributed during the conference.&lt;/p&gt;
+&lt;p&gt;You can review some of the past talks and topics on our &lt;a href="https://www.youtube.com/channel/UC4EhrLEDYKuuwdTvGWVgiEQ"&gt;Youtube Channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some things to avoid:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stays away from statements such as “we should all use Linux” or “this wouldn’t happen if people patched their systems.”&lt;/li&gt;
+&lt;li&gt;Mentions of Sun Tzu are not allowed in lectures, unless they are new, previously unseen 0day quotes.&lt;/li&gt;
+&lt;li&gt;Purely academic topics such as: “5% faster crypto!” &lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="talk-format"&gt;Talk Format&lt;/h2&gt;
+&lt;p&gt;Talks are 20 or 40 minutes. If requesting 40 minutes in the form, please explain why this topic can&amp;rsquo;t fit in 20 minutes. Remember the audience: there&amp;rsquo;s no need to start with the basics.&lt;/p&gt;
+&lt;h3 id="classic-talks"&gt;Classic Talks&lt;/h3&gt;
+&lt;p&gt;ACoD will invite select speakers who, in our opinion, gave talks or wrote papers that defined our field, so that we can learn from their experience, as well as record them for posterity. Please submit ideas for who to invite, with contact details, if you have them, to: &lt;a href="mailto:contact@artintoscience.com"&gt;contact@artintoscience.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="diversity"&gt;Diversity&lt;/h3&gt;
+&lt;p&gt;ACoD strongly believes in the power of diversity and inclusion within security. We actively encourage and warmly welcome submissions from individuals of all backgrounds, regardless of race, religion, gender, disability, age, national origin, sexual orientation, gender identity, or expression.&lt;/p&gt;
+&lt;p&gt;We are eager to hear from diverse voices and we sincerely hope to see these groups well-represented in our submissions.&lt;/p&gt;
+&lt;h2 id="suggested-topics"&gt;Suggested Topics&lt;/h2&gt;
+&lt;h3 id="operations"&gt;Operations&lt;/h3&gt;
+&lt;p&gt;We welcome practical defense-related topics. Offer implementable ideas, case studies, or reference implementations.&lt;/p&gt;
+&lt;p&gt;Topics can range from security operations, automation, research on threat actors, fraud, software development, incident response, detection engineering and much more.&lt;/p&gt;
+&lt;h3 id="philosophicalart-into-science"&gt;Philosophical/Art Into Science&lt;/h3&gt;
+&lt;p&gt;The CFP for the Philosophy Track encourages submitters to consider the following to increase your chances of getting your submission accepted:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build upon other talks given in previous years.&lt;/li&gt;
+&lt;li&gt;Create space/opportunities for attendees to contribute to your topic. All attendees are potential contributors.&lt;/li&gt;
+&lt;li&gt;Orient towards a “Guide-on-the-Side” style talk over “Sage-on-the-Stage”.&lt;/li&gt;
+&lt;li&gt;Identify first principles.&lt;/li&gt;
+&lt;li&gt;Model the results, and ensure the resulting models are useful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="other-more-mundane-topics-of-interest-for-the-philosophy-track"&gt;Other More Mundane Topics of Interest for the Philosophy Track&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;How do you hire and keep your security professionals?&lt;/li&gt;
+&lt;li&gt;Internal tool building. Build vs Buy. When to choose which, and why?&lt;/li&gt;
+&lt;li&gt;The geopolitics and legal implications of security.&lt;/li&gt;
+&lt;li&gt;Getting executive attention: Unlocking budget and success metrics.&lt;/li&gt;
+&lt;li&gt;Efficacy evaluation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This track runs the full duration of the convention to facilitate topic discussion.&lt;/p&gt;
+&lt;h4 id="previous-documents-that-were-created-by-attendees-include-the-following"&gt;Previous documents that were created by attendees include the following:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://bit.ly/acod-prof"&gt;Professionalization Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bit.ly/acod-tef"&gt;Product Testing Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bit.ly/acod-hazard"&gt;Hazard Assessment Framework / Forecasting Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bit.ly/acod-near-miss"&gt;Near Misses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="footnotes" role="doc-endnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Unless it’s 10% faster crypto. That’s cool. And crypto means cryptography.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content></item><item><title>Code of Conduct</title><link>https://acod.io/coc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/coc/</guid><description>&lt;h1 id="code-of-conduct"&gt;Code of Conduct&lt;/h1&gt;
+&lt;h2 id="summary"&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media such as Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p&gt;</description><content>&lt;h1 id="code-of-conduct"&gt;Code of Conduct&lt;/h1&gt;
+&lt;h2 id="summary"&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;Art Into Science: A Conference on Defense was founded to enable infosec defenders to share and discuss methodologies in a systematic and consistent way advancing the field of security defense. This requires trustworthy behavior and honesty. Art Into Science is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media such as Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p&gt;
+&lt;h2 id="detail"&gt;Detail:&lt;/h2&gt;
+&lt;h3 id="what-we-expect"&gt;What We Expect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Be Kind.&lt;/li&gt;
+&lt;li&gt;Be Respectful.&lt;/li&gt;
+&lt;li&gt;Be helpful and help us all improve ourselves. We do this through honest and insightful discussion with our peers and partners. Attendees may not always agree on a topic and rational discourse is encouraged, with the expectation that discourse will be thoughtful and respectful.&lt;/li&gt;
+&lt;li&gt;Be Ethical. Don’t intentionally mislead ACoD attendees or staff. The field of security is well known for breaking things, but the mission of ACoD is to come together to build a collaborative community of defenders. This requires trustworthy behavior and honesty.&lt;/li&gt;
+&lt;li&gt;Honor the information privacy and confidentiality requests of others. Do not take photos of people without first receiving their permission.&lt;/li&gt;
+&lt;li&gt;ACoD staff will actively enforce these standards, but won’t always see everything that occurs. We ask all attendees to take an active role in ensuring the quality and reputation of the ACoD event. If you see or experience something that you feel violates our guidelines please notify our operations team immediately either in person or by email to an ACoD staff email address as announced at the conference. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="unacceptable-behavior"&gt;Unacceptable Behavior&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Penetration testing or social engineering activity targeting attendees, speakers, staff, or the conference venue.&lt;/li&gt;
+&lt;li&gt;Harassment, including offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="consequences"&gt;Consequences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.&lt;/li&gt;
+&lt;/ul&gt;</content></item><item><title>Schedule and Venue</title><link>https://acod.io/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/schedule/</guid><description>&lt;p&gt;Sept 10th and 11th, 2025&lt;/p&gt;
+&lt;h1 id="venue"&gt;Venue&lt;/h1&gt;
+&lt;p&gt;The conference will be held at the Appian Conference Center in McLean, VA.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6"&gt;7950 Jones Branch Dr McLean, VA 22102&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://capitalone.com"&gt;&lt;img src="https://acod.io/img/appian/0039.jpg" alt="Appian"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="hotels"&gt;Hotels&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hotel&lt;/th&gt;
+&lt;th&gt;Booking Link&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Residence Inn Tysons&lt;/td&gt;
+&lt;td&gt;(&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink"&gt;https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;key=GRP&amp;app=resvlink&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hyatt Regency Tysons Corner Center&lt;/td&gt;
+&lt;td&gt;(&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD"&gt;https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id="recommended-hotels-discounted-for-acod-attendees"&gt;Recommended Hotels (Discounted for ACOD Attendees)&lt;/h1&gt;
+&lt;h3 id="recommended-hotels-discounted-for-acod-attendees-1"&gt;Recommended hotels (Discounted for ACoD Attendees)&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hotel&lt;/th&gt;
+&lt;th&gt;Address&lt;/th&gt;
+&lt;th&gt;Booking Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Residence Inn Tysons&lt;/td&gt;
+&lt;td&gt;8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hyatt Regency Tysons Corner Center&lt;/td&gt;
+&lt;td&gt;7901 Tysons One Place, Tysons, Virginia 22102&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="other-hotels"&gt;Other Hotels&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hotel Name&lt;/th&gt;
+&lt;th&gt;Address&lt;/th&gt;
+&lt;th&gt;Booking Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hilton McLean Tysons Corner&lt;/td&gt;
+&lt;td&gt;7920 Jones Branch Dr, McLean, VA 22102 (Walking distance to conference)&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Courtyard Tysons McLean&lt;/td&gt;
+&lt;td&gt;1960-A Chain Bridge Rd, McLean, VA 22102&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Extended Stay America - Tysons Corner&lt;/td&gt;
+&lt;td&gt;8201 Old Courthouse Rd, Vienna, VA 22182.&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="event-summary"&gt;Event Summary&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start Date&lt;/th&gt;
+&lt;th&gt;End Date&lt;/th&gt;
+&lt;th&gt;Last Day to Book&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;September 10, 2025&lt;/td&gt;
+&lt;td&gt;September 11, 2025&lt;/td&gt;
+&lt;td&gt;August 22, 2025&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id="ops-track"&gt;Ops Track&lt;/h1&gt;
+&lt;h2 id="day-1---september-10"&gt;Day 1 - September 10&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opener&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;8:45&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Keynote&lt;/td&gt;
+&lt;td&gt;Andrew Cunje&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td&gt;
+&lt;td&gt;Dylan Williams&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;td&gt;10:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Challenges of AI Logging&lt;/td&gt;
+&lt;td&gt;Jeremy Snyder&lt;/td&gt;
+&lt;td&gt;10:15&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td&gt;
+&lt;td&gt;Justin Borland&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;11:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:45&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td&gt;
+&lt;td&gt;Towne Besel&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;JA4+ Network Fingerprints vs. Threat Actors&lt;/td&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cloud Guardrails: A Practical Field Guide to Success&lt;/td&gt;
+&lt;td&gt;Adeel Khurshid&lt;/td&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;14:25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:25&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td&gt;
+&lt;td&gt;Roy Gottlieb&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;td&gt;15:05&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FIDO2: you can too&lt;/td&gt;
+&lt;td&gt;Jason Craig&lt;/td&gt;
+&lt;td&gt;15:05&lt;/td&gt;
+&lt;td&gt;15:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td&gt;
+&lt;td&gt;Doug Britton&lt;/td&gt;
+&lt;td&gt;15:50&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Happy Hour&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;td&gt;18:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="day-2---september-11"&gt;Day 2 - September 11&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opening&lt;/td&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td&gt;
+&lt;td&gt;Helen Oakley&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DPRK Threats to Defense Sector&lt;/td&gt;
+&lt;td&gt;Daniel Gordon&lt;/td&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;10:25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td&gt;
+&lt;td&gt;Roy Gottlieb&lt;/td&gt;
+&lt;td&gt;10:25&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch Keynote&lt;/td&gt;
+&lt;td&gt;Chris Inglis&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td&gt;
+&lt;td&gt;Naman Shah&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Where Else? Solving the CISO&amp;rsquo;s Nightmare with Nuclei at Scale&lt;/td&gt;
+&lt;td&gt;Rob &amp;ldquo;mubix&amp;rdquo; Fuller&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;For the Internet Points? Red Team vs Blue Team vs Threat Intel - A debate over the hard questions&lt;/td&gt;
+&lt;td&gt;Mubix (Red), Althouse (Blue), Stikk (TI), Malcomb (Moderator)&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;td&gt;16:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id="philosophy-track"&gt;Philosophy Track&lt;/h1&gt;
+&lt;h2 id="day-1---september-10-1"&gt;Day 1 - September 10&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opener&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;8:45&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Keynote&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mental Models for AI and Agentic AI&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Liberty Lenses: a cyber organizational risk assessment methodology&lt;/td&gt;
+&lt;td&gt;Amanda Draeger&lt;/td&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Does DoD Level Security Work in the Real World?&lt;/td&gt;
+&lt;td&gt;Jeff Man&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Improving Threat Detection Resilience&lt;/td&gt;
+&lt;td&gt;Augusto Barros&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Borrowed Shields: Cyber Cooperation in Crisis&lt;/td&gt;
+&lt;td&gt;April Lenhard&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Platform vs. Point Solution: What Are We Actually Optimizing For?&lt;/td&gt;
+&lt;td&gt;Valerie Z&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;td&gt;15:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders&lt;/td&gt;
+&lt;td&gt;Dallas Moore&lt;/td&gt;
+&lt;td&gt;15:20&lt;/td&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Turn your SOC into Minority Report&lt;/td&gt;
+&lt;td&gt;Daniel Goldenberg&lt;/td&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;td&gt;16:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:40&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Happy Hour&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;td&gt;18:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="day-2---september-11-1"&gt;Day 2 - September 11&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opening&lt;/td&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;td&gt;9:55&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Non-Security Metrics for Cybersecurity Assessments: Defense Edition&lt;/td&gt;
+&lt;td&gt;JC Herz&lt;/td&gt;
+&lt;td&gt;9:55&lt;/td&gt;
+&lt;td&gt;10:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Product Security Incident Response at a Fortune 500 SaaS&lt;/td&gt;
+&lt;td&gt;Garrett McNamara&lt;/td&gt;
+&lt;td&gt;10:35&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch Keynote&lt;/td&gt;
+&lt;td&gt;Chris Inglis&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb&lt;/td&gt;
+&lt;td&gt;April Lenhard&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ACoD: Elevating Heroes&lt;/td&gt;
+&lt;td&gt;Chris Cooley&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control Efficacy - &amp;ldquo;not a thing&amp;rdquo; but it should be!&lt;/td&gt;
+&lt;td&gt;Pete Lindstrom&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;td&gt;15:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Measuring Privilege: Putting numbers to &amp;ldquo;least privilege&amp;rdquo;&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;15:15&lt;/td&gt;
+&lt;td&gt;15:55&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Recap of Major Themes&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;15:55&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description><content>&lt;p&gt;Sept 10th and 11th, 2025&lt;/p&gt;
+&lt;h1 id="venue"&gt;Venue&lt;/h1&gt;
+&lt;p&gt;The conference will be held at the Appian Conference Center in McLean, VA.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maps.app.goo.gl/jNwJgt44pLnw3dZa6"&gt;7950 Jones Branch Dr McLean, VA 22102&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://capitalone.com"&gt;&lt;img src="https://acod.io/img/appian/0039.jpg" alt="Appian"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="hotels"&gt;Hotels&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hotel&lt;/th&gt;
+&lt;th&gt;Booking Link&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Residence Inn Tysons&lt;/td&gt;
+&lt;td&gt;(&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink"&gt;https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;key=GRP&amp;app=resvlink&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hyatt Regency Tysons Corner Center&lt;/td&gt;
+&lt;td&gt;(&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD"&gt;https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id="recommended-hotels-discounted-for-acod-attendees"&gt;Recommended Hotels (Discounted for ACOD Attendees)&lt;/h1&gt;
+&lt;h3 id="recommended-hotels-discounted-for-acod-attendees-1"&gt;Recommended hotels (Discounted for ACoD Attendees)&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hotel&lt;/th&gt;
+&lt;th&gt;Address&lt;/th&gt;
+&lt;th&gt;Booking Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Residence Inn Tysons&lt;/td&gt;
+&lt;td&gt;8400 Old Courthouse Road Vienna, Virginia, USA, 22182&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1755536512148&amp;amp;key=GRP&amp;amp;app=resvlink"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hyatt Regency Tysons Corner Center&lt;/td&gt;
+&lt;td&gt;7901 Tysons One Place, Tysons, Virginia 22102&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.hyatt.com/en-US/group-booking/IADRT/G-ACOD"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="other-hotels"&gt;Other Hotels&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hotel Name&lt;/th&gt;
+&lt;th&gt;Address&lt;/th&gt;
+&lt;th&gt;Booking Link&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hilton McLean Tysons Corner&lt;/td&gt;
+&lt;td&gt;7920 Jones Branch Dr, McLean, VA 22102 (Walking distance to conference)&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.hilton.com/en/hotels/mclmhhh-hilton-mclean-tysons-corner/"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Courtyard Tysons McLean&lt;/td&gt;
+&lt;td&gt;1960-A Chain Bridge Rd, McLean, VA 22102&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.marriott.com/en-us/hotels/wastn-courtyard-tysons-mclean/overview/"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Extended Stay America - Tysons Corner&lt;/td&gt;
+&lt;td&gt;8201 Old Courthouse Rd, Vienna, VA 22182.&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.extendedstayamerica.com/hotels/dc/washington-dc/tysons-corner"&gt;Click here&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="event-summary"&gt;Event Summary&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start Date&lt;/th&gt;
+&lt;th&gt;End Date&lt;/th&gt;
+&lt;th&gt;Last Day to Book&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;September 10, 2025&lt;/td&gt;
+&lt;td&gt;September 11, 2025&lt;/td&gt;
+&lt;td&gt;August 22, 2025&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id="ops-track"&gt;Ops Track&lt;/h1&gt;
+&lt;h2 id="day-1---september-10"&gt;Day 1 - September 10&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opener&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;8:45&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Keynote&lt;/td&gt;
+&lt;td&gt;Andrew Cunje&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LLMs as a Force Multiplier: Practical Patterns for Security Teams&lt;/td&gt;
+&lt;td&gt;Dylan Williams&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;td&gt;10:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Challenges of AI Logging&lt;/td&gt;
+&lt;td&gt;Jeremy Snyder&lt;/td&gt;
+&lt;td&gt;10:15&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DFIR-as-Code: Scaling Incident Response Beyond Human Limits&lt;/td&gt;
+&lt;td&gt;Justin Borland&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;11:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:45&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ghosts In The Wild: Hunting the Unseen in the Internet Noise&lt;/td&gt;
+&lt;td&gt;Towne Besel&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;JA4+ Network Fingerprints vs. Threat Actors&lt;/td&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cloud Guardrails: A Practical Field Guide to Success&lt;/td&gt;
+&lt;td&gt;Adeel Khurshid&lt;/td&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;14:25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:25&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CHA vs. PTA: A Defender&amp;rsquo;s Guide to Smarter Static Analysis&lt;/td&gt;
+&lt;td&gt;Roy Gottlieb&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;td&gt;15:05&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FIDO2: you can too&lt;/td&gt;
+&lt;td&gt;Jason Craig&lt;/td&gt;
+&lt;td&gt;15:05&lt;/td&gt;
+&lt;td&gt;15:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stopping the Next Zero Day: Taking ROP Attacks Off the Table&lt;/td&gt;
+&lt;td&gt;Doug Britton&lt;/td&gt;
+&lt;td&gt;15:50&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Happy Hour&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;td&gt;18:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="day-2---september-11"&gt;Day 2 - September 11&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opening&lt;/td&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AIBOM: Powering Transparency and Security in AI and Software Supply Chains&lt;/td&gt;
+&lt;td&gt;Helen Oakley&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DPRK Threats to Defense Sector&lt;/td&gt;
+&lt;td&gt;Daniel Gordon&lt;/td&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;10:25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense&lt;/td&gt;
+&lt;td&gt;Roy Gottlieb&lt;/td&gt;
+&lt;td&gt;10:25&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch Keynote&lt;/td&gt;
+&lt;td&gt;Chris Inglis&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Threats Don’t Wait—Neither Should You! Automating Threat Response&lt;/td&gt;
+&lt;td&gt;Naman Shah&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Where Else? Solving the CISO&amp;rsquo;s Nightmare with Nuclei at Scale&lt;/td&gt;
+&lt;td&gt;Rob &amp;ldquo;mubix&amp;rdquo; Fuller&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;For the Internet Points? Red Team vs Blue Team vs Threat Intel - A debate over the hard questions&lt;/td&gt;
+&lt;td&gt;Mubix (Red), Althouse (Blue), Stikk (TI), Malcomb (Moderator)&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;td&gt;16:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id="philosophy-track"&gt;Philosophy Track&lt;/h1&gt;
+&lt;h2 id="day-1---september-10-1"&gt;Day 1 - September 10&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opener&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;8:45&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Keynote&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mental Models for AI and Agentic AI&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;9:50&lt;/td&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Liberty Lenses: a cyber organizational risk assessment methodology&lt;/td&gt;
+&lt;td&gt;Amanda Draeger&lt;/td&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Does DoD Level Security Work in the Real World?&lt;/td&gt;
+&lt;td&gt;Jeff Man&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Improving Threat Detection Resilience&lt;/td&gt;
+&lt;td&gt;Augusto Barros&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Borrowed Shields: Cyber Cooperation in Crisis&lt;/td&gt;
+&lt;td&gt;April Lenhard&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Platform vs. Point Solution: What Are We Actually Optimizing For?&lt;/td&gt;
+&lt;td&gt;Valerie Z&lt;/td&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;td&gt;15:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders&lt;/td&gt;
+&lt;td&gt;Dallas Moore&lt;/td&gt;
+&lt;td&gt;15:20&lt;/td&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Turn your SOC into Minority Report&lt;/td&gt;
+&lt;td&gt;Daniel Goldenberg&lt;/td&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;td&gt;16:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:40&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Happy Hour&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;td&gt;18:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="day-2---september-11-1"&gt;Day 2 - September 11&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Opening&lt;/td&gt;
+&lt;td&gt;John Althouse&lt;/td&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Transition to Tracks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;9:15&lt;/td&gt;
+&lt;td&gt;9:55&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Non-Security Metrics for Cybersecurity Assessments: Defense Edition&lt;/td&gt;
+&lt;td&gt;JC Herz&lt;/td&gt;
+&lt;td&gt;9:55&lt;/td&gt;
+&lt;td&gt;10:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Product Security Incident Response at a Fortune 500 SaaS&lt;/td&gt;
+&lt;td&gt;Garrett McNamara&lt;/td&gt;
+&lt;td&gt;10:35&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch Keynote&lt;/td&gt;
+&lt;td&gt;Chris Inglis&lt;/td&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;11:50&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb&lt;/td&gt;
+&lt;td&gt;April Lenhard&lt;/td&gt;
+&lt;td&gt;12:50&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ACoD: Elevating Heroes&lt;/td&gt;
+&lt;td&gt;Chris Cooley&lt;/td&gt;
+&lt;td&gt;13:35&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control Efficacy - &amp;ldquo;not a thing&amp;rdquo; but it should be!&lt;/td&gt;
+&lt;td&gt;Pete Lindstrom&lt;/td&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;td&gt;15:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Measuring Privilege: Putting numbers to &amp;ldquo;least privilege&amp;rdquo;&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;15:15&lt;/td&gt;
+&lt;td&gt;15:55&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Recap of Major Themes&lt;/td&gt;
+&lt;td&gt;Sounil Yu&lt;/td&gt;
+&lt;td&gt;15:55&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wrap Up&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;16:35&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content></item><item><title>Sponsors</title><link>https://acod.io/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://acod.io/sponsors/</guid><description>&lt;p&gt;Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p&gt;
+&lt;h1 id="venue-sponsor"&gt;Venue sponsor&lt;/h1&gt;
+&lt;h2 id="appian"&gt;&lt;a href="https://appian.com"&gt;Appian&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://appian.com"&gt;&lt;img src="https://acod.io/img/AppianLogo.png" alt="Appian Logo"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="snowflake"&gt;&lt;a href="https://snowflake.com"&gt;Snowflake&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://snowflake.com"&gt;&lt;img src="https://acod.io/img/SnowflakeLogo.jpg" alt="Snowflake Logo"&gt;&lt;/a&gt;&lt;/p&gt;</description><content>&lt;p&gt;Art Into Science would not be possible without the generous contributions from our sponsors.&lt;/p&gt;
+&lt;h1 id="venue-sponsor"&gt;Venue sponsor&lt;/h1&gt;
+&lt;h2 id="appian"&gt;&lt;a href="https://appian.com"&gt;Appian&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://appian.com"&gt;&lt;img src="https://acod.io/img/AppianLogo.png" alt="Appian Logo"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="snowflake"&gt;&lt;a href="https://snowflake.com"&gt;Snowflake&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://snowflake.com"&gt;&lt;img src="https://acod.io/img/SnowflakeLogo.jpg" alt="Snowflake Logo"&gt;&lt;/a&gt;&lt;/p&gt;</content></item></channel></rss>
