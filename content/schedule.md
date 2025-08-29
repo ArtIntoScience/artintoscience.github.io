@@ -96,7 +96,7 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Does DoD Level Security Work in the Real World?                                                   | Jeff Man          | 11:10 | 11:50 | 
 | Lunch                                                                                             |                   | 11:50 | 12:50 | 
 | Improving Threat Detection Resilience                                                             | Augusto Barros    | 12:50 | 13:35 | 
-| Borrowed Shields: Cyber Cooperation in Crisis                                                     | April Lenhard     | 13:35 | 14:20 | 
+| Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb | April Lenhard     | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:40 | 
 | Platform vs. Point Solution: What Are We Actually Optimizing For?                                 | Valerie Z         | 14:40 | 15:20 | 
 | The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders    | Dallas Moore      | 15:20 | 16:00 | 
@@ -115,10 +115,10 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 10:35 | 11:10 | 
 | Lunch Keynote                                                                                     | Chris Inglis      | 11:10 | 11:50 | 
 | Lunch                                                                                             |                   | 11:50 | 12:50 | 
-| Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb | April Lenhard     | 12:50 | 13:35 | 
+| Control Efficacy - "not a thing" but it should be!                                                | Pete Lindstrom    | 12:50 | 13:35 | 
 | ACoD: Elevating Heroes                                                                            | Chris Cooley      | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:35 | 
-| Control Efficacy - "not a thing" but it should be!                                                | Pete Lindstrom    | 14:35 | 15:15 | 
+| TBD                                                                                               | Chip Block        | 14:35 | 15:15 | 
 | Measuring Privilege: Putting numbers to "least privilege"                                         | Sounil Yu         | 15:15 | 15:55 | 
 | Recap of Major Themes                                                                             | Sounil Yu         | 15:55 | 16:35 |
 | Wrap Up                                                                                           |                   | 16:35 | 16:50 | 
