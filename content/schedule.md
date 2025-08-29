@@ -98,9 +98,9 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Improving Threat Detection Resilience                                                             | Augusto Barros    | 12:50 | 13:35 | 
 | Borrowed Shields: Cyber Cooperation in Crisis                                                     | April Lenhard     | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:40 | 
-| Platform vs. Point Solution: What Are We Actually Optimizing For?                                 | Valerie Z         | 14:40 | 15:20 | 
+| Turn your SOC into Minority Report                                                                | Daniel Goldenberg | 14:40 | 15:20 | 
 | The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders    | Dallas Moore      | 15:20 | 16:00 | 
-| Turn your SOC into Minority Report                                                                | Daniel Goldenberg | 16:00 | 16:40 | 
+| Platform vs. Point Solution: What Are We Actually Optimizing For?                                 | Valerie Z         | 16:00 | 16:40 | 
 | Wrap Up                                                                                           |                   | 16:40 | 16:50 | 
 | Happy Hour                                                                                        |                   | 16:50 | 18:50 | 
 
