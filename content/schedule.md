@@ -96,7 +96,7 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Does DoD Level Security Work in the Real World?                                                   | Jeff Man          | 11:10 | 11:50 | 
 | Lunch                                                                                             |                   | 11:50 | 12:50 | 
 | Improving Threat Detection Resilience                                                             | Augusto Barros    | 12:50 | 13:35 | 
-| Borrowed Shields: Cyber Cooperation in Crisis                                                     | April Lenhard     | 13:35 | 14:20 | 
+| Embracing Your Villain Era. Or: How Teaching CTI Has Taught Me To Stop Worrying and Love The Bomb | April Lenhard     | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:40 | 
 | Turn your SOC into Minority Report                                                                | Daniel Goldenberg | 14:40 | 15:20 | 
 | The Long and Winding Road: Communication Frameworks for Threat Hunters and Incident Responders    | Dallas Moore      | 15:20 | 16:00 | 
