@@ -47,7 +47,7 @@ Recommended Hotels (Discounted for ACOD Attendees)
 
 | Topic                                                             | Speaker            | Start | End   |
 | ------------------------------------------------------------------| ------------------ | ----- | ----- | 
-| Opener                                                            | Sounil Yu          | 8:45  | 9:00  | 
+| Opening                                                           | Sounil Yu          | 8:45  | 9:00  | 
 | Keynote                                                           | Andrew Cunje       | 9:00  | 9:40  | 
 | Transition to Tracks                                              |                    | 9:40  | 9:50  | 
 | LLMs as a Force Multiplier: Practical Patterns for Security Teams | Dylan Williams     | 9:50  | 10:15 | 
@@ -88,8 +88,8 @@ Recommended Hotels (Discounted for ACOD Attendees)
 
 | Topic                                                                                             | Speaker           | Start | End   | 
 | ------------------------------------------------------------------------------------------------- | ----------------- | ----- | ----- | 
-| Opener                                                                                            |                   | 8:45  | 9:00  | 
-| Keynote                                                                                           |                   | 9:00  | 9:40  | 
+| Opening                                                                                           | Sounil Yu         | 8:45  | 9:00  | 
+| Keynote                                                                                           | Andrew Cunje      | 9:00  | 9:40  | 
 | Transition to Tracks                                                                              |                   | 9:40  | 9:50  | 
 | Mental Models for AI and Agentic AI                                                               | Sounil Yu         | 9:50  | 10:30 | 
 | The Liberty Lenses: a cyber organizational risk assessment methodology                            | Amanda Draeger    | 10:30 | 11:10 | 
@@ -118,7 +118,7 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Control Efficacy - "not a thing" but it should be!                                                | Pete Lindstrom    | 12:50 | 13:35 | 
 | ACoD: Elevating Heroes                                                                            | Chris Cooley      | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:35 | 
-| TBD                                                                                               | Chip Block        | 14:35 | 15:15 | 
+| "Its the Economics Stupid", How The AI Economics Will Change Cybersecurity                        | Chip Block        | 14:35 | 15:15 | 
 | Measuring Privilege: Putting numbers to "least privilege"                                         | Sounil Yu         | 15:15 | 15:55 | 
 | Recap of Major Themes                                                                             | Sounil Yu         | 15:55 | 16:35 |
 | Wrap Up                                                                                           |                   | 16:35 | 16:50 | 
