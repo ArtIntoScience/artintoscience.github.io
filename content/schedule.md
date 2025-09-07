@@ -69,8 +69,8 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Topic                                                                     | Speaker            | Start | End   | 
 | --------------------------------------------------------------------------|------------------- | ----- | ----- | 
 | Opening                                                                   | John Althouse      | 9:00  | 9:10  | 
-| Transition to Tracks                                                      |                    | 9:10  | 9:15  | 
-| AIBOM: Powering Transparency and Security in AI and Software Supply Chains| Helen Oakley       | 9:15  | 10:00 | 
+| Keynote                                                                   | Richard Thieme     | 9:10  | 9:50  | 
+| Transition to Tracks                                                      |                    | 9:50  | 10:00 | 
 | DPRK Threats to Defense Sector                                            | Daniel Gordon      | 10:00 | 10:25 | 
 | Unseen in the Stack: Mapping Hidden Dependencies for Operational Defense  | Roy Gottlieb       | 10:25 | 11:10 | 
 | Lunch Keynote                                                             | Chris Inglis       | 11:10 | 11:50 | 
@@ -109,16 +109,17 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Topic                                                                                             | Speaker           | Start | End   |  
 | ------------------------------------------------------------------------------------------------- | ----------------- | ----- | ----- | 
 | Opening                                                                                           | John Althouse     | 9:00  | 9:10  | 
-| Transition to Tracks                                                                              |                   | 9:10  | 9:15  | 
-| Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI                  | Sounil Yu         | 9:15  | 9:55 | 
-| Non-Security Metrics for Cybersecurity Assessments: Defense Edition                               | JC Herz           | 9:55  | 10:35 | 
-| Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 10:35 | 11:10 | 
+| Keynote                                                                                           | Richard Thieme    | 9:10  | 9:50  | 
+| Transition to Tracks                                                                              |                   | 9:50  | 10:00 |
+| Non-Security Metrics for Cybersecurity Assessments: Defense Edition                               | JC Herz           | 10:00 | 10:35 | 
+| Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 10:35 | 11:05 | 
+| Transition to Lunch Keynote                                                                       |                   | 11:05 | 11:10 |
 | Lunch Keynote                                                                                     | Chris Inglis      | 11:10 | 11:50 | 
 | Lunch                                                                                             |                   | 11:50 | 12:50 | 
 | Control Efficacy - "not a thing" but it should be!                                                | Pete Lindstrom    | 12:50 | 13:35 | 
 | ACoD: Elevating Heroes                                                                            | Chris Cooley      | 13:35 | 14:20 | 
 | Break                                                                                             |                   | 14:20 | 14:35 | 
 | "Its the Economics Stupid", How The AI Economics Will Change Cybersecurity                        | Chip Block        | 14:35 | 15:15 | 
-| Measuring Privilege: Putting numbers to "least privilege"                                         | Sounil Yu         | 15:15 | 15:55 | 
+| Diseconomies of Scale: Re-examining our assumptions about scale in the Age of AI                  | Sounil Yu         | 15:15 | 15:55 | 
 | Recap of Major Themes                                                                             | Sounil Yu         | 15:55 | 16:35 |
 | Wrap Up                                                                                           |                   | 16:35 | 16:50 | 
