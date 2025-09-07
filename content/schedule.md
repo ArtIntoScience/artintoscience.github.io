@@ -109,7 +109,7 @@ Recommended Hotels (Discounted for ACOD Attendees)
 | Topic                                                                                             | Speaker           | Start | End   |  
 | ------------------------------------------------------------------------------------------------- | ----------------- | ----- | ----- | 
 | Opening                                                                                           | John Althouse     | 9:00  | 9:10  | 
-| Keynote                                                                                           | Richard Thieme    | 9:10  | 9:50  | 
+| Keynote: Thinking Like a Hacker in the Age of AI                                                  | Richard Thieme    | 9:10  | 9:50  | 
 | Transition to Tracks                                                                              |                   | 9:50  | 10:00 |
 | Non-Security Metrics for Cybersecurity Assessments: Defense Edition                               | JC Herz           | 10:00 | 10:35 | 
 | Product Security Incident Response at a Fortune 500 SaaS                                          | Garrett McNamara  | 10:35 | 11:05 | 
